@@ -2,12 +2,12 @@
 layout: module
 title: The Building Blocks
 type: lecture
-draft: 0
+draft: 1
 num: 3
 show_schedule: 1
 description:
   - Variables, operators, data types, and built-in functions
-due_date: 2020-09-21
+due_date: 2021-09-27
 quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/122779
 slides:
   - url: https://docs.google.com/presentation/d/1CyzjjjCYtUxCPWFem1hgkgK2Zdv1losXs1A6DzWfD-8/edit?usp=sharing
@@ -55,7 +55,7 @@ extras:
 exercise_url: "lecture03.zip"
 ---
 
-<img class="module-image" src="/fall2020/assets/images/lectures/lecture_02_blocks.jpg" />Python (and all programmming languages) are made up of very small "words" (like nouns and verbs) that can be composed into meaningful "sentances" (i.e. code blocks that do something useful). Today we are going to review some of the basic building blocks of code, including data types, operators, and variables.<br><br>In addition to the lectures and videos, there are also some sample python files that you will need to download and run (using IDLE). If, for any reason, you are having trouble installing IDLE (instructions can be found in the first part of [homework 1](../assignments/hw1)), reach out to your TA or sign-up for an office hours session. Please keep your files organized (as explained in hw01). I recommend a folder structure like this:
+<img class="module-image" src="/fall2021/assets/images/lectures/lecture_02_blocks.jpg" />Python (and all programmming languages) are made up of very small "words" (like nouns and verbs) that can be composed into meaningful "sentances" (i.e. code blocks that do something useful). Today we are going to review some of the basic building blocks of code, including data types, operators, and variables.<br><br>In addition to the lectures and videos, there are also some sample python files that you will need to download and run (using IDLE). If, for any reason, you are having trouble installing IDLE (instructions can be found in the first part of [homework 1](../assignments/hw1)), reach out to your TA or sign-up for an office hours session. Please keep your files organized (as explained in hw01). I recommend a folder structure like this:
 
 ```
 cs110

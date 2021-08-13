@@ -7,8 +7,8 @@ description:
     - What is software?
     - What are some "real world" analogies?
 num: 2
-draft: 0
-due_date: 2020-09-18
+draft: 1
+due_date: 2021-09-24
 slides:
    - url: https://docs.google.com/presentation/d/1VnpgPgCzho_HOOOBZ0RI1D7a6xNXk95PdM7T6YdqYp0/edit?usp=sharing
      title: Intro to Hardware & Software

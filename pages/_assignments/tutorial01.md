@@ -3,13 +3,13 @@ layout: assignment-two-column
 title: Get Python Running
 type: tutorial
 abbreviation: Tutorial 1
-draft: 0
+draft: 1
 points: 3
 num: 2
 description: 
     - Installing Python3 & IDLE
     - Writing your first programs
-due_date: 2020-09-23
+due_date: 2021-09-29
 ---
 
 **Reminder:** Everyone must sign up for a tutorial slot <a href="https://docs.google.com/spreadsheets/d/1twZ2NDfyu0jVgvb4SMS2Cd9KEwwcPN0BZvLg0XMJuh8/edit#gid=0" target="_blank">here</a>. 

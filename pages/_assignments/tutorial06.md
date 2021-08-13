@@ -3,14 +3,14 @@ layout: assignment-two-column
 title: Event Handlers
 type: tutorial
 abbreviation: Tutorial 6
-draft: 0
+draft: 1
 num: 4
 points: 3
-due_date: 2020-10-28
+due_date: 2021-11-03
     
 ---
 
-<a class="nu-button" href="/fall2020/course-files/tutorials/tutorial06.zip" target="_blank">
+<a class="nu-button" href="/fall2021/course-files/tutorials/tutorial06.zip" target="_blank">
     Tutorial Starter Files <i class="fas fa-download"></i>
 </a> 
 

@@ -4,9 +4,9 @@ title: "Quiz 2"
 description:
     - Quiz 2 of 3 (using the Lockdown Browser)
 type: quiz
-draft: 0
+draft: 1
 num: 2
-due_date: 2020-10-26
+due_date: 2021-11-01
 ---
 
 ## QUIZ 2 LINK NOW POSTED

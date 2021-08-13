@@ -2,7 +2,7 @@
 layout: module
 title: "More Practice: While Loops & If Statements"
 type: lecture
-draft: 0
+draft: 1
 points: 4
 num: 13
 description:
@@ -11,7 +11,7 @@ description:
 slides: 
    - title: "Supplementary Slides for Live Lecture"
      url: https://docs.google.com/presentation/d/1Q25E7tk0wX5hFPdEHELz7eWcXtgxmNTpaq4mSpKtxUU/edit?usp=sharing
-due_date: 2020-10-16
+due_date: 2021-10-22
 exercise_url: "lecture13.zip"
 quiz_url: "https://canvas.northwestern.edu/courses/120087/quizzes/125687"
 videos:

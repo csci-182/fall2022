@@ -5,9 +5,9 @@ description:
     - Working with templates
     - Error handling
 type: lecture
-draft: 0
+draft: 1
 num: 19
-due_date: 2020-11-02
+due_date: 2021-11-08
 slides: 
    - title: "More Files & Strings + Error Handling"
      url: "https://docs.google.com/presentation/d/11N9ZvuBaYrdLg4Dqz7mpoJmYq4OCS_mOFiEANpgVIss/edit?usp=sharing"

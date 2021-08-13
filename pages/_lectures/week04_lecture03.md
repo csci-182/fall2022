@@ -4,9 +4,9 @@ title: "Quiz 1"
 type: quiz
 description:
     - Quiz 1 of 3 (using the Lockdown Browser)
-draft: 0
+draft: 1
 num: 1
-due_date: 2020-10-09
+due_date: 2021-10-15
 
 ---
 ## Study Materials

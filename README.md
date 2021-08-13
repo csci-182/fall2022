@@ -6,5 +6,5 @@ bundle install              # to install dependencies
 bundle exec jekyll serve    # to run Jekyll from command line
 
 # Then open link in a web browser:
-# Server address: http://127.0.0.1:4000/fall2020/
+# Server address: http://127.0.0.1:4000/fall2021/
 ```

@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "CS110: Fall 2020"
+title: "CS110: Fall 2021"
 subtitle: "Intro to Computer Programming with Python"
 email: vanwars@northwestern.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/fall2020"
-term_start_date: "2020-09-14"
+baseurl: "/fall2021"
+term_start_date: "2021-09-20"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-piazza_url: https://piazza.com/northwestern/fall2020/cs110/home
+piazza_url: https://piazza.com/northwestern/fall2021/cs110/home
 
 timezone: "America/Chicago"
 # Build settings

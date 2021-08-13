@@ -2,11 +2,11 @@
 layout: module
 title: More on Files & Strings
 type: lecture
-draft: 0
+draft: 1
 description:
     - Files continued
 num: 18
-due_date: 2020-10-30
+due_date: 2021-11-05
 slides: 
    - title: "Supplementary Slides for Live Lecture"
      url: https://docs.google.com/presentation/d/1N9WmWH-yiX8hmL8ErcyYLqSyKaulTegklgZPikyHxI4/edit?usp=sharing

@@ -5,9 +5,9 @@ description:
     - Intro to for loops syntax
     - Using for loops with lists and sequences
 type: lecture
-draft: 0
+draft: 1
 num: 14
-due_date: 2020-10-19
+due_date: 2021-10-25
 slides: 
    - title: "More Loops: For Loops & Lists"
      url: https://docs.google.com/presentation/d/1EO7Lk5iv_k7dw5FgfLO13T1AD2-LpRzCd-uHtDSq8yM/edit?usp=sharing

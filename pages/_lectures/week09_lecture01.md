@@ -6,9 +6,9 @@ description:
     - More practice with dictionaries
     - Considering how a web crawler might work
 type: lecture
-draft: 0
+draft: 1
 num: 22
-due_date: 2020-11-09
+due_date: 2021-11-15
 exercise_url: "lecture21-in-class-edits.zip"
 videos:
    - title: "Downloading files from the Internet"

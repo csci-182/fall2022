@@ -5,12 +5,12 @@ type: lecture
 num: 4
 show_schedule: 1
 include_page: "extras/command_line.md"
-draft: 0
+draft: 1
 quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/122964
 description:
     - Intro to the command line
     - Lists and tuples (sequences)
-due_date: 2020-09-23
+due_date: 2021-09-29
 slides:
   - url: https://docs.google.com/presentation/d/1n3Kxa6wp8L6wCb1xfhye6wTuhLi3G5ddIY3X33dSMRk/edit?usp=sharing
     title: "The Command Line, Running Python, Lists & Tuples"

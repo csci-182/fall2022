@@ -5,9 +5,9 @@ description:
     - Creating, reading, and updating a dictionary
     - Dictionaries as lookup tables
 type: lecture
-draft: 0
+draft: 1
 num: 20
-due_date: 2020-11-04
+due_date: 2021-11-10
 readings:
   - title: "Ch9: Dictionaries"
     author: "Severance"

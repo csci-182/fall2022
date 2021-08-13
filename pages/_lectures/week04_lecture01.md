@@ -3,8 +3,8 @@ layout: module
 title: Introduction to PIP
 type: lecture
 num: 9
-draft: 0
-due_date: 2020-10-05
+draft: 1
+due_date: 2021-10-11
 description:
     - Intro to PIP (python package manager)
 videos:

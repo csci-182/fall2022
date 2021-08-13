@@ -3,7 +3,7 @@ layout: lecture-two-column
 title: |
     Quiz Review: Expressions
 type: lecture
-draft: 0
+draft: 1
 num: 10
 description:
   - Operators & Data Types
@@ -11,7 +11,7 @@ description:
   - Variables & Variable Scope
   - Lists & Tuples
   - Modules
-due_date: 2020-10-07
+due_date: 2021-10-13
 
 ---
 

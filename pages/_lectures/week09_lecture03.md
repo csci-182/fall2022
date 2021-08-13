@@ -4,9 +4,9 @@ title: Crawling & Analyzing Files
 description:
   - Understanding how a web crawler works
 type: lecture
-draft: 0
+draft: 1
 num: 24
-due_date: 2020-11-13
+due_date: 2021-11-19
 exercise_url: "lecture24.zip"
 videos:
     - url: "https://northwestern.zoom.us/rec/share/8yCWTShFAVuZsEtMIyX9rQpQo_sTnFcLb1-r_ZggRWWpaMLqNDyjvs_d2iCdM2El.J2kyuNR6-86WTo1r?startTime=1605284299000"
