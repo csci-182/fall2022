@@ -5,13 +5,12 @@ permalink: /syllabus/
 ---
 
 |--|--|
-| **Term** | Fall, 2020 |
+| **Term** | Fall, 2021 |
 | **Course** | CS 110: Intro to Computer Programming with Python |
 | **Prerequisites** | None |
 | **Instructor** | Sarah Van Wart |
-| **Lecture Time** | Monday, Wednesday, & Friday, 10:20 - 11:10am |
-| **Synchronous?** | I will be giving (and recording) lectures during regularly scheduled class time. <br>You are encouraged to come and ask questions live, but it is not required.  |
-| **Lecture Location** | Online (for now) |
+| **Lecture Time** | Monday, Wednesday, & Friday, 10:00 - 10:50am |
+| **Lecture Location** | Lutkin Hall |
 
 ## About the Course
 CS 110 is an introduction to computer programming using Python, and assumes no prior programming knowledge. The intent of the course is twofold. First, we want to give you a sense of the kinds of problem-solving and creative pursuits that programming can support. Programming can be many different things — a representational medium, a tool for thinking about problems, a way of amplifying and/or communicating ideas, a means of performing complex calculations over massive datasets, and so forth. Most people who write computer programs are not computer scientists, but rather people who occupy a range of professions (journalists, geographers, sociologists, scientists, artists, musicians, entrepreneurs, researchers, etc.), and who use various programming languages to accomplish diverse and specialized goals. Moreover, as data and computing increasingly mediate modern life, knowing a bit about the mechanisms (and risks!) that underlie these systems is a valuable modern literacy that is likely to serve you well.
@@ -40,32 +39,10 @@ Tutorials will be graded pass/fail. Even if you don't get everything working per
 We have 22 peer mentors (undergraduates) and 2 graduate TAs to help you:
 
 ### Peer Mentors
-* Cooper Barth (cooperbarth2021@u.northwestern.edu)
-* Kieran Bondy (kieranbondy2021@u.northwestern.edu)
-* Anthony Chen (anthonychen2021.1@u.northwestern.edu)
-* Linxin Chen (linxinchen2021@u.northwestern.edu)
-* Chase Duvall (chaseduvall2023@u.northwestern.edu)
-* Olivier Gabison (oliviergabison2022@u.northwestern.edu)
-* Olivia Gallager (oliviagallager2021@u.northwestern.edu)
-* Camila Grisanti (camilagrisanti2022@u.northwestern.edu)
-* Kevin Hou (kevinhou2022@u.northwestern.edu)
-* Katherine Johns (katherinejohns2021@u.northwestern.edu)
-* Charlotte Jones (charlottejones2022@u.northwestern.edu)
-* Joshua Kennedy (joshuakennedy2021@u.northwestern.edu)
-* Emmy Khawsam-ang (nichareekhawsam-ang2021@u.northwestern.edu)
-* Gabrielle Klein (gabrielleklein2021@u.northwestern.edu)
-* Caroline Lobel (carolinelobel2022@u.northwestern.edu)
-* Andy Moran (carlosmoran2022@u.northwestern.edu)
-* Athipat Pipatpinyopong (athipatpipatpinyopong2022@u.northwestern.edu)
-* Rhea Ramaiya (rhearamaiya2022@u.northwestern.edu)
-* Ariella Silver (a.silver@u.northwestern.edu)
-* Barbara Sledz (barbarasledz2022@u.northwestern.edu)
-* Nicole Villalba (nicolevillalba2022@u.northwestern.edu)
-* Lily Yan (lilyyan2023@u.northwestern.edu)
+* TBD
 
 ### Graduate Teaching Assistants
-* Yunming Xiao (yunming.xiao@u.northwestern.edu)
-* Andi Zang (andi.zang@u.northwestern.edu)
+* TBD
 
 ## Course Materials and Resources 
 
