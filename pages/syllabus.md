@@ -36,13 +36,30 @@ Tutorials will be graded pass/fail. Even if you don't get everything working per
 
 
 ## Course Staff
-We have 22 peer mentors (undergraduates) and 2 graduate TAs to help you:
+We have 17 peer mentors (BA/BS or MS students) and 2 graduate TAs to help you:
 
 ### Peer Mentors
-* TBD
+* Yabi Ayele (yabiayele2023@u.northwestern.edu)
+* Cooper Barth (cooperbarth2021@u.northwestern.edu)
+* Chase Duvall (chaseduvall2023@u.northwestern.edu)
+* Olivier Gabison (oliviergabison2022@u.northwestern.edu)
+* Camila Grisanti (camilagrisanti2022@u.northwestern.edu)
+* Rhea Ramaiya (rhearamaiya2022@u.northwestern.edu)
+* Antonio Rocha (antoniorocha2023@u.northwestern.edu)
+* Ariella Silver (a.silver@u.northwestern.edu)
+* Barbara Sledz (barbarasledz2022@u.northwestern.edu)
+* Poom Sombutboon (poom.sombutboon2022@u.northwestern.edu)
+* Lilli Torres (lillitorres2024@u.northwestern.edu)
+* Andre Tsai (andretsai2024@u.northwestern.edu)
+* Eraj Uzoqov (erajuzoqov2024@u.northwestern.edu)
+* Nicole Villalba (Nicolevillalba2022@u.northwestern.edu)
+* Eddie Woo (eddiewoo2023@u.northwestern.edu)
+* Lily Yan (lilyyan2023@u.northwestern.edu)
+* Alberta Yoo (albertayoo2021@u.northwestern.edu)
 
 ### Graduate Teaching Assistants
-* TBD
+* Matt Brucker (mbrucker@u.northwestern.edu)
+* Andy Zang (andizang2020@u.northwestern.edu)
 
 ## Course Materials and Resources 
 
@@ -71,14 +88,24 @@ The kinds of questions that are perfectly legitimate to ask in office hours incl
 * What courses should I take next after CS110?
 * What kinds of CS-related careers and opportunities are out there?
 
-### Piazza
-For assignment- and programming-related questions you should post questions on our class Piazza site. Before you post a question, please do a quick search to make sure that one of your classmates hasn’t already asked the same question. Piazza gives you the option of posting anonymously (to your classmates) so that you don’t feel intimidated to ask a question. As a general rule, do not post ANY code that would be part of an answer to an assignment question. It is critical that you use Piazza for assignment questions; any assignment questions emailed directly to any course staff will be forwarded to Piazza.
+### Campuswire
+For assignment- and programming-related questions you should post questions on our class Campuswire site. 
 
-If you have a question about code that requires you to show someone your code, please go to one of the office hour sessions. These hours (days/times/locations) are posted on a google calendar linked to from the Piazza resources page (under the ‘course information’ tab) for our class. In general, please use the peer mentor hours, these mentors were selected from a large number of applicants and are highly qualified!
+{:.blockquote-no-margin}
+> #### Register for Campuswire
+> To register for the course Campuswire (you will only have to do this once), please click this link: <a href="https://campuswire.com/p/G7DE56EF3" target="_blank">https://campuswire.com/p/G7DE56EF3</a> and use the following join code: **1793**.
+
+Some guidelines for using Campuswire:
+
+* Before you post a question, please do a quick search to make sure that one of your classmates hasn’t already asked the same question. 
+* Campuswire gives you the option of posting anonymously (to your classmates) so that you don’t feel intimidated to ask a question. 
+* As a general rule, do not post ANY code that would be part of an answer to an assignment question. 
+* Please use Campuswire for assignment questions (versus emailing the course staff directly); any assignment questions emailed directly to any course staff will be forwarded to Campuswire.
+* If you have a question about code that requires you to show someone your code, you may submit a private post (just to the course staff) with your code. That said, peer mentor hours are usually more efficient. Our peer mentors were selected from a large number of applicants and are highly qualified!
 
 
 ### Grading Questions
-For grading questions/concerns you should go to the graduate TA’s grading office hours (also posted on the google calendar). You can also send them a private message through Piazza with assignment grading questions/concerns.
+For grading questions/concerns you should go to the graduate TA’s grading office hours (also posted on the google calendar). You can also send them a private message through Campuswire with assignment grading questions/concerns.
 
 
 ### Other Questions
@@ -123,7 +150,7 @@ We will still accept late homework up to 48 hours after the original due date, b
 | **Check** | 6 Points | Mostly working, but some errors or issues were found |
 | **Check Plus**| 8 Points | Working exactly as it should |
 
-On occasion, the grader may make an error. You will receive your assignment grades on Canvas. If you have any grading questions/concerns, please send a private message on Piazza within 1 week to the graduate TA to resolve the issue. Finally, it is your responsibility to keep up-to-date on class material and announcements, as the schedule is subject to change. This includes material presented and announcements made in class, via email, or on Piazza.
+On occasion, the grader may make an error. You will receive your assignment grades on Canvas. If you have any grading questions/concerns, please send a private message on Campuswire within 1 week to the graduate TA to resolve the issue. Finally, it is your responsibility to keep up-to-date on class material and announcements, as the schedule is subject to change. This includes material presented and announcements made in class, via email, or on Campuswire.
 
 ## Policy on Academic Honesty
 In the past, there have been a few unfortunate instances in which students have presented work other than their own. For the programming assignments: You are allowed (encouraged, even!) to discuss general approaches to solving problems, but all work you submit must be your own. Working “together” and presenting variants of the same file is not acceptable. Here are some specific guidelines to make sure you don’t cross the line:
