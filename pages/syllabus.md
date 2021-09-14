@@ -59,7 +59,7 @@ We have 17 peer mentors (BA/BS or MS students) and 2 graduate TAs to help you:
 
 ### Graduate Teaching Assistants
 * Matt Brucker (mbrucker@u.northwestern.edu)
-* Andy Zang (andizang2020@u.northwestern.edu)
+* Andi Zang (andizang2020@u.northwestern.edu)
 
 ## Course Materials and Resources 
 
