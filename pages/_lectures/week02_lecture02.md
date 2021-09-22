@@ -3,7 +3,6 @@ layout: module
 title: Intro to Lists & Tuples; Intro to the Command Line
 type: lecture
 num: 4
-show_schedule: 1
 include_page: "extras/command_line.md"
 draft: 1
 quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/122964

@@ -4,7 +4,6 @@ title: The Building Blocks
 type: lecture
 draft: 0
 num: 3
-show_schedule: 1
 description:
   - Variables, operators, data types, and built-in functions
 due_date: 2021-09-27
