@@ -10,11 +10,11 @@ due_date: 2021-09-22
 slides:
    - url: https://docs.google.com/presentation/d/1jEKY_tkTf_2nuDElNSe-zGqHXSnXwqJ7DRK9p5kDmgg/edit?usp=sharing
      title: Course Logistics
-# videos:
-#    - url: #
-#      title: Course Logistics
-#      duration: "00:00"
-#      live: 1
+videos:
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a215e76-1a96-467f-bd36-adab00f6fdeb
+     title: Course Logistics (Live Lecture)
+     duration: "38:39"
+     live: 1
 
 extras:
   - title: "Course Questionnaire"
