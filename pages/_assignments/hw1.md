@@ -6,7 +6,7 @@ abbreviation: HW1
 type: homework
 due_date: 2021-10-01
 ordering: 1
-draft: 1
+draft: 0
 points: 8
 ---
 
@@ -22,15 +22,16 @@ points: 8
 ## Part 1: Install Python and IDLE
 
 {: .blockquote-no-margin}
-> **NOTE:** If you have any issues installing Python or IDLE, contact your assigned peer mentor. You are also welcome to attend any of the course office hours to get help.
+> ### What if I've already installed Python on my laptop?
+> Note: many people who have programmed with Python before already have Python 3.x installed. To check, search for an existing Python installation. If you already have a version of Python3 installed, move on to Part 2. It doesn't hurt to install another version of Python, but it's not necessary. If you have any questions, feel free to ask Sarah or one of the peer mentors / TAs.
 
-We will use the Python 3 programming language and **IDLE**, which is Python's Integrated Development and Learning Environment.
+We will use the Python 3 programming language and **IDLE**, which is Python's Integrated Development and Learning Environment. 
 
-Download the latest version (3.8.x) of python here: <a href="https://www.python.org/downloads/" target="_blank">https://www.python.org/downloads/</a>
+Download the latest version (3.9.x) of python here: <a href="https://www.python.org/downloads/" target="_blank">https://www.python.org/downloads/</a>
 
-After going through the installation process, navigate to the folder on your machine where Python was installed. For me, on a Mac, my IDLE was saved to Applications > Python 3.8 (or you can also search for it). For Windows users, it will likely be in a folder inside of Program Files (which you can also search for).
+After going through the installation process, navigate to the folder on your machine where Python was installed. For me, on a Mac, my IDLE was saved to Applications > Python 3.9 (or you can also search for it). For Windows users, it will likely be in a folder inside of Program Files (which you can also search for).
 
-Inside, the Python 3.8 folder, you'll find a file called **IDLE** - this is the IDLE executable. Double click on that file to run it. You should then see something like:
+Inside, the Python 3.9 folder, you'll find a file called **IDLE** - this is the IDLE executable. Double click on that file to run it. You should then see something like this (the screen shows version 3.8, but any 3.x version is OK):
 
 <img class="screenshot" src="/fall2021/assets/images/hw01/idle1.png" />
 
@@ -40,13 +41,14 @@ At the **&gt;&gt;&gt;** prompt, you can type any valid python command. For examp
 
 <img class="screenshot" src="/fall2021/assets/images/hw01/idle2.png" />
 
+If you have any issues installing Python or IDLE, contact your assigned peer mentor. You are also welcome to attend any of the course office hours to get help.
 
 ## Part 2: Complete the Programming Exercises
 In the section above, you wrote a single line of python at the **&gt;&gt;&gt;** prompt. For instance: 
 
 `print("hello world!")`
 
-However, in this class, you'll be writing larger programs that are stored in files that end with the "**.py**" extension. You will then run all of the code in the file all at once. To try this out, we will practice writing a Python file in this week's homework. Please follow the steps outlined below, and then complete the exercises.
+However, in this class, you'll be writing larger programs that are saved as files that end with the "**.py**" extension. By writing your code in a file and then running that file, you will be able to execute many lines of code at once. To try this out, we will practice writing a Python file in this week's homework. Please follow the steps outlined below, and then complete the exercises.
 
 ### Step 1: Organize yourself!
 File management and organization are an essential part of programming. As such, we suggest the following system:
@@ -119,24 +121,24 @@ Ask the user to enter a number. Convert it to an int, and print out the square o
 Sample output is shown below: 
 
 ```python
-Enter a number: 5 	     # prompts the user for a number (not necessarily 5)
-The square of 5 is 25.
+Enter a number: 5 	     # prompt the user for a number (not necessarily 5)
+The square of 5 is 25.   # output a sentance that communicates the result of the calculation
 ```
 
 #### 6. Practice with the "sep" optional parameter
 Ask the user to enter a number x. Use the sep optional argument to print out x, 2x, 3x, 4x, and 5x, each separated by three dashes, like below:
 
 ```python
-Enter a number: 7         # prompts the user for a number (not necessarily 7)
-7---14---21---28---35 
+Enter a number: 7         # prompt the user for a number (not necessarily 7)
+7---14---21---28---35     # output the result
 ```
 
 #### 7. Math Practice
 Write a program that asks the user for a weight in kilograms and converts it to pounds. There are 2.2 pounds in a kilogram. 
 
 ```python
-Enter weight in kg: 5         # prompts the user for a weight in kg
-5 kilograms is 11.0 pounds. 
+Enter weight in kg: 5         # prompt the user for a weight in kg
+5 kilograms is 11.0 pounds.   # output the result
 ```
 
 #### 8. Calculate Average
@@ -148,4 +150,4 @@ Write a tip calculator. Ask the user for the price of the meal and the percent t
 
 
 ## What to Submit
-Please submit your main.py file, that includes code that successfully implements the nine exercises listed above (which come from the Heinold book). Before each exercise, use comments (or keep the existing ones) to indicate the number of the exercise that your code corresponds to.
+Please submit your `main.py` file that includes code that successfully implements the nine exercises listed above (which come from the Heinold book). Before each exercise, use comments (or keep the existing ones) to indicate the number of the exercise that your code corresponds to.

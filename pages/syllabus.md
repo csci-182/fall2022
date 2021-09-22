@@ -20,17 +20,17 @@ A second goal of the course is to introduce you to the fundamental constructs of
 ## Course Format
 
 ### Lectures
-Lectures will a combination of synchronous and asynchronous content, which will include a combination of slides, pre-recorded lectures, "live-coding" videos (during lecture), programming exercises, tutorial activities, and (sometimes) mini-quizzes. We **will** still be using the scheduled lecture time for more interactive Q&A sessions on Zoom with Sarah to answer any questions about the material for that day. Organizationally, some topics/modules span multiple lectures (see the [course schedule](../)). 
+Lectures will be both synchronous and asynchronous. We will use our scheduled class time to do practice problems together and make sure your questions get answered. All in-class lectures will be recorded. You will also be assigned some pre-recorded videos, which cover specific concepts and ideas that we will be practicing during lecture. Organizationally, some topics/modules span multiple lectures (see the [course schedule](../)). 
 
-**Bottom line**: You are encouraged to attend the regularly scheduled lecture sessions on Zoom, but everything will be recorded and posted to the website, and therefore it is possible to successfully complete this course without ever attending a "live" lecture.
+**Bottom line**: We want you to attend the in-person lectures. That said, all lectures will be recorded and posted to the website, and therefore it is possible to successfully complete this course without ever attending a "live" lecture.
 
 ### Tutorial Sessions (Your Participation Grade)
-The best way to learn how to program is to practice writing lots of programs. To encourage this, you will sign up for a required tutorial section on on Friday, 9/18. There will be around 22 tutorial sections that you can sign up for (with around 12 students per section). Your tutorial peer mentor will be your "go to person" for the course -- feel free to reach out to them with any questions or concerns that you may have.
+The best way to learn how to program is to practice writing lots of programs. To encourage this, you will sign up for a required tutorial section on on Friday, 9/21. There will be around 17 tutorial sections that you can sign up for (with around 12 students per section). Your tutorial peer mentor will be your "go to person" for the course -- feel free to reach out to them with any questions or concerns that you may have.
 
 These tutorials have a few goals:
 1. To help you become familiar with the types of strategies you might use to approach problems (which will be closely related to the homework / projects).
-2. To force you to write lots of programs (practice makes perfect!)
-2. To help you to gauge what you know and don't know, so that you can make a plan to attend office hours.
+1. To force you to write lots of programs (practice makes perfect!)
+1. To help you to assess what you know and don't know, so that you can make a plan to attend office hours.
 
 Tutorials will be graded pass/fail. Even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must submit **at least 7 tutorials**, but are encouraged to complete them all. 
 
@@ -77,7 +77,7 @@ As this is a programming course, you will be using some free software programs a
 ## Getting Questions Answered
 
 ### Office Hours
-Office hours (and tutorials) are hands down **THE BEST** resource this course has to offer. We have 22 TAs/Peer Mentors whose job is to help you to be successful and find your own power as current and future programmers. That said, it's up to you to take initiave and cultivate a weekly / bi-weekly office-hours-going practice that works for you and your schedule. This looks different for everyone: some people go to 1-2 office hours sessions per week and finish their homework with a TA nearby (if needed). Other students never go to office hours (though this is rare, as the homeworks and projects are challenging). Also, different people connect with different TAs, so do shop around to find a TA with whom you work well...and drop in sooner rather than later! 
+Office hours (and tutorials) are hands down **THE BEST** resource this course has to offer. We have 19 TAs/peer mentors whose job is to help you to be successful and find your own power as current and future programmers. That said, it's up to you to take initiave and cultivate a weekly / bi-weekly office-hours-going practice that works for you and your schedule. This looks different for everyone: some people go to 1-2 office hours sessions per week and finish their homework with a TA or peer mentor nearby (if needed). Other students never go to office hours (though this is rare, as the homeworks and projects are challenging). Also, different people connect with different TAs/peer mentors, so do shop around to find a person with whom you work well...and drop in sooner rather than later! 
 
 The kinds of questions that are perfectly legitimate to ask in office hours include (but are not limited to):
 
@@ -105,14 +105,14 @@ Some guidelines for using Campuswire:
 
 
 ### Grading Questions
-For grading questions/concerns you should go to the graduate TA’s grading office hours (also posted on the google calendar). You can also send them a private message through Campuswire with assignment grading questions/concerns.
+For grading questions/concerns you should contact one of the graduate TAs. You can also send them a private message through Campuswire with assignment grading questions/concerns.
 
 
 ### Other Questions
 For any other issues that you think are not appropriate for the peer mentors or graduate TAs, please come talk to me. This might include things like concerns about your progress in the course, questions about content from my lectures, personal matter related to your participation in the course, larger grade concerns, advice about future courses, majors and internships, etc.
 
 ## Office Hours
-Office hours and locations / Zoom links are posted <a href="{{site.baseurl}}/times-locations/">here</a>. See the course Canvas page for the Zoom password.
+Office hours and locations / Zoom links are posted <a href="{{site.baseurl}}/times-locations/">here</a>. Some office hours will be in person. Others will be virtual. See the course calendar for details.
 
 ## Grading
 Your course grade is calculated based on 200 points as follows:
@@ -162,19 +162,53 @@ In the past, there have been a few unfortunate instances in which students have 
 
 Contact Sarah Van Wart if you have any questions about what is appropriate.
 
-## Zoom Instructions
-To ensure a smooth lecture experience for everyone, we have created a [Zoom Guide](../resources/zoom/) for you. Please refer to it to understand how to access the course Zoom sessions, and some of the recording and etiquette policies.
 
-## A Note on Class Recordings
-The Provost's office has asked instructors to publish the following language in the syllabus:
 
-> ### Class Recordings
-> This class or portions of this class may be recorded by the instructor for educational purposes. These recordings will be shared only with students enrolled in the course and will be deleted at the end of the Spring Quarter, 2020 course. Your instructor will communicate how you can access the recordings.
->
-> ### Policy On Unauthorized Student Recording of Classroom or other Academic Activities
+## Syllabus Statements from the Provost's Office
+Below, we have also included the following statements, written by the <a href="https://www.registrar.northwestern.edu/faculty-staff/syllabi.html" target="_blank">Provost's office</a>:
+
+### Academic Integrity
+> Students in this course are required to comply with the policies found in the booklet, "Academic Integrity at Northwestern University: A Basic Guide". All papers submitted for credit in this course must be submitted electronically unless otherwise instructed by the professor. Your written work may be tested for plagiarized content. For details regarding academic integrity at Northwestern or to download the guide, visit: <a href="https://www.northwestern.edu/provost/policies/academic-integrity/index.html" target="_blank">https://www.northwestern.edu/provost/policies/academic-integrity/index.html</a>.
+
+### Accessibility
+> Northwestern University is committed to providing the most accessible learning environment as possible for students with disabilities. Should you anticipate or experience disability-related barriers in the academic setting, please contact AccessibleNU to move forward with the university’s established accommodation process (e: accessiblenu@northwestern.edu; p: 847-467-5530). If you already have established accommodations with AccessibleNU, please let me know as soon as possible, preferably within the first two weeks of the term, so we can work together to implement your disability accommodations. Disability information, including academic accommodations, is confidential under the Family Educational Rights and Privacy Act.
+
+### COVID-19 Testing Compliance
+> To protect the health of our community, Northwestern University requires unvaccinated students who are in on-campus programs to be tested for COVID-19 twice per week. 
+> 
+> Students who fail to comply with current or future COVID-19 testing protocols will be referred to the Office of Community standards to face disciplinary action, including escalation up to restriction from campus and suspension.
+
+
+### Prohibition of Recording of Class Sessions by Students
+In this class, we will **NOT** be recording classes. Note from the Provost's office:
+
+{:.blockquote-no-margin}
 > Unauthorized student recording of classroom or other academic activities (including advising sessions or office hours) is prohibited. Unauthorized recording is unethical and may also be a violation of University policy and state law. Students requesting the use of assistive technology as an accommodation should contact AccessibleNU. Unauthorized use of classroom recordings — including distributing or posting them — is also prohibited.  
 >
 > Under the University’s Copyright Policy, faculty own the copyright to instructional materials — including those resources created specifically for the purposes of instruction, such as syllabi, lectures and lecture notes, and presentations.  Students cannot copy, reproduce, display or distribute these materials. Students who engage in unauthorized recording, unauthorized use of a recording or unauthorized distribution of instructional materials will be referred to the appropriate University office for follow-up.
 
-## Accommodations for Students with Disabilities
-Any student requesting accommodations related to a disability or other condition is required to register with AccessibleNU (847-467-5530) and provide professors with an accommodation notification from AccessibleNU, preferably within the first two weeks of class. All information will remain confidential.
+### Support for Wellness and Mental Health
+> Northwestern University is committed to supporting the wellness of our students. Student Affairs has multiple resources to support student wellness and mental health.  If you are feeling distressed or overwhelmed, please reach out for help. Students can access confidential resources through the Counseling and Psychological Services (CAPS), Religious and Spiritual Life (RSL) and the Center for Awareness, Response and Education (CARE). Additional information on all of the resources mentioned above can be found here:
+> 
+> * [https://www.northwestern.edu/counseling/](https://www.northwestern.edu/counseling/)
+> * [https://www.northwestern.edu/religious-life/](https://www.northwestern.edu/religious-life/)
+> * [https://www.northwestern.edu/care/](https://www.northwestern.edu/care/)
+
+### COVID-19 Classroom Expectations
+> Students, faculty, and staff must comply with University expectations regarding appropriate classroom behavior, including those outlined below and in the [COVID-19 Code of Conduct](https://www.northwestern.edu/communitystandards/about-us/northwestern-university-student-expectations-covid-19-code-of-conduct.html). With respect to classroom procedures, this includes:
+> 
+> * Policies regarding masking and social distancing evolve as the public health situation changes. Students are responsible for understanding and complying with current masking, testing, Symptom Tracking, and social distancing requirements.
+> * In some classes, masking and/or social distancing may be required as a result of an Americans with Disabilities Act (ADA) accommodation for the instructor or a student in the class even when not generally required on campus. In such cases, the instructor will notify the class.
+> * No food is allowed inside classrooms. Drinks are permitted, but please keep your face covering on and use a straw.
+> * Faculty may assign seats in some classes to help facilitate contact tracing in the event that a student tests positive for COVID-19. Students must sit in their assigned seats.
+> 
+> If a student fails to comply with the [COVID-19 Code of Conduct](https://www.northwestern.edu/communitystandards/about-us/northwestern-university-student-expectations-covid-19-code-of-conduct.html) or other University expectations related to COVID-19, the instructor may ask the student to leave the class. The instructor is asked to report the incident to the Office of Community Standards for additional follow-up.
+
+### Exceptions to Class Modality
+> Class sessions for this course will occur in person. Individual students will not be granted permission to attend remotely except as the result of an Americans with Disabilities Act (ADA) accommodation as determined by AccessibleNU. 
+> 
+> Maintaining the health of the community remains our priority.  If you are experiencing any symptoms of COVID do not attend class and update your Symptom Tracker application right away to connect with Northwestern’s Case Management Team for guidance on next steps. Also contact the instructor as soon as possible to arrange to complete coursework.
+> 
+> Students who experience a personal emergency should contact the instructor as soon as possible to arrange to complete coursework.
+> 
+> Should public health recommendations prevent in person class from being held on a given day, the instructor or the university will notify students.

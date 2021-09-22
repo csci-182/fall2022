@@ -2,40 +2,40 @@
 layout: module
 title: The Building Blocks
 type: lecture
-draft: 1
+draft: 0
 num: 3
 show_schedule: 1
 description:
   - Variables, operators, data types, and built-in functions
 due_date: 2021-09-27
-quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/122779
+quiz_url: https://canvas.northwestern.edu/courses/149580/quizzes/159822
 slides:
-  - url: https://docs.google.com/presentation/d/1CyzjjjCYtUxCPWFem1hgkgK2Zdv1losXs1A6DzWfD-8/edit?usp=sharing
+  - url: https://docs.google.com/presentation/d/1rjHRfrfsbNbci_MMHUsJs-hodKI7_aczBGyoAKaRZrU/edit?usp=sharing
     title: The Building Blocks of Programming
-  - url: https://docs.google.com/presentation/d/1Qsthtvr5hL4A0QG4RV3lqa_CNjp0r3ctFBaj1A5TaEQ/edit?usp=sharing
-    title: Supplementary Slides for Live Lecture
+#   - url: ""
+#     title: Supplementary Slides for Live Lecture
 videos:
-   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=270174ec-2451-4c8d-a279-ac3a002e0a1a
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5e8668ba-7ecd-406c-95a3-adab0002be9f
      duration: |
         10:51
      title: Using the Lecture Files
-   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fa0d8d0-2741-4897-a770-ac3a00386656
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=51f44ad7-0088-450f-8c39-adab0002be00
      duration: |
         17:04
      title: Data Types & Variables
-   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e405208f-6a48-44d5-8431-ac3a0041daca
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3df68939-9ec8-4adb-9c21-adab0002c2b6
      title: Operators
      duration: |
         08:36
-   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=521b28fc-4c28-4255-89ca-ac3a0041d9a9
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ad65b34b-7ed1-4f50-a483-adab0002c20f
      title: Built-in Functions
      duration: |
         13:31
-   - url: https://northwestern.zoom.us/rec/share/ifxhUhGq3fM5vpD8HZQvI_SwAdVUp2gZT6LWHVuYSpMGSGlJqjMxfM0wSARWu5UV.LJVTdXXDx-z3ndzR?startTime=1600701350000
-     live: 1
-     title: Practice with variables, constants, & operators
-     duration: |
-        01:02:59
+#    - url: ""
+#      live: 1
+#      title: Practice with variables, constants, & operators
+#      duration: |
+#         01:02:59
 
 readings:
   - title: "Ch2: Variables"
@@ -46,11 +46,11 @@ readings:
     author: "Heinold"
     url: https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf
 
-extras:
-  - title: "Tutorial Signups"
-    comments: "You MUST sign up for a tutorial session"
-    url: "https://docs.google.com/spreadsheets/d/1twZ2NDfyu0jVgvb4SMS2Cd9KEwwcPN0BZvLg0XMJuh8/edit"
-    external: 1
+# extras:
+#   - title: "Tutorial Signups"
+#     comments: "You MUST sign up for a tutorial session"
+#     url: "https://docs.google.com/spreadsheets/d/1twZ2NDfyu0jVgvb4SMS2Cd9KEwwcPN0BZvLg0XMJuh8/edit"
+#     external: 1
 
 exercise_url: "lecture03.zip"
 ---
