@@ -19,6 +19,14 @@ videos:
      title: Intro to Hardware & Software
      duration: |
        31:38
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4af775e2-ef18-4cdd-a489-adad00f79c66
+     title: "Logistics & Survey Review"
+     duration: "19:46"
+     live: 1
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a389ee41-68d8-4660-9c76-adad01439e7e
+     title: "PB&J Session"
+     duration: "13:32"
+     live: 1
 readings:
   - title: "Ch1: Intro to Computing"
     author: "Charles Severance"
