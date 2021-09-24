@@ -12,8 +12,8 @@ due_date: 2021-09-24
 slides:
    - url: https://docs.google.com/presentation/d/1KcRLMlYpYS6onuJ9nobsA4Z3Yh-kudLvFfBjCkRqyuc/edit?usp=sharing
      title: Intro to Hardware & Software
-#    - url: ""
-#      title: Live Lecture Activities
+   - url: https://docs.google.com/presentation/d/1rFw3PKKFMLZUj_DIJco2T4K3_ta8pHXM-Tbbj_gDiM4/edit?usp=sharing
+     title: Live Lecture Activities
 videos:
    - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c70f92d0-192a-4812-8fe4-adab0002bf49
      title: Intro to Hardware & Software
