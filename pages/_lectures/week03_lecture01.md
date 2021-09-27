@@ -8,38 +8,35 @@ description:
   - Creating your own functions
   - Defining versus invoking functions
 due_date: 2021-10-04
-quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/123374
+# Note: quiz ready to go!
+# quiz_url: https://canvas.northwestern.edu/courses/149580/quizzes/159811
 slides:
-  - url: https://docs.google.com/presentation/d/1wd6Xa7-3tgrLBC_IaW1GfWrvIwx9S5bxW2wpNsuTTIQ/edit?usp=sharing
+  - url: https://docs.google.com/presentation/d/11_3yGdESgyw11cYiosIHWGBlhPD1SER_hjPCXWjC2No/edit?usp=sharing
     title: "Creating your own functions"
-  - url: https://docs.google.com/presentation/d/1m3AsUBCBKi3Wi9o7zXBVFXU1OXMYg7-V-Ykp8rS5O8Q/edit?usp=sharing
-    title: Supplementary Slides for Live Lecture
+# Link has been updated, but live lecture needs some edits:
+#   - url: https://docs.google.com/presentation/d/1btYB3dsT0mzJvVPpyADMbf7LQ80SNGbrhSqytgrplno/edit?usp=sharing
+#     title: Live Lecture Activities
 videos:
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5977462-323e-4ef8-8f01-ac430031a599
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c92dce0b-7494-45a8-9722-adaf01887395
     title: "Built-in functions review"
     duration: "21:02"
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=caf95756-c977-4be5-979a-ac43002bd2e6
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fad2d8f7-9113-4e21-abc2-adaf0188757a
     title: "The rules for defining functions"
     duration: "7:50"
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e8ab45f-b4c8-459d-ac8a-ac43003b97da
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bae7cea1-d375-40ec-8e42-adaf018872e5
     title: "Creating your first function"
     duration: "11:53"
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=263968a6-30b2-41d5-bff4-ac43003f039c
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46b9df03-ff7a-4b02-92e9-adaf01887243
     title: "Creating your second function"
     duration: "12:30"
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5706868e-c1b1-45bb-9602-ac430042922f
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=baf2f4e9-23e8-4f68-8953-adaf0188719b
     title: "Creating your third function"
     duration: "8:33"
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd19ef35-4be4-4c43-909f-ac4300478ccd
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3fcfc113-1a03-49db-ada2-adaf018870ee
     title: "Terminology and documentation"
     duration: "15:00"
-  - url: https://northwestern.zoom.us/rec/share/uL8fFf2vZNxkHsi-0_uLaMduMaWFPVyf1bhgzuSfnHJ3y4nuoPvLEJj69w0k9YRl.iOd2w_UvieqNIxbn?startTime=1601306140000
-    live: 1
-    title: Practice writing functions (part 1)
-    duration: |
-        48:10
 
 exercise_url: "lecture06.zip"
 ---
 
-In this lesson, we're going to go over how to create your own custom functions. After this lesson, we will have covered everything that you need to know in order to complete [Tutorial 2](../assignments/tutorial02) and homework [Homework 2](../assignments/tutorial02).
+In this lesson, we're going to go over how to create your own custom functions. After this lesson, we will have covered everything that you need to know in order to complete [Tutorial 2](../assignments/tutorial02) and homework [Homework 2](../assignments/hw02).

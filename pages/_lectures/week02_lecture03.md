@@ -4,31 +4,27 @@ title: |
     Introduction to Functions
 type: lecture
 num: 5
-draft: 1
+draft: 0
 description:
     - Some useful built-in functions
     - Parameters and arguments
 due_date: 2021-10-01
 slides:
-  - url: https://docs.google.com/presentation/d/15YZ9y27W116UjxhU34jgh8Juy3dMKtg2cJyvmpmrHF4/edit?usp=sharing
+  - url: https://docs.google.com/presentation/d/12Srk8yvpsYQQlB_U_TEaCCcHb9zqMVmmoz4KRLUbLEQ/edit?usp=sharing
     title: "Intro to Functions"
-  - url: https://docs.google.com/presentation/d/1VG5VzsFl1-3Jhx5vg6dE7Q5E4UdFDArEfN-SFOW_dM8/edit?usp=sharing
-    title: Supplementary Slides for Live Lecture
+# Link has been updated, but live lecture needs some edits:
+#   - url: https://docs.google.com/presentation/d/1gTu61HaLxE9Qjpy2LUehqkJDzxcTnLWOynGQ6pm6ZkQ/edit?usp=sharing
+#     title: Live Lecture Activities
 videos: 
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e2f95f7-bb7a-46fa-981f-ac3f00e58f30
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17fa1eb5-c0e0-4e7e-9761-adab0002bd4e
     title: "Expressions & Intro to Functions"
     duration: "15:50"
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b33f552-6832-470e-adb9-ac3f00ea4a11
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26a68103-e5fc-4165-a311-adab0002bc8b
     title: "More Function Rules"
     duration: "15:32"
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e20884ad-6be9-4c89-bfce-ac3f00f17646
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9e5195f-95c3-4e95-a925-adaf01887447
     title: "Built-In Functions Demo"
     duration: "09:10"
-  - url: https://northwestern.zoom.us/rec/share/DZvCoZQkHTJDrAuF7upiUWIYWLiWQeP2P4EPT_EUdcdACHrSvfDfteYX1GXbZ67S.USz0IOhV0mcBTzwX?startTime=1601046960000
-    live: 1
-    title: Practice calling functions
-    duration: |
-        51:23
 
 
 readings:
@@ -46,4 +42,4 @@ exercise_url: "lecture05.zip"
 ---
 
 <img class="module-image" src="/fall2021/assets/images/lectures/lecture_03_functions.png" /> 
-The next two lessons will primarily be dedicated to functions. In this lesson, we will introduce functions, including some basic terminology and why they are useful. We'll also take a look at some examples of how to use built-in functions. In the next lesson (Lesson 6), we will practice building our own functions and modules. <br><br>This week's tutorial ([Tutorial 2](../assignments/tutorial02)) and homework ([Homework 2](../assignments/tutorial02)) will be based on content reviewed in this lesson and the next one. You are strongly encouraged to review the content in these lessons *before* trying the lab/homework.
+The next two lessons will primarily be dedicated to functions. In this lesson, we will introduce functions, including some basic terminology and why they are useful. We'll also take a look at some examples of how to use built-in functions. In the next lesson (Lesson 6), we will practice building our own functions and modules. <br><br>Next week's tutorial ([Tutorial 2](../assignments/tutorial02)) and homework ([Homework 2](../assignments/hw2)) will be based on content reviewed in this lesson and the next one. You are strongly encouraged to review the content in these lessons *before* trying the lab/homework.

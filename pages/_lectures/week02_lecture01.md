@@ -11,8 +11,8 @@ quiz_url: https://canvas.northwestern.edu/courses/149580/quizzes/159822
 slides:
   - url: https://docs.google.com/presentation/d/1rjHRfrfsbNbci_MMHUsJs-hodKI7_aczBGyoAKaRZrU/edit?usp=sharing
     title: The Building Blocks of Programming
-#   - url: ""
-#     title: Supplementary Slides for Live Lecture
+#   - url: https://docs.google.com/presentation/d/1XoHhmxBghe_x6JFufFkdXy7CvTFIivjOp-d9FoEMGZ8/edit?usp=sharing
+#     title: Live Lecture Activities
 videos:
    - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5e8668ba-7ecd-406c-95a3-adab0002be9f
      duration: |
@@ -45,11 +45,11 @@ readings:
     author: "Heinold"
     url: https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf
 
-# extras:
-#   - title: "Tutorial Signups"
-#     comments: "You MUST sign up for a tutorial session"
-#     url: "https://docs.google.com/spreadsheets/d/1twZ2NDfyu0jVgvb4SMS2Cd9KEwwcPN0BZvLg0XMJuh8/edit"
-#     external: 1
+extras:
+  - title: "Tutorial Signups"
+    comments: "You MUST sign up for a tutorial session. This week's tutorial is mandatory."
+    url: "https://docs.google.com/spreadsheets/d/1n9io9LSvSR_IolYRnwMluJ2Eq_qFN7uhGFRBMQVzvec/edit?usp=sharing"
+    external: 1
 
 exercise_url: "lecture03.zip"
 ---

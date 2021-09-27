@@ -1,37 +1,24 @@
 ---
 layout: module
-title: Intro to Lists & Tuples; Intro to the Command Line
+title: Intro to Lists & Tuples
 type: lecture
 num: 4
-include_page: "extras/command_line.md"
-draft: 1
-quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/122964
+# include_page: "extras/command_line.md"
+draft: 0
+quiz_url: https://canvas.northwestern.edu/courses/149580/quizzes/159823
 description:
-    - Intro to the command line
     - Lists and tuples (sequences)
 due_date: 2021-09-29
 slides:
-  - url: https://docs.google.com/presentation/d/1n3Kxa6wp8L6wCb1xfhye6wTuhLi3G5ddIY3X33dSMRk/edit?usp=sharing
-    title: "The Command Line, Running Python, Lists & Tuples"
-  - url: https://docs.google.com/presentation/d/18vPQYcpN_IH2Abj42MEA9S9BBWQT4B5knZYY-gmD_78/edit?usp=sharing
-    title: Supplementary Slides for Live Lecture
-videos: 
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b5e7fb1-45d6-4a58-afbd-ac3d00dba629
-    duration: "12:40"
-    title: |
-      Demo: Working with the Command Line
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d362f396-92c1-4417-bc20-ac3d00dbef14
-    duration: "05:59"
-    title: |
-      Demo: 3 Ways to Execute Python
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d888642e-4713-4d68-9ab2-ac3d00dc10d2
+  - url: https://docs.google.com/presentation/d/151qAFAoG50CAQI7he1S4H63Nte8GDkmh6kkJot8-kTM/edit?usp=sharing
     title: "Lists & Tuples"
-    duration: "10:16"
-  - url: https://northwestern.zoom.us/rec/share/3eXVEf21arzZ8L2mTA_sDvUri1PH58DUsC4RYmLfgf-1MPau06B-r-Ru4wvACR6X.A8iuRaSmB18u3rfK?startTime=1600874151000
-    live: 1
-    title: Practice with the command line, lists, and tuples
-    duration: |
-        47:41
+#   - url: https://docs.google.com/presentation/d/1v4m7-XXEQmS0L_6tN-7ZH9Ggoxjq3pOb17h6MEPsKGo/edit?usp=sharing
+#     title: Live Lecture Activities
+videos: 
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b052eb43-e988-4732-8651-adab0002c01c
+    title: "Lists & Tuples"
+    duration: "09:42"
+
 readings:
   - title: "Ch9: Lists"
     author: "Severance"
@@ -44,10 +31,12 @@ readings:
 
 exercise_url: "lecture04.zip"
 ---
-In this lesson, we will review several different concepts: the command line, running python files, and an intro to more complex data structures (lists and tuples). 
+In this lesson, we are going to take a look at two new data types -- lists and tuples -- which are in the "sequence" family. These data structures allow us to group collections of data together conveniently.
 
 {:.blockquote-no-margin}
-> ### Note: The slides/files references in the videos have changed slightly
-> Some of the slides / file references have changed from last quarter, but the content is the same.
+> ## Note: References Have Changed Slightly
+> In the pre-recorded video, some of the slides / file references have changed from last quarter, but the content is the same.
 
-During lecture, we will be going through several different examples of how you might want to use a list.
+During lecture, we will be going through several different examples of how you might want to use a list / tuple.
+
+<!-- TODO: add a few slides that go over some of the key functions of a tuple -->
