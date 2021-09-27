@@ -30,11 +30,10 @@ videos:
      title: Built-in Functions
      duration: |
         13:31
-#    - url: ""
-#      live: 1
-#      title: Practice with variables, constants, & operators
-#      duration: |
-#         01:02:59
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a328a1a-e767-405f-9689-adb000f6a564
+     live: 1
+     title: Practice with variables, constants, & operators
+     duration: "44:28"
 
 readings:
   - title: "Ch2: Variables"
