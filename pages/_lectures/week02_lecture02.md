@@ -18,7 +18,7 @@ videos:
     title: "Lists & Tuples"
     duration: "09:42"
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b59d3cc-dc30-4c3b-9445-adb200f764f9
-    title: "Practice woring with lists and tuples"
+    title: "Practice working with lists and tuples"
     duration: "48:20"
     live: 1
 
