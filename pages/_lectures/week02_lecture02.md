@@ -3,7 +3,6 @@ layout: module
 title: Intro to Lists & Tuples
 type: lecture
 num: 4
-# include_page: "extras/command_line.md"
 draft: 0
 quiz_url: https://canvas.northwestern.edu/courses/149580/quizzes/159823
 description:
@@ -12,8 +11,8 @@ due_date: 2021-09-29
 slides:
   - url: https://docs.google.com/presentation/d/151qAFAoG50CAQI7he1S4H63Nte8GDkmh6kkJot8-kTM/edit?usp=sharing
     title: "Lists & Tuples"
-#   - url: https://docs.google.com/presentation/d/1v4m7-XXEQmS0L_6tN-7ZH9Ggoxjq3pOb17h6MEPsKGo/edit?usp=sharing
-#     title: Live Lecture Activities
+  - url: https://docs.google.com/presentation/d/1v4m7-XXEQmS0L_6tN-7ZH9Ggoxjq3pOb17h6MEPsKGo/edit?usp=sharing
+    title: Live Lecture Activities
 videos: 
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b052eb43-e988-4732-8651-adab0002c01c
     title: "Lists & Tuples"
