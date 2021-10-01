@@ -6,7 +6,7 @@ type: homework
 due_date: 2021-10-08
 ordering: 1 
 points: 8
-draft: 1
+draft: 0
 ---
 
 <a class="nu-button" href="/fall2021/course-files/homework/hw02.zip" target="_blank">
@@ -55,7 +55,7 @@ canvas.mainloop()
 
 ### Documentation
 4. Finally, you may need to refer to the canvas documentation, located here:
-<a href="http://effbot.org/tkinterbook/canvas.htm" target="_blank">http://effbot.org/tkinterbook/canvas.htm</a>. Most technical documentation is terse and difficult for beginners to interpret. That said, learning to read technical documentation is an important part of becoming a solid programmer, and will serve you well. You are essentially learning to read in a new genre, so interpreting the documentation takes practice (and patience). Ultimately, learning about tkinter is unimportant. However, learning how to work with modules (which all have structures similar to tkinter) is one of the most important things you will learn in the class.
+<a href="https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/canvas.html" target="_blank">https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/canvas.html</a>. Most technical documentation is terse and difficult for beginners to interpret. That said, learning to read technical documentation is an important part of becoming a solid programmer, and will serve you well. You are essentially learning to read in a new genre, so interpreting the documentation takes practice (and patience). Ultimately, learning about tkinter is unimportant. However, learning how to work with modules (which all have structures similar to tkinter) is one of the most important things you will learn in the class.
 
 ## 2. Your Tasks
 Take a look at some of the canvas functions and feel free to tinker with the arguments and values of the code. When you're done, please complete the following 4 tasks:

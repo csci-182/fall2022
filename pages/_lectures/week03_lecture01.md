@@ -2,14 +2,13 @@
 layout: module
 title: Creating Your Own Functions
 type: lecture
-draft: 1
+draft: 0
 num: 6
 description:
   - Creating your own functions
   - Defining versus invoking functions
 due_date: 2021-10-04
-# Note: quiz ready to go!
-# quiz_url: https://canvas.northwestern.edu/courses/149580/quizzes/159811
+quiz_url: https://canvas.northwestern.edu/courses/149580/quizzes/159811
 slides:
   - url: https://docs.google.com/presentation/d/11_3yGdESgyw11cYiosIHWGBlhPD1SER_hjPCXWjC2No/edit?usp=sharing
     title: "Creating your own functions"
