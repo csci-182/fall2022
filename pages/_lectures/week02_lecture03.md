@@ -12,9 +12,8 @@ due_date: 2021-10-01
 slides:
   - url: https://docs.google.com/presentation/d/12Srk8yvpsYQQlB_U_TEaCCcHb9zqMVmmoz4KRLUbLEQ/edit?usp=sharing
     title: "Intro to Functions"
-# Link has been updated, but live lecture needs some edits:
-#   - url: https://docs.google.com/presentation/d/1gTu61HaLxE9Qjpy2LUehqkJDzxcTnLWOynGQ6pm6ZkQ/edit?usp=sharing
-#     title: Live Lecture Activities
+  - url: https://docs.google.com/presentation/d/1gTu61HaLxE9Qjpy2LUehqkJDzxcTnLWOynGQ6pm6ZkQ/edit?usp=sharing
+    title: Live Lecture Activities
 videos: 
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17fa1eb5-c0e0-4e7e-9761-adab0002bd4e
     title: "Expressions & Intro to Functions"

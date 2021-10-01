@@ -8,10 +8,11 @@ INSTRUCTIONS:
 
 '''
 
-# initialize window
+# initialize window (ignore this code for now)
 window = Tk()
 canvas = Canvas(window, width=700, height=550, background='white')
 canvas.pack()
+# end initialize window
 
 canvas.create_oval(
     [(100, 100), (200, 200)],  #  coords: top-left, bottom-right
