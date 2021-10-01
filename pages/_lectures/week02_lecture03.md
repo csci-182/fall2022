@@ -24,6 +24,10 @@ videos:
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9e5195f-95c3-4e95-a925-adaf01887447
     title: "Built-In Functions Demo"
     duration: "09:10"
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18b3ae9a-1d92-4d30-8af6-adb400f67da3
+    title: "Practice working with built-in functions"
+    duration: "48:19"
+    live: 1
 
 
 readings:
