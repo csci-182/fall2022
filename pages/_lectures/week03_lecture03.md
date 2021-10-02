@@ -3,30 +3,31 @@ layout: module
 title: "Modules and Variable Scope"
 type: lecture
 num: 8
-draft: 1
+draft: 0
 due_date: 2021-10-08
-quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/124241
+quiz_url: https://canvas.northwestern.edu/courses/149580/quizzes/159821
 description:
     - Creating modules
     - Global and local variables
 slides:
-  - url: https://docs.google.com/presentation/d/1bf7achAFtAf9Zpb2WJxhfNAvOyWO9D-3bPt2UDnu_kE/edit?usp=sharing
+  - url: https://docs.google.com/presentation/d/18pxHOGkTpOJ2iSdN2wmDZ8v1tY1g-pl1TrU4xg7S-zs/edit?usp=sharing
     title: "Modules"
-  - url: https://docs.google.com/presentation/d/1WcutixtvM3qyNsCS5-9SIJLHqTK2LKFKy8l2ZcnAn8U/edit?usp=sharing
+  - url: https://docs.google.com/presentation/d/1AQ_JqKarDDzSvsIEYgggSfCrZ92yqEbLaaJaLZQipLI/edit?usp=sharing
     title: "Variable Scope"
-  - url: https://docs.google.com/presentation/d/1Knh9-oqYUW-8g2t7blKTwFGRgIHNvG0YiSFnu6ndncE/edit?usp=sharing
-    title: "Supplementary Slides for Live Lecture"
+# LINK UPDATED BUT NEEDS WORK:
+#   - url: https://docs.google.com/presentation/d/1fj3p79gq8pVmVGJLvd2h0oAlNG-NKm1pxXTbW8I17s4/edit?usp=sharing
+#     title: "Supplementary Slides for Live Lecture"
 videos:
    - title: "Modules"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cdf22c7a-a0a5-4dd3-aa04-ac4800281691
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d94f276-03f3-41ad-976b-adaf01887042
      duration: "20:05"
    - title: "Variable Scope"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6d77a18-c9c3-4926-96f0-ac48003185a1
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8d5d8f4-5884-4c48-8de3-adaf01886fb8
      duration: "16:43"
-   - title: "More functions / modules practice"
-     url: https://northwestern.zoom.us/rec/share/OBOhodJVdQaAwZAOm8Ujy6EH3GDsxi9NyaHrYfw-YNdgYa7JQVI6GJhzZiMUIbwn.2Di9mwhMT9S81-2e?startTime=1601651807000
-     duration: "51:07"
-     live: 1
+#    - title: "More functions / modules practice"
+#      url: ""
+#      duration: ""
+#      live: 1
 
 exercise_url: "lecture08.zip"
 readings:
@@ -40,4 +41,4 @@ In today's pre-recorded lectures, we are going to go over:
 1. Modules: a way of organizing and reusing code, and
 2. Variable scope: what parts of memory can your program access at any given time?
 
-In live lecture, we will pick up from Wednesday and try our diamond exercise again (without rushing through it). 
+In live lecture, we will review the diamond exercise and make sure you feel confident with variable scope and the idea of "modules."
