@@ -12,9 +12,8 @@ quiz_url: https://canvas.northwestern.edu/courses/149580/quizzes/159811
 slides:
   - url: https://docs.google.com/presentation/d/11_3yGdESgyw11cYiosIHWGBlhPD1SER_hjPCXWjC2No/edit?usp=sharing
     title: "Creating your own functions"
-# Link has been updated, but live lecture needs some edits:
-#   - url: https://docs.google.com/presentation/d/1btYB3dsT0mzJvVPpyADMbf7LQ80SNGbrhSqytgrplno/edit?usp=sharing
-#     title: Live Lecture Activities
+  - url: https://docs.google.com/presentation/d/1btYB3dsT0mzJvVPpyADMbf7LQ80SNGbrhSqytgrplno/edit?usp=sharing
+    title: Live Lecture Activities
 videos:
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c92dce0b-7494-45a8-9722-adaf01887395
     title: "Built-in functions review"
