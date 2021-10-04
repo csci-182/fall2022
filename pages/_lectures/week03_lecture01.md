@@ -33,6 +33,10 @@ videos:
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3fcfc113-1a03-49db-ada2-adaf018870ee
     title: "Terminology and documentation"
     duration: "15:00"
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6867917e-2277-478b-95c0-adb700f6f4ae
+    title: "Practice creating your own functions"
+    duration: "48:25"
+    live: 1
 
 exercise_url: "lecture06.zip"
 ---
