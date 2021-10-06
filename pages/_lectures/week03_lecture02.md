@@ -9,8 +9,8 @@ description:
 due_date: 2021-10-06
 slides:
 # LINK HAS BEEN UPDATED BUT NEEDS WORK
-#   - url: https://docs.google.com/presentation/d/1yuP9Uj0VnkFk4Obqd-dQ54jmO293Lt7QBvUdg7T76Ek/edit?usp=sharing
-#     title: "Supplementary Slides for Live Lecture"
+  - url: https://docs.google.com/presentation/d/1yuP9Uj0VnkFk4Obqd-dQ54jmO293Lt7QBvUdg7T76Ek/edit?usp=sharing
+    title: "Supplementary Slides for Live Lecture"
 # videos:
 #   - url: ""
 #     title: "Practice writing functions (part 2)"
