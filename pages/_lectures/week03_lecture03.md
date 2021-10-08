@@ -14,9 +14,8 @@ slides:
     title: "Modules"
   - url: https://docs.google.com/presentation/d/1AQ_JqKarDDzSvsIEYgggSfCrZ92yqEbLaaJaLZQipLI/edit?usp=sharing
     title: "Variable Scope"
-# LINK UPDATED BUT NEEDS WORK:
-#   - url: https://docs.google.com/presentation/d/1fj3p79gq8pVmVGJLvd2h0oAlNG-NKm1pxXTbW8I17s4/edit?usp=sharing
-#     title: "Supplementary Slides for Live Lecture"
+  - url: https://docs.google.com/presentation/d/1fj3p79gq8pVmVGJLvd2h0oAlNG-NKm1pxXTbW8I17s4/edit?usp=sharing
+    title: "Supplementary Slides for Live Lecture"
 videos:
    - title: "Modules"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d94f276-03f3-41ad-976b-adaf01887042
