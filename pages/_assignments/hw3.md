@@ -6,7 +6,7 @@ type: homework
 due_date: 2021-10-14
 ordering: 3
 points: 8
-draft: 1
+draft: 0
 ---
 
 <a class="nu-button" href="/fall2021/course-files/homework/hw03.zip" target="_blank">

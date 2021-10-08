@@ -4,25 +4,23 @@ title: "Quiz 1"
 type: quiz
 description:
     - Quiz 1 of 3 (using the Lockdown Browser)
-draft: 1
+draft: 0
 num: 1
 due_date: 2021-10-15
 
 ---
 ## Study Materials
-* <a href="https://docs.google.com/document/d/1EvC8w6KPSrMDoWTNlNivEvP1jcxdmZd1yKWkm8NXJ98/edit?usp=sharing" target="_blank">Study Guide</a>
-* Please do the <a href="https://canvas.northwestern.edu/courses/120087/quizzes" target="_blank">practice mini-quizzes</a>
-* The practice quiz, which requires using the [Lockdown Browser](../resources/lockdown-browser), will be posted Sunday evening, 10/4.
+* <a href="https://docs.google.com/document/d/1ufN60wKg1M-KgVIk5AxT_SIQC2Troz2eI5O2Z4DGqOE/edit?usp=sharing" target="_blank">Study Guide</a>
+* Please do the <a href="https://canvas.northwestern.edu/courses/149580/quizzes" target="_blank">practice mini-quizzes</a>
 
-## Practice Quiz Now Available!
-The practice quiz has now been published <a href="https://canvas.northwestern.edu/courses/120087/quizzes/124320" target="_blank">here</a>. To take it, you need to download the Lockdown Browser, open it, and use it to log into Canvas. Once you've done this, navigate to the CS110 Quiz section and take the quiz just as you have taken the others.
-
-Start early. You can take the quiz as many times as you want to practice.
+## Full-Length Practice Quizzes
+* We have published 3 practice quizzes 
+    * <a href="https://canvas.northwestern.edu/courses/149580/quizzes/159820" target="_blank">Practice Quiz 01a</a> (requires the Lockdown Browser)
+    * <a href="https://canvas.northwestern.edu/courses/149580/quizzes/159800" target="_blank">Practice Quiz 01b</a>
+    * <a href="https://canvas.northwestern.edu/courses/149580/quizzes/159805" target="_blank">Practice Quiz 01c</a>
+* A note on using the [Lockdown Browser](../resources/lockdown-browser):
+    * Practice Quiz 01a requires using the Lockdown Browser (LDB). Please practice taking the quiz with the LDB at least 1 day before the quiz to work out any bugs.
+    * Start practicing early. You can take the quiz as many times as you want.
 
 ## How to Take The Actual Quiz
-There will be two windows for the quiz:
-
-1. **Option 1:** Thursday night from 9PM-9:50PM (intended to accommodate Asian time zones)
-2. **Option 2:** Friday morning during regularly scheduled class time (10:20AM-11:10AM)
-
-Anyone is welcome to take the quiz either on Thursday evening or on Friday morning, regardless of where you live in the world.
+On Friday, 10/15, we will all be taking the quiz **IN CLASS** (Lutkin Hall), on your laptop, using the Lockdown Browser.
