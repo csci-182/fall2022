@@ -23,10 +23,10 @@ videos:
    - title: "Variable Scope"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8d5d8f4-5884-4c48-8de3-adaf01886fb8
      duration: "16:43"
-#    - title: "More functions / modules practice"
-#      url: ""
-#      duration: ""
-#      live: 1
+   - title: "The diamond challenge"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ec39c68-bc2d-43e0-8918-adbb00f6fc2b
+     duration: "49:18"
+     live: 1
 
 exercise_url: "lecture08.zip"
 readings:
