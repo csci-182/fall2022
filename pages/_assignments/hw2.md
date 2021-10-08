@@ -27,7 +27,7 @@ In this assignment, you are going to get some practice writing functions using t
 To draw your shapes, you will be using an (x, y) coordinate space that has a different origin from the one you use in math class. For computer graphics, the origin is typically in the top left-hand corner (pictured below). To help you debug, I have created a function, make_grid, in the helpers.py file, that will draw gridlines for you.
 
 
-<img class="med-lg center" src="/fall2021/assets/images/hw02/grid.svg" /><br>Source: <a href="https://processing.org/labs/drawing/" target="_blank">https://processing.org/labs/drawing/</a>
+<img class="med-lg center" src="/fall2021/assets/images/hw02/grid.svg" /><br>Source: <a href="https://processing.org/tutorials/coordinatesystemandshapes" target="_blank">https://processing.org/tutorials/coordinatesystemandshapes</a>
 
 ### TKinter sample code
 To get you started, I have created a file of samples, located in `warm_up.py`, that you can use as a reference as you learn how to draw shapes using the tkinter canvas library. Please feel free to copy and adapt code from this file to complete your assignment. When you run `warm_up.py` from IDLE (by pressing F5), you should see an image like this:
