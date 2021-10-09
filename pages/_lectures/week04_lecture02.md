@@ -3,7 +3,7 @@ layout: lecture-two-column
 title: |
     Quiz Review: Expressions
 type: lecture
-draft: 1
+draft: 0
 num: 10
 description:
   - Operators & Data Types
@@ -15,9 +15,8 @@ due_date: 2021-10-13
 
 ---
 
-<a href="https://northwestern.zoom.us/rec/share/F6CgL3NAOkaPEG_Xq6TrjMac0iSknmtxSsh2L_sH21tJvnHomSOWM26bPaiFoNU.F6oHaFGAFdCWYYgw?startTime=1602083700000" target="_blank">Video from Today's Lecture</a>
 
-Today, we're going to field questions from the class and go over them. We're also going to make sure we understand how to do these two problems:
+Today in class, we will review any questions that you have about the material covered thus far. Please review the [Quiz 1 study materials](week04-lecture03) and come with questions. We're also going to make sure we understand how to do these two problems:
 
 ## Exercise 1
 ```python
@@ -27,11 +26,12 @@ last_names = ['Jones', 'Jauregui', 'Imper']
 
 # Write a program that combines the two lists by creating a third list,
 # where each entry is the full name of the person. You can assume that 
-# first names and last names of the same person are located in the same slot of
-# their respective lists (e.g. Kim Jones, Brenda Jauregui, Karlo Imper).
+# (1) first names and last names of the same person are located in the same slot of
+# their respective lists (e.g. Kim Jones, Brenda Jauregui, Karlo Imper), and
+# (2) that the lists always have three values in them.
 ```
 
-### Answer (One Approach)
+<!-- ### Answer (One Approach)
 
 ```python
 full_names = []
@@ -39,7 +39,7 @@ full_names.append(first_names[0] + ' ' + last_names[0])
 full_names.append(first_names[1] + ' ' + last_names[1])
 full_names.append(first_names[2] + ' ' + last_names[2])
 print(full_names)
-```
+``` -->
 
 ## Exercise 2
 Write a function that shifts a list of three coordinate pairs by some horizontal amount and some vertical amount. The function should return the new/updated list.
@@ -57,7 +57,7 @@ print(shift_coordinates([(40, 40), (100, 100), (200, 200)]))
 # [(40, 40), (100, 100), (200, 200)]
 ```
 
-### Answer (One Approach)
+<!-- ### Answer (One Approach)
 ```python
 def shift_coordinates(my_list, x_units=0, y_units=0):
     return [
@@ -65,4 +65,4 @@ def shift_coordinates(my_list, x_units=0, y_units=0):
         (my_list[1][0] + x_units, my_list[1][1] + y_units),
         (my_list[2][0] + x_units, my_list[2][1] + y_units)
     ]
-```
+``` -->
