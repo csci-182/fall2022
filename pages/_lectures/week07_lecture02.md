@@ -1,48 +1,33 @@
 ---
-layout: module
-title: Files and Strings
+layout: lecture-two-column
+title: "Quiz 2"
 description:
-    - reading from and writing to files
-    - examining different file types
-type: lecture
+    - Quiz 2 of 3 (using the Lockdown Browser)
+type: quiz
 draft: 1
-num: 17
+num: 2
 due_date: 2021-11-03
-slides: 
-   - title: "Working with Files"
-     url: https://docs.google.com/presentation/d/10PHJet0ugSaKPBIyelW8Gc31C5UjS0yuPI5jFAMEHVY/edit?usp=sharing
-   - title: "Supplementary Slides for Live Lecture"
-     url: https://docs.google.com/presentation/d/1PU8Hqnvyy4YgY98pBA3pLvx271f-bGxkOMAw0Ru1g98/edit?usp=sharing
-readings:
-  - title: "Ch6: Strings"
-    author: "Severance"
-    url: https://www.py4e.com/html3/06-strings
-    video_url: https://www.py4e.com/lessons/strings
-  - title: "Ch7: Files"
-    author: "Severance"
-    url: https://www.py4e.com/html3/07-files
-    video_url: https://www.py4e.com/lessons/files
-videos:
-   - title: "L17a: String & List Functions"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e125524d-4800-4a54-848a-ac6200326f7e"
-     duration: "10:15"
-   - title: "L17b: Reading & Writing Files"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5641bed4-583f-4979-8e46-ac6200326fc3"
-     duration: "8:00"
-   - title: "L17c: Some Example Programs"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79ff3149-5d1a-4385-a0e1-ac6200327003"
-     duration: "5:39"
-   - title: "Practice working with files and string functions"
-     url: "https://northwestern.zoom.us/rec/share/7nhPw42zCZFr020TMF4F43DNe8pzVkvjf9fSYYIZDcSs4PFCbqJ0Ri-oKx0EmrUO.bUVJDQj6fHozOQYE"
-     duration: "52:28"
-     live: 1
-
-
-
-exercise_url: "lecture17.zip"
 ---
 
+## QUIZ 2 LINK NOW POSTED
+Here is a link to **Quiz 2**: <a href="https://canvas.northwestern.edu/courses/120087/quizzes/126461" target="_blank">https://canvas.northwestern.edu/courses/120087/quizzes/126461</a>
 
-Today, you will be learning to work with files --  including reading them, writing them, and appending to them. Because many file formats involve text, you will also be learning to work with some common string functions.
 
-One of the most important skills of a programmer is understanding how to do data manipulation across a variety of contexts and formats. Given that a vast quantity of data is stored in files, databases, etc., learning to access, manipulate, and write data in various formats for subsequent storage is a critical programming skill.
+## Study Materials
+### Review Documents
+* <a href="https://docs.google.com/document/d/1Br6BI6AqKExFNiFPQOHAovVANwDx-nM6uhHId-hwAOo/edit?usp=sharing" target="_blank">Study Guide</a>
+* Please do the <a href="https://canvas.northwestern.edu/courses/120087/quizzes" target="_blank">practice mini-quizzes</a>
+
+### Practice Quiz
+The practice quiz has now been published <a href="https://canvas.northwestern.edu/courses/120087/quizzes/118160" target="_blank">here</a>. To take it, you need to download the Lockdown Browser, open it, and use it to log into Canvas. Once you've done this, navigate to the CS110 Quiz section and take the quiz just as you have taken the others.
+
+Start early. You can take the quiz as many times as you want to practice.
+
+### How to Take The Actual Quiz
+
+There will be two windows for the quiz:
+
+1. **Option 1:** Sunday night, 10/25, from 9PM-9:50PM (intended to accommodate Asian time zones)
+2. **Option 2:** Monday morning, 10/26, during regularly scheduled class time (10:20AM-11:10AM)
+
+Anyone is welcome to take the quiz either on Sunday evening or on Monday morning, regardless of where you live in the world.

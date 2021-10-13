@@ -1,5 +1,5 @@
 ---
-layout: lecture-two-column
+layout: module
 title: |
     Quiz Review: Expressions
 type: lecture
@@ -12,7 +12,14 @@ description:
   - Lists & Tuples
   - Modules
 due_date: 2021-10-13
-
+slides:
+   - title: "Google Doc from Today"
+     url: https://docs.google.com/document/d/1Htmc4lcdBydk270CZagDblVVeyXTNc51C9oRKpcXzGE/edit#
+videos:
+  - title: "Review session"
+    url: https://northwestern.zoom.us/rec/share/j1tSTfNVmoCNebTYUmA29PAZxSOmhyqTfJqVXXqASLng5PLhgoJwYv0jKXnzADW8.0HnNvNx1Cmdc5O5P
+    live: 1
+    duration: "1:28:20"
 ---
 
 
