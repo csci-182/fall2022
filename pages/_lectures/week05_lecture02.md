@@ -12,8 +12,8 @@ due_date: 2021-10-20
 slides: 
    - title: "Repeating Tasks with Code: While Loops"
      url: https://docs.google.com/presentation/d/14MU6Kba2MfkDVfhZ1uehFQi-j_XJ2JAG8mfj73VqAJM/edit?usp=sharing
-   - title: "Supplementary Slides for Live Lecture"
-     url: https://docs.google.com/presentation/d/1qXlExgUvRGdiARji0cxktJZN881fwGT0bjfeDYkmr5k/edit?usp=sharing
+#    - title: "Supplementary Slides for Live Lecture"
+#      url: ""
 readings:
   - title: "Ch5: Iteration"
     author: "Severance"
@@ -32,10 +32,10 @@ videos:
    - title: "Loops & Lists"
      url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05efb09d-ccd6-47ff-90a6-ac5300ec9c84"
      duration: "22:04"
-   - title: "Practice with logical and comparison operators; while loops"
-     url: "https://northwestern.zoom.us/rec/share/FnEx9uhPBG7cOTXFoPfOfKnJMqCMNmPOI0HHPpni5IXEakF9oM4JOUWrGDeNi3E.Osk_izuHiHL6NhSa?startTime=1602688576000"
-     duration: "49:31"
-     live: 1
+#    - title: "Practice with logical and comparison operators; while loops"
+#      url: ""
+#      duration: ""
+#      live: 1
 
 exercise_url: "lecture12.zip"
 ---
