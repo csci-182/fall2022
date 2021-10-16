@@ -6,12 +6,12 @@ description:
     - How long do you want to repeat it?
     - What changes each time (optional)?
 type: lecture
-draft: 1
+draft: 0
 num: 12
 due_date: 2021-10-20
 slides: 
    - title: "Repeating Tasks with Code: While Loops"
-     url: https://docs.google.com/presentation/d/14MU6Kba2MfkDVfhZ1uehFQi-j_XJ2JAG8mfj73VqAJM/edit?usp=sharing
+     url: https://docs.google.com/presentation/d/1H_3vupx1eoxObqemUWm2_CKi6jXjemyGc8EkEPwMJHE/edit?usp=sharing
 #    - title: "Supplementary Slides for Live Lecture"
 #      url: ""
 readings:
@@ -24,13 +24,13 @@ readings:
     url: http://openbookproject.net/thinkcs/python/english3e/iteration.html
 videos:
    - title: "Introduction to loops"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=face3e16-0900-41bf-95aa-ac5300db3cb9
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71cdc77e-9596-4a98-98cf-adc20157ffaf
      duration: "9:07"
    - title: "While loops example"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37c3c020-0c9b-4b28-9bfe-ac5300e78956"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a0062143-f53a-4030-ac0a-adc20157ff1b
      duration: "15:51"
    - title: "Loops & Lists"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05efb09d-ccd6-47ff-90a6-ac5300ec9c84"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=810e2b71-aa2e-4b78-beef-adc20157fe57
      duration: "22:04"
 #    - title: "Practice with logical and comparison operators; while loops"
 #      url: ""
