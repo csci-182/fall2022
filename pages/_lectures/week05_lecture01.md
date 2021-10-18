@@ -34,10 +34,10 @@ videos:
   - title: "Logical operators and Truth Tables"
     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a0dd0478-c36c-4ce7-b890-adc201580086"
     duration: "22:49"
-#   - title: "Practice with conditional statements"
-#     url: ""
-#     duration: ""
-#     live: 1
+  - title: "Practice with conditional statements"
+    url: "https://northwestern.zoom.us/rec/share/bH-PPdZiSTj0TqGcLV-2GQ1DVkOszEv3-jA8PCmNgstroIjgQdobDfAc--3E3PSi.FTk4JnSvyLFD2JFk"
+    duration: "52:07"
+    live: 1
 
 exercise_url: "lecture11.zip"
 quiz_url: https://canvas.northwestern.edu/courses/149580/quizzes/159807
