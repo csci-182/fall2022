@@ -13,6 +13,12 @@ slides:
 due_date: 2021-10-22
 quiz_url: https://canvas.northwestern.edu/courses/149580/quizzes/159814
 exercise_url: "lecture13.zip"
+videos:
+   - title: "Practice with while loops"
+     url: https://northwestern.zoom.us/rec/share/3kDw8Tvx-GghRlxhizMzjrC1yW-VjE1OTGFs8SyNr0BOeo6R7m1asb84-zUT47aw.Z7EnXuY54dky90x5
+     duration: "50:35"
+     live: 1
+
 ---
 
 Today's lesson will be a continued discussion of While Loops. See [Lesson 12](week05_lecture02) for reference materials. 
