@@ -16,7 +16,7 @@ exercise_url: "lecture13.zip"
 videos:
    - title: "Practice with while loops"
      url: https://northwestern.zoom.us/rec/share/3kDw8Tvx-GghRlxhizMzjrC1yW-VjE1OTGFs8SyNr0BOeo6R7m1asb84-zUT47aw.Z7EnXuY54dky90x5
-     duration: "50:35"
+     duration: "51:38"
      live: 1
 
 ---
