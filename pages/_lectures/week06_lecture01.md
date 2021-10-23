@@ -5,33 +5,33 @@ description:
     - Intro to for loops syntax
     - Using for loops with lists and sequences
 type: lecture
-draft: 1
+draft: 0
 num: 14
 due_date: 2021-10-25
 slides: 
    - title: "More Loops: For Loops & Lists"
-     url: https://docs.google.com/presentation/d/1EO7Lk5iv_k7dw5FgfLO13T1AD2-LpRzCd-uHtDSq8yM/edit?usp=sharing
+     url: https://docs.google.com/presentation/d/1Zr4nhhdpRssjFq0Rklc9NLXUdSzgC0GSkGNfN0toZ8s/edit?usp=sharing
    - title: "Supplementary Slides for Live Lecture"
-     url: https://docs.google.com/presentation/d/1w11NnZ2VfJ1nGCMob1C1CAp1DNDRWPrMBRYT3TsC9tI/edit?usp=sharing
+     url: ""
 videos:
    - title: "Intro to for loops"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c52b7ba-2496-4e69-a5b8-ac5701804a89"
-     duration: "8:29"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65353cda-4363-46e4-85f8-adc20157fc5f
+     duration: "8:14"
    - title: "Break and continue"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=24f8c3b6-d2f2-4c55-90dd-ac570182c230"
-     duration: "6:59"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f7718ca9-6ed3-4871-8cc6-adc20157fbbd
+     duration: "6:40"
    - title: "The range function"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46489f3e-0c40-478b-8f76-ac570179345d"
-     duration: "9:09"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e31e7040-9a8f-4154-ab82-adc20157fdd3
+     duration: "8:54"
    - title: "Looping algorithms"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b95a7de-2b8a-4c86-ab89-ac5701793481"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e693c1f4-b3dd-48e4-8cef-adc20157fd01
      duration: "14:02"
-   - title: "Practice w/looping algorithms"
-     url: "https://northwestern.zoom.us/rec/share/Ws0oC3TM9xKkUfVKpo0deM4NXWYp6n3-wGV-EP3oezfuYb8RFyMhXiqZdcOt6oJ5.0yNvQPSuulM6DwMx?startTime=1603120502000"
-     duration: "49:32"
-     live: 1
+#    - title: "Practice w/looping algorithms"
+#      url: ""
+#      duration: ""
+#      live: 1
      
-quiz_url: "https://canvas.northwestern.edu/courses/120087/quizzes/125689"
+quiz_url: "https://canvas.northwestern.edu/courses/149580/quizzes/159816"
 exercise_url: "lecture14.zip"
 ---
 
