@@ -1,3 +1,9 @@
+'''
+Documentation: 
+  * tkinter events: https://www.python-course.eu/tkinter_events_binds.php
+  * Canvas: https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/canvas.html
+  * Other Canvas methods: https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/canvas-methods.html
+'''
 # If you want to have a top menu and instructions:
 from tkinter import Canvas, Tk, Frame, Button, N, W, E, S, messagebox
 import helpers

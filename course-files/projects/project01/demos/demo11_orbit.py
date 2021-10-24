@@ -1,3 +1,9 @@
+'''
+Documentation: 
+  * tkinter events: https://www.python-course.eu/tkinter_events_binds.php
+  * Canvas: https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/canvas.html
+  * Other Canvas methods: https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/canvas-methods.html
+'''
 from tkinter import Canvas, Tk
 from utilities import update_position_by_tag, make_circle
 from helpers import make_creature

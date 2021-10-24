@@ -1,5 +1,6 @@
 '''
 This demo shows you how you can create a new image by clicking the screen.
+From your command line, type: pip3 install pillow
 '''
 from tkinter import Canvas, Tk
 import helpers
