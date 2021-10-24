@@ -1,47 +1,33 @@
 ---
-layout: module
-title: More on Files & Strings + Error Handling
+layout: lecture-two-column
+title: "Quiz 2"
 description:
-    - Working with templates
-    - Error handling
-type: lecture
+    - Quiz 2 of 3 (using the Lockdown Browser)
+type: quiz
 draft: 1
-num: 19
+num: 2
 due_date: 2021-11-08
-slides: 
-   - title: "More Files & Strings + Error Handling"
-     url: "https://docs.google.com/presentation/d/11N9ZvuBaYrdLg4Dqz7mpoJmYq4OCS_mOFiEANpgVIss/edit?usp=sharing"
-   - title: "Supplementary Slides for Live Lecture"
-     url: https://docs.google.com/presentation/d/1C4gmNpWAxM0BQjMJMddWKRXxLb_0dQ6Ykth8dNRzq5k/edit?usp=sharing
-videos:
-   - title: "L19a: Parsing file data"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05e566d5-61d2-44dc-8f14-ac66002c0d79
-     duration: "16:15"
-   - title: "L19b: Error handling"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d737def1-a5ca-4476-93fd-ac66002c0da3
-     duration: "12:56"
-   - title: "L19c: More string functions"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1eb1b2b4-a933-467f-b3d3-ac66002c0d12
-     duration: "9:26"
-   - title: "L19d: Templates"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c23c262e-82c1-42f9-8eec-ac66002c0d3e
-     duration: "6:16"
-   - title: "L19e: Templates: example"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=16208345-2e59-45e1-af84-ac66002c3c04
-     duration: "18:13"
-   - title: "L19f: Retrieving files via HTTP/HTTPS"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef9e3da6-0ba6-4b74-afaf-ac66002c5490
-     duration: "10:25"
-   - title: "Practice try/except (and short web server diversion)"
-     url: https://northwestern.zoom.us/rec/share/0SbtlWf99uFbuVNdwArYn22UB1ERgU6PqsLc9V14NsXIkDY9FFEgEHT-LkqJe5p6.5RIbKHkWBYF9BtFJ?startTime=1604333745000
-     duration: "51:12"
-     live: 1
-exercise_url: "lecture19.zip"
 ---
 
-In this lesson, we're going to go over a few more examples of using files in the "real world." This includes:
-1. reading files from disk and from the Internet,
-2. manipulating file data into usable formats, and finally
-3. writing files with the help of templates
+## QUIZ 2 LINK NOW POSTED
+Here is a link to **Quiz 2**: <a href="https://canvas.northwestern.edu/courses/120087/quizzes/126461" target="_blank">https://canvas.northwestern.edu/courses/120087/quizzes/126461</a>
 
-We will also explore a new file format (HTML). In addition, we will also talk about error handling using `try/except` blocks.
+
+## Study Materials
+### Review Documents
+* <a href="https://docs.google.com/document/d/1Br6BI6AqKExFNiFPQOHAovVANwDx-nM6uhHId-hwAOo/edit?usp=sharing" target="_blank">Study Guide</a>
+* Please do the <a href="https://canvas.northwestern.edu/courses/120087/quizzes" target="_blank">practice mini-quizzes</a>
+
+### Practice Quiz
+The practice quiz has now been published <a href="https://canvas.northwestern.edu/courses/120087/quizzes/118160" target="_blank">here</a>. To take it, you need to download the Lockdown Browser, open it, and use it to log into Canvas. Once you've done this, navigate to the CS110 Quiz section and take the quiz just as you have taken the others.
+
+Start early. You can take the quiz as many times as you want to practice.
+
+### How to Take The Actual Quiz
+
+There will be two windows for the quiz:
+
+1. **Option 1:** Sunday night, 10/25, from 9PM-9:50PM (intended to accommodate Asian time zones)
+2. **Option 2:** Monday morning, 10/26, during regularly scheduled class time (10:20AM-11:10AM)
+
+Anyone is welcome to take the quiz either on Sunday evening or on Monday morning, regardless of where you live in the world.

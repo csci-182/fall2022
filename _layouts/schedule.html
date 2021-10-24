@@ -100,7 +100,7 @@ layout: default
                 {% endif %}
                 <td>
                     {% if lecture.type == 'lab' or lecture.type == 'quiz' %}
-                        {{ prefix | upcase }} 
+                        {{ prefix | upcase }} <br>
                     {% endif %}
                     {% assign assignments = site.assignments | where: 'due_date', date %}
                     {% for assignment in assignments %}

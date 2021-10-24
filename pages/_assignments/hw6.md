@@ -1,10 +1,9 @@
 ---
 layout: assignment-two-column
-title: |
-    Recommendation App: Part I
+title: TBD
 abbreviation: HW6
 type: homework
-due_date: 2021-11-24
+due_date: 2021-12-03
 points: 8
 draft: 1
 ---

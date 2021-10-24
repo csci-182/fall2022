@@ -1,33 +1,24 @@
 ---
-layout: lecture-two-column
-title: "Quiz 2"
-description:
-    - Quiz 2 of 3 (using the Lockdown Browser)
-type: quiz
+layout: module
+title: More on Files & Strings
+type: lecture
 draft: 1
-num: 2
+description:
+    - Files continued
+num: 18
 due_date: 2021-11-03
+slides: 
+   - title: "Supplementary Slides for Live Lecture"
+     url: https://docs.google.com/presentation/d/1N9WmWH-yiX8hmL8ErcyYLqSyKaulTegklgZPikyHxI4/edit?usp=sharing
+videos:
+   - title: "More Practice with files and string functions"
+     url: https://northwestern.zoom.us/rec/share/Bl_50oVTGW8KobT-x3Tg5Q-v-LK2iP5MgkND5R9tSkkQZ351vhoS9waBVXJUrTZb.JrFBGl-vh_1K7FVJ?startTime=1604071037000
+     duration: "50:19"
+     live: 1
 ---
 
-## QUIZ 2 LINK NOW POSTED
-Here is a link to **Quiz 2**: <a href="https://canvas.northwestern.edu/courses/120087/quizzes/126461" target="_blank">https://canvas.northwestern.edu/courses/120087/quizzes/126461</a>
+In this lesson, we're going to continue going over how to work with file data (a continuation from Wednesday's lecture.)
 
 
-## Study Materials
-### Review Documents
-* <a href="https://docs.google.com/document/d/1Br6BI6AqKExFNiFPQOHAovVANwDx-nM6uhHId-hwAOo/edit?usp=sharing" target="_blank">Study Guide</a>
-* Please do the <a href="https://canvas.northwestern.edu/courses/120087/quizzes" target="_blank">practice mini-quizzes</a>
 
-### Practice Quiz
-The practice quiz has now been published <a href="https://canvas.northwestern.edu/courses/120087/quizzes/118160" target="_blank">here</a>. To take it, you need to download the Lockdown Browser, open it, and use it to log into Canvas. Once you've done this, navigate to the CS110 Quiz section and take the quiz just as you have taken the others.
 
-Start early. You can take the quiz as many times as you want to practice.
-
-### How to Take The Actual Quiz
-
-There will be two windows for the quiz:
-
-1. **Option 1:** Sunday night, 10/25, from 9PM-9:50PM (intended to accommodate Asian time zones)
-2. **Option 2:** Monday morning, 10/26, during regularly scheduled class time (10:20AM-11:10AM)
-
-Anyone is welcome to take the quiz either on Sunday evening or on Monday morning, regardless of where you live in the world.
