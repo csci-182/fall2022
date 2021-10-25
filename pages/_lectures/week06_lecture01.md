@@ -12,7 +12,7 @@ slides:
    - title: "More Loops: For Loops & Lists"
      url: https://docs.google.com/presentation/d/1Zr4nhhdpRssjFq0Rklc9NLXUdSzgC0GSkGNfN0toZ8s/edit?usp=sharing
    - title: "Supplementary Slides for Live Lecture"
-     url: ""
+     url: https://docs.google.com/presentation/d/1d3UYbPYuHpoTy5-3AzTrR3nWmS2VtKZb0asPr38LpJ4/edit?usp=sharing
 videos:
    - title: "Intro to for loops"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65353cda-4363-46e4-85f8-adc20157fc5f
