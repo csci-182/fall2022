@@ -13,9 +13,9 @@ exercise_url: "lecture15.zip"
 #     url: ""
 #     live: 1
 #     duration: ""
-# slides:
-#   - title: "Slides for Live Lecture: More Practice Problems"
-#     url: https://docs.google.com/presentation/d/1xurK3QEOw0p9ZfUj9CCrZ-phG-m9ENxbPg4M0DORaNg/edit?usp=sharing
+slides:
+  - title: "Slides for Live Lecture: More Practice Problems"
+    url: https://docs.google.com/presentation/d/18s_3ogJEoBToh68IeAQZQ3kX9qeYidfCU5knyAtQu0I/edit?usp=sharing
 ---
 
 In today's lecture, we will be continuing our practice with for loops.
