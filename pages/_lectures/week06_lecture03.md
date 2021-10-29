@@ -28,10 +28,10 @@ videos:
    - title: "L16d: Other Events"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=32c65d38-3035-4823-878b-adc20157fb1f
      duration: "12:38"
-#    - title: "Practice w/loops and animation"
-#      url: ""
-#      live: 1
-#      duration: ""
+   - title: "Practice w/loops and animation"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=15dfc1a3-2c9a-44a3-a274-add000f7f55c
+     live: 1
+     duration: "48:14"
 
      
 ---
