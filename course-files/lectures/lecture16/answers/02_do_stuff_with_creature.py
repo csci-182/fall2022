@@ -1,5 +1,4 @@
 from tkinter import Canvas, Tk
-import random
 import time
 import creature
 import utilities

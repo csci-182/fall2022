@@ -12,8 +12,8 @@ due_date: 2021-10-29
 slides: 
    - title: "Handling User Input & Event Handlers"
      url: https://docs.google.com/presentation/d/1Qeki-wRimGWwT8VtpnGmXtUDEkbiVEZLI4f1Tz7YB4Y/edit?usp=sharing
-#    - title: "Practice with..."
-#      url: ""
+   - title: "More practice with loops and animations"
+     url: https://docs.google.com/presentation/d/1mTpl0a1WRv9TJm_e2gcyICqXeYTT4YG6bZvQ1iGQY5c/edit?usp=sharing
 exercise_url: "lecture16.zip"
 videos:
    - title: "L16a: Intro to the Project"

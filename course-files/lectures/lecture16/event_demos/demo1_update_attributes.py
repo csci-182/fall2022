@@ -23,8 +23,6 @@ canvas.pack()
 
 ########################## YOUR CODE BELOW THIS LINE ##############################
 
-
-
 helpers.make_creature(
     canvas,
     (200, 200),
