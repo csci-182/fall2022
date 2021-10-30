@@ -32,7 +32,6 @@ videos:
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=15dfc1a3-2c9a-44a3-a274-add000f7f55c
      live: 1
      duration: "48:14"
-
      
 ---
 
