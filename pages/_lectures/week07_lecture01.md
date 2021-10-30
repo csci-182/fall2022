@@ -8,9 +8,9 @@ type: lecture
 draft: 0
 num: 17
 due_date: 2021-11-01
-slides: 
-   - title: "Intro to the Command Line & PIP"
-     url: #
+# slides: 
+#    - title: "Intro to the Command Line & PIP"
+#      url: #
 # readings:
 #   - title: ""
 #     author: ""
