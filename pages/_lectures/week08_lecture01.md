@@ -10,6 +10,8 @@ due_date: 2021-11-08
 ---
 
 ## Study Materials
+Note that Quiz 2 is cumulative, and will include what we've already covered re: functions, expressions, and data types.
+
 ### Review Documents
 * <a href="https://docs.google.com/document/d/1Tlwg_6pWzLiGfFf0voTABARwHygEfMZR71LAUflcMK8/edit?usp=sharing" target="_blank">Study Guide</a>
 * Please do the <a href="https://canvas.northwestern.edu/courses/149580/quizzes" target="_blank">practice mini-quizzes and full-length quizzes</a>.
