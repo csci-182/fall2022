@@ -32,10 +32,10 @@ videos:
    - title: "L18c: Some Example Programs"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9829dcb3-e8f2-44ab-bee3-adc20157f6e6
      duration: "5:39"
-#    - title: "Practice working with files and string functions"
-#      url: ""
-#      duration: "??"
-#      live: 1
+   - title: "Practice working with files and string functions"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=467d0392-e8d2-495e-969a-add500f78885
+     duration: "49:52"
+     live: 1
 exercise_url: "lecture18.zip"
 ---
 
