@@ -32,10 +32,10 @@ videos:
    - title: "L19f: Retrieving files via HTTP/HTTPS"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=443e1f3e-ef79-4c8d-929e-add101555406
      duration: "9:59"
-#    - title: "???"
-#      url: ""
-#      duration: ""
-#      live: 1
+   - title: "Practice with try/except"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47d908bb-2937-48ee-9b55-add700f728b8
+     duration: "49:16"
+     live: 1
 exercise_url: "lecture19.zip"
 ---
 
