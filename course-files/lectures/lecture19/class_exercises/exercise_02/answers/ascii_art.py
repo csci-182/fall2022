@@ -46,7 +46,7 @@ def draw_pixel_art(canvas:Canvas, top_left:tuple, file_name:str, pixel:str=10,
 
 
 
-# Invoke your function:
+# Invoke your function (give them a position, the name of the file, and a color palette):
 draw_pixel_art(canvas, (0, 20), file_name='flower.csv', palette=(None, 'black', '#FF0000', 'orange', 'yellow', 'white', '#5ec031'))
 draw_pixel_art(canvas, (120, 220), file_name='heart.csv', pixel=12, palette=(None, '#E0607E', 'black', 'white'))
 draw_pixel_art(canvas, (420, 250), file_name='heart.csv', pixel=8)

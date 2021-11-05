@@ -11,8 +11,8 @@ due_date: 2021-11-05
 slides: 
    - title: "More Files & Strings + Error Handling"
      url: https://docs.google.com/presentation/d/1B6aHSqSRWWG68qjEl3R9lAwskW4Lxu-VQNEQ75r1dW8/edit?usp=sharing
-#    - title: "Supplementary Slides for Live Lecture"
-#      url: ""
+   - title: "Supplementary Slides for Live Lecture"
+     url: https://docs.google.com/presentation/d/1olQH9bN2lcl3G-ZO93V1YyCnogjEffA_SMWVhD9Cf-g/edit?usp=sharing
 videos:
    - title: "L19a: Parsing file data"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13f7391c-2e7a-4a85-b123-add101555601
