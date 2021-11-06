@@ -21,7 +21,7 @@ Note that Quiz 2 is cumulative, and will include what we've already covered re: 
 * Please do the <a href="https://canvas.northwestern.edu/courses/149580/quizzes" target="_blank">practice mini-quizzes and full-length quizzes</a>.
 
 ### Practice Quiz
-The practice quizzes have now been published. Practice Quiz 2a is configured so that it only works wit the Lockdown Browser. Start studying early. You can take the quiz as many times as you want to practice.
+The practice quizzes have now been published. Practice Quiz 2a is configured so that it only works with the Lockdown Browser. Start studying early. You can take the quiz as many times as you want to practice.
 
 ### How to Take The Actual Quiz
 
