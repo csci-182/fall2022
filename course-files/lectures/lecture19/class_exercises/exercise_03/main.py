@@ -41,7 +41,7 @@ def reminder1():
 
 @app.route("/wednesday")
 def reminder2():
-    return "Don't forget that Project 1 is due on Wednesday!"
+    return "Don't forget that Project 1 is due on Friday!"
 
 
 if __name__ == "__main__":

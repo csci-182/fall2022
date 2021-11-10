@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: Error Handling
+title: Get Started with HW5 (Tic Tac Toe)
 description:
     - When do you use if/else versus try/except?
     - What kind of errors do try/except statements usually handle?

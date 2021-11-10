@@ -1,12 +1,12 @@
 ---
 layout: assignment-two-column
-title: TBD
+title: Tic Tac Toe
 abbreviation: HW5
 type: homework
 files: course-files/assignments/hw05.zip
 due_date: 2021-11-19
 points: 8
-draft: 1
+draft: 0
 ---
 <style>
     .bash-small .highlighter-rouge {
@@ -75,7 +75,7 @@ Before you submit, make sure you’ve tested that your program does the followin
 * Allows the user to indicate whether or not they want to go first
 * Program honors the user’s selection (1-9) and places the symbol correctly 
 * If the user enters something other than 1-9, the program tells the user what they did wrong and re-prompts them 
-   * Note: consider using try/catch + continue (as we did in the beginning of Lecture 13)
+   * Note: consider using try/catch + continue (as we did in Lecture 19)
 * Computer move does not overwrite a slot that is already taken
 * User’s move does not overwrite a slot that is already taken
 * If the user and / or computer wins, the program ends and tells the user which player won

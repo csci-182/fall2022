@@ -8,9 +8,9 @@ type: lecture
 draft: 0
 num: 20
 due_date: 2021-11-10
-# slides: 
-#    - title: "Supplementary Slides for Live Lecture"
-#      url: ""
+slides: 
+   - title: "Supplementary Slides for Live Lecture"
+     url: https://docs.google.com/presentation/d/1RQHCy-Pm7IP4xVHAe4iZUL7VlKLr21MxOS72iegqyYs/edit?usp=sharing
 # videos:
 #    - title: ""
 #      url: ""
