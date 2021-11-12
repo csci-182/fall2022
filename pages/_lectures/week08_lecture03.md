@@ -32,10 +32,10 @@ videos:
    - title: "L21d: Lists of dictionaries (Twitter)"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=486b2534-b349-4be3-83f7-add1015552bd
      duration: "14:50"
-#    - title: "Practice with dictionaries"
-#      url: ""
-#      duration: ""
-#      live: 1
+   - title: "Practice with dictionaries"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d49eb362-f138-47f6-9bca-adde010765f9
+     duration: "48:31"
+     live: 1
 
 exercise_url: "lecture21.zip"
 ---
