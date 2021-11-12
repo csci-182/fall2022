@@ -3,7 +3,9 @@
 # pip install requests
 
 import requests
+import shutil
 import pprint
+from utilities import get_file_path
 
 # Write a program that only prints the text of the most popular 
 # tweet (given the search results).
@@ -22,4 +24,4 @@ print(url)
 response = requests.get(url)
 data = response.json()
 
-pprint.pprint(data, depth=2) # The first value is another dictionary, the second is a list of dictionaries
+pprint.pprint(data, depth=3) # The first value is another dictionary, the second is a list of dictionaries
