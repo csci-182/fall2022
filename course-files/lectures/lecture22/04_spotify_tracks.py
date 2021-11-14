@@ -1,4 +1,5 @@
 import requests #need to install it from the command line using pip
+import utilities
 
 # How do you download some sample audio from the tracks data?
 def search_for_tracks(search_term:str):
@@ -14,4 +15,5 @@ term = input('Enter a search term to look for some tracks: ')
 tracks = search_for_tracks(term)
 
 for track in tracks:
-    print(track.get('name'), track.get('preview_url'))
+    track_url = track.get('preview_url')
+    print(track)
