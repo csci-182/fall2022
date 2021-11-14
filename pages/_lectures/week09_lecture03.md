@@ -1,13 +1,12 @@
 ---
-layout: module
+layout: lecture-two-column
 title: Dictionary Algorithms Continued
 description:
-  - Understanding how a web crawler works
+  - More practice with dictionary analytics
 type: lecture
 draft: 0
 num: 24
 due_date: 2021-11-19
-exercise_url: "lecture24.zip"
 # videos:
 #     - url: ""
 #       title: "Live Lecture Exercise"
@@ -16,3 +15,4 @@ exercise_url: "lecture24.zip"
 
 ---
 
+Today we will continue practicing how to work with dictionaries. 

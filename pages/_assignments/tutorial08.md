@@ -49,7 +49,7 @@ Please make the following enhancements to the `tictactoe_starter.py` file (which
 3. If the user types "Q", terminate the program.
 4. Keep re-prompting the user until they enter a valid number (or Q). See sample video:
 
-<iframe src="https://northwestern.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=f65f5d64-6224-43b0-88f5-abbe00214651&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" width="720" height="405" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://northwestern.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d10536ec-2b52-4a2e-abb9-add1015550a0&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" width="620" height="405" style="padding: 0px; border: 1px solid #464646;" frameborder="0" allowfullscreen="" allow="autoplay"></iframe>
 
 ## What to turn in (same deal as always)
 Please turn in your completed tutorial exercise(s) ON CANVAS by Wednesday night at midnight. To do this, first zip your entire `tutorial08` folder (with your edited files inside), and then upload your zip file to Canvas. Please ensure that your zip file includes **YOUR CODE**. 
