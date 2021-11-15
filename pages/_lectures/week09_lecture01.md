@@ -9,7 +9,7 @@ type: lecture
 draft: 0
 num: 22
 due_date: 2021-11-15
-exercise_url: "lecture21-in-class-edits.zip"
+exercise_url: "lecture22.zip"
 slides: 
    - url: https://docs.google.com/presentation/d/1iIecA190dVoRStdof1MEE5xk6rjTe_hJDLefwUgtbdU/edit?usp=sharing
      title: "Practice Working With  Lists of Dictionaries"
