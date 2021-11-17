@@ -8,9 +8,10 @@ type: lecture
 draft: 0
 num: 23
 due_date: 2021-11-17
-# slides: 
-#    - url: https://docs.google.com/presentation/d/1iIecA190dVoRStdof1MEE5xk6rjTe_hJDLefwUgtbdU/edit?usp=sharing
-#      title: "Practice Working With  Lists of Dictionaries"
+exercise_url: "lecture22.zip"
+slides: 
+   - url: https://docs.google.com/presentation/d/19MNJgFXywamAxzdR-8x1zZwC3nifrNoE2fH4PRaRYEA/edit?usp=sharing
+     title: "Downloading and Creating Data-Driven Files"
 # videos:
 #    - title: "Downloading files"
 #      url: ""
