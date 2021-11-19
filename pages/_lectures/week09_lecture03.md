@@ -13,9 +13,8 @@ exercise_url: "lecture24.zip"
 slides:
    - title: "Using Dictionaries for Data Analysis"
      url: https://docs.google.com/presentation/d/1Mm66pM78-2MU27ZKUt_CphHWq-53grc1vR41U_hDl5Y/edit?usp=sharing
-# Good to go, but announcements need to be updated.
-#    - title: "Supplementary Slides for Live Lecture"
-#      url: https://docs.google.com/presentation/d/10t3ZjmdjuFIlHel0YoucKmUIvKkOSAreF5WTCvBEvlU/edit?usp=sharing
+   - title: "Supplementary Slides for Live Lecture"
+     url: https://docs.google.com/presentation/d/10t3ZjmdjuFIlHel0YoucKmUIvKkOSAreF5WTCvBEvlU/edit?usp=sharing
 
 videos: 
    - title: "L23a: Creating a Dictionary (Review)"
