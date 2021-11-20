@@ -25,5 +25,5 @@ EXCLUDED = [
     # 'images',
     '_site',
     '.vscode',
-    'lecture24.*.csv'
+    #'lecture24.*.csv'
 ]

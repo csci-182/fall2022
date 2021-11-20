@@ -29,10 +29,10 @@ videos:
    - title: "L23d: Grouping & Counting - Legislature"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04555f81-f50d-4bce-bc69-add101554df5
      duration: "19:49"
-#    - title: "Restaurant Analysis"
-#      url: ""
-#      duration: "54:35"
-#      live: 1
+   - title: "Restaurant Analysis"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=41741f58-71b2-4a18-a31c-ade5010801bd
+     duration: "48:11"
+     live: 1
 ---
 
 Dictionaries are also very useful tools for data analysis. Today, we'll go over how dictionaries can help you to group, tally, and analyze data.
