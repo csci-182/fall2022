@@ -1,14 +1,14 @@
 ---
 layout: assignment-two-column
-title: TBD
+title: "Getting Started on P2"
 abbreviation: HW6
 type: homework
 due_date: 2021-12-03
 points: 8
-draft: 1
+draft: 0
 ---
 
-In this assignment, you will be completing 20 points of your [Project 2](p2), to get a solid start before the Thanksgiving Break. Your grade will be calculated by dividing your total score (20 possible points) by 2.5 (so that it scales to 8 possible points).
+In this assignment, you will be completing 20 points of your [Project 2](p2), to get a solid start. Your grade will be calculated by dividing your total score (20 possible points) by 2.5 (so that it scales to 8 possible points).
 
 ## Option 1: Yelp
 Please complete Parts 1-3 of Project 2, which involves asking the user for their (1) restaurant category and (2) sort preferences, and then (3) displaying any matching restaurants to the screen (with an optional keyword filter).
@@ -58,3 +58,8 @@ Please complete Part 1 & 2  of Project 2, which involves asking the user for the
 | **3 Points** | Allows user to search for artist |
 | **3 Points** | Allows user to select among artists returned from Spotify |
 | **3 Points** | Allows user to clear out selected artists and start over |
+
+
+## What to Turn In
+* Your code as a zip file. This should include all of the files that make your code work.
+* Please **only submit 1 set of code files per team** and list who you collaborated with in the submission comments (so that when we run our code similarity checker, we don’t flag you and your collaborators). Your teammates should then just post a comment that says, "see X's submission for the code. My collaborators were X and Y."

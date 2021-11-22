@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Getting Started on Project 2
 type: tutorial
 abbreviation: Tutorial 9
-draft: 1
+draft: 0
 num: 9
 points: 3
 due_date: 2021-12-01
@@ -13,9 +13,9 @@ due_date: 2021-12-01
 ## Background
 In this week's tutorial, you will be getting a preview of [Project 2](../assignments/p2). This includes:
 
-1. Installing some python dependencies using PIP
-2. Updating your `apis/authentication.py` file so that it uses the course API master token
-3. Practicing using some of the modules that have been provided for you inside of the apis directory
+1. Installing some python dependencies using PIP.
+2. Downloading <a href="https://canvas.northwestern.edu/files/10828399/download?download_frd=1">my_token.py</a> from Canvas and save it in your `apis` folder. This is the course API master token. Your project won't work without it.
+3. Practicing using some of the modules that have been provided for you inside of the apis directory.
 
 Please complete the following steps:
 
@@ -28,7 +28,6 @@ If you have set everything up correctly, running the `tests/run_verification.py`
 ```bash
 test_token (test_authentication.TestAuthentication) ... ok
 test_get_key (test_authentication.TestAuthentication) ... ok
-test_malformed_query_yields_errors (test_authentication.TestAuthentication) ... ok
 test__issue_get_request_only_one (test_spotify.TestSpotify) ... 
 ok
 test_execute_business_queries_just_one_simplified (test_yelp.TestYelp) ... 
@@ -37,7 +36,7 @@ test_can_import_sendgrid (test_sendgrid.TestSendgrid) ... ok
 test_can_import_sendgrid_api_module (test_sendgrid.TestSendgrid) ... ok
 
 ----------------------------------------------------------------------
-Ran 7 tests in 5.935s
+Ran 6 tests in 5.935s (time will vary)
 
 OK
 ```
@@ -85,10 +84,11 @@ print('-' * 60)
 ```
 The greater than / less than signs refer to whether the output is left or right justified, and the number refers to the column width.
 
-There is also a helper function inside of the `apis.yelp` module that can help you output businesses to the screen using a "Data Frame" which you are welcome to modify: 
+There is also a helper function inside of the <a href="/fall2021/course-files/projects/project02/docs/yelp.html" target="_blank">apis.yelp</a> module that can help you output businesses to the screen, which you are welcome to modify: 
 
 ```python
-yelp.print_formatted_businesses_table(businesses)
+table_text = yelp.get_formatted_business_list_table(businesses)
+print(table_text)
 ```
 
 #### Practice Querying
@@ -99,7 +99,10 @@ Next, go back to your `tutorial09.py` file and modify the get_businesses(...) fu
 2. Use the `sort_by` keyword argument to change the sort order.
 
 {:.blockquote-no-margin}
-> **NOTE:** You can also learn more about the yelp module by typing: **`help(apis.yelp)`**
+> #### Learning more about the yelp module (apis/yelp.py)
+> You can also learn more about the yelp module by:
+> * Looking at the online documentation here: <a href="/fall2021/course-files/projects/project02/docs/yelp.html" target="_blank">/project02/docs/yelp.html</a>
+> * Running this command using python: **`help(apis.yelp)`** 
 
 ### Option 2: Spotify Option
 Create a brand new file called `tutorial09.py` directly inside of your `project02` folder (the location matters). Your directory structure should look like this:
@@ -165,10 +168,11 @@ print(track_recommendations)
 * Try passing in different Artist IDs
 * Try passing in a list of genres (see the `apis.spotify.get_genres_abridged` function to get some valid genre categories).
 
-There is also a helper function inside of the `apis.spotify` module that can help you output the tracks to the screen using a "Data Frame" which you are welcome to modify: 
+There is also a helper function inside of the `apis.spotify` module that can help you output the tracks to the screen, which you are welcome to modify: 
 
 ```python
-spotify.print_formatted_tracklist_table(track_recommendations)
+table_text = spotify.get_formatted_tracklist_table(track_recommendations)
+print(table_text)
 ```
 
 If you still have time, please experiment with some of the other built-in functions: 
@@ -177,9 +181,15 @@ If you still have time, please experiment with some of the other built-in functi
 * get_related_artists
 * get_playlists
 
+{:.blockquote-no-margin}
+> #### Learning more about the spotify module (apis/spotify.py)
+> You can also learn more about the yelp module by:
+> * Looking at the online documentation here: <a href="/fall2021/course-files/projects/project02/docs/spotify.html" target="_blank">/project02/docs/spotify.html</a>
+> * Running this command using python: **`help(apis.spotify)`** 
+
 
 ## What to Turn In
-Please turn in your completed tutorial exercise(s) ON CANVAS by Wednesday night at midnight. To do this: 
+Please turn in your completed tutorial exercise(s) on Canvas. To do this: 
 
 1. Zip your entire `project02` folder (with your edited files inside)
 2. Rename your zip file to `tutorial09`
