@@ -6,7 +6,7 @@ description:
     - Practice making an app (on the command line)
 type: lecture
 draft: 1
-num: 27
+num: 28
 due_date: 2021-12-01
 videos:
     - url: https://northwestern.zoom.us/rec/share/pAnP-CG_VnYS2LvvFDbGRDXX4VA0Lgl7BUFHXm4kv1PJfIsv7bAPqzrxETitFIP-.8F_6wDZLYYyVgMfi?startTime=1605889001000

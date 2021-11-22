@@ -6,6 +6,11 @@ draft: 0
 num: 25
 exercise_url: "lecture25.zip"
 due_date: 2021-11-22
+videos: 
+    - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=43f066c6-6dd0-49ea-b525-ade8010822bc
+      title: More practice with the dictionary tallying algorithm
+      duration: "48:47"
+      live: 1
 ---
 
 This lecture will be a continuation of [Lecture 24](week09-lecture03). We're going to do a few more dictionary practice problems.
