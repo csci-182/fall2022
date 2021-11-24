@@ -1,10 +1,15 @@
 ---
-layout: lecture-two-column
+layout: module
 title: Project 2 Preview (Zoom Lecture)
 type: lecture
 draft: 0
 num: 26
 due_date: 2021-11-24
+videos:
+   - url: https://northwestern.zoom.us/rec/share/fFAbBs5flDsTxp_Q5UUVb7NCZkX8mC_KfRtQQw4gTF8mEX_mL2V8vyhmXQqqK8eA.5KAnOkBVfaQ7jw0z
+     title: Tutorial 9 / Project 2 Preview & Setup
+     duration: "57:18"
+     live: 1
 ---
 
 Today we will be going over the Project 2 scope and looking at some examples. The class is virtual. Zoom link here: <a href="https://northwestern.zoom.us/j/92512948058" target="_blank">https://northwestern.zoom.us/j/92512948058</a>.
