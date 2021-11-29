@@ -188,7 +188,7 @@ def get_businesses(location:str='Evanston, IL', limit:int=10, term:str=None, cat
 
 def get_formatted_business_list_table(businesses:list):
     '''
-    Private function. Generates a tabular representation of a list of businesses to be displayed in the terminal.
+    Generates a tabular representation of a list of businesses to be displayed in the terminal.
 
     * businesses (list): A list of simplified dictionaries (where each dictionary represents a business).  
     
@@ -353,11 +353,15 @@ def _get_reviews_display_html(reviews:list):
 
 def get_formatted_business_table(business:dict, reviews:list=None, to_html=True):
     '''
-    Makes a nice formatted HTML table of tracks. Good for writing to an 
+    Makes a formatted HTML table of a business and corresponding review. Good for writing to an 
     HTML file or for sending in an email.
 
     * business(dict): [Required] A dictionary that represents a business.  
-    Returns an HTML table as a string 
+    * reviews(list): List of reviews that correspond to the business
+    * to_html(bool): Whether you want to return an HTML representation (for email) 
+                     or a string representation (to print to the screen).  
+
+    Returns either a text or HTML representation of a business + reviews. 
     '''
     if not business:
         print('A business is required.')

@@ -11,11 +11,11 @@ due_date: 2021-11-29
 slides:
    - title: "Practice Working with Web APIs"
      url: https://docs.google.com/presentation/d/1-PqQkfpTtTNDxqfoXU7w5pzcNG7zuuW9zNNhaVqvJJs/edit?usp=sharing
-# videos:
-#    - title: "Email & Yelp"
-#      url: ""
-#      duration: "49:27"
-#      live: 1
+videos:
+   - title: "Email & Yelp"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a547a486-d6f6-4ae7-a765-adef0107b963
+     duration: "51:10"
+     live: 1
 
 
 ---

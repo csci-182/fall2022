@@ -216,7 +216,7 @@ def get_businesses(location:str=&#39;Evanston, IL&#39;, limit:int=10, term:str=N
 
 def get_formatted_business_list_table(businesses:list):
     &#39;&#39;&#39;
-    Private function. Generates a tabular representation of a list of businesses to be displayed in the terminal.
+    Generates a tabular representation of a list of businesses to be displayed in the terminal.
 
     * businesses (list): A list of simplified dictionaries (where each dictionary represents a business).  
     
@@ -381,11 +381,15 @@ def _get_reviews_display_html(reviews:list):
 
 def get_formatted_business_table(business:dict, reviews:list=None, to_html=True):
     &#39;&#39;&#39;
-    Makes a nice formatted HTML table of tracks. Good for writing to an 
+    Makes a formatted HTML table of a business and corresponding review. Good for writing to an 
     HTML file or for sending in an email.
 
     * business(dict): [Required] A dictionary that represents a business.  
-    Returns an HTML table as a string 
+    * reviews(list): List of reviews that correspond to the business
+    * to_html(bool): Whether you want to return an HTML representation (for email) 
+                     or a string representation (to print to the screen).  
+
+    Returns either a text or HTML representation of a business + reviews. 
     &#39;&#39;&#39;
     if not business:
         print(&#39;A business is required.&#39;)
@@ -885,7 +889,7 @@ Indicates whether you want to simplify the data that is returned.
 <span>def <span class="ident">get_formatted_business_list_table</span></span>(<span>businesses: list)</span>
 </code></dt>
 <dd>
-<div class="desc"><p>Private function. Generates a tabular representation of a list of businesses to be displayed in the terminal.</p>
+<div class="desc"><p>Generates a tabular representation of a list of businesses to be displayed in the terminal.</p>
 <ul>
 <li>businesses (list): A list of simplified dictionaries (where each dictionary represents a business).
 </li>
@@ -897,7 +901,7 @@ Indicates whether you want to simplify the data that is returned.
 </summary>
 <pre><code class="python">def get_formatted_business_list_table(businesses:list):
     &#39;&#39;&#39;
-    Private function. Generates a tabular representation of a list of businesses to be displayed in the terminal.
+    Generates a tabular representation of a list of businesses to be displayed in the terminal.
 
     * businesses (list): A list of simplified dictionaries (where each dictionary represents a business).  
     
@@ -932,23 +936,32 @@ Indicates whether you want to simplify the data that is returned.
 <span>def <span class="ident">get_formatted_business_table</span></span>(<span>business: dict, reviews: list = None, to_html=True)</span>
 </code></dt>
 <dd>
-<div class="desc"><p>Makes a nice formatted HTML table of tracks. Good for writing to an
+<div class="desc"><p>Makes a formatted HTML table of a business and corresponding review. Good for writing to an
 HTML file or for sending in an email.</p>
 <ul>
-<li>business(dict): [Required] A dictionary that represents a business.<br>
-Returns an HTML table as a string</li>
-</ul></div>
+<li>business(dict): [Required] A dictionary that represents a business.
+</li>
+<li>reviews(list): List of reviews that correspond to the business</li>
+<li>to_html(bool): Whether you want to return an HTML representation (for email)
+or a string representation (to print to the screen).
+</li>
+</ul>
+<p>Returns either a text or HTML representation of a business + reviews.</p></div>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
 <pre><code class="python">def get_formatted_business_table(business:dict, reviews:list=None, to_html=True):
     &#39;&#39;&#39;
-    Makes a nice formatted HTML table of tracks. Good for writing to an 
+    Makes a formatted HTML table of a business and corresponding review. Good for writing to an 
     HTML file or for sending in an email.
 
     * business(dict): [Required] A dictionary that represents a business.  
-    Returns an HTML table as a string 
+    * reviews(list): List of reviews that correspond to the business
+    * to_html(bool): Whether you want to return an HTML representation (for email) 
+                     or a string representation (to print to the screen).  
+
+    Returns either a text or HTML representation of a business + reviews. 
     &#39;&#39;&#39;
     if not business:
         print(&#39;A business is required.&#39;)
