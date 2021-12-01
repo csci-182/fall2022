@@ -1,5 +1,5 @@
 ---
-layout: lecture-two-column
+layout: module
 title: "Practice Manipulating Data: Spotify"
 type: lecture
 draft: 0
