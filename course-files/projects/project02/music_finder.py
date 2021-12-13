@@ -45,7 +45,7 @@ while True:
         get_recommendations()
         # In addition to showing the user recommendations, allow them
         # to email recommendations to one or more of their friends using
-        # the sendgrid.send_mail() function.
+        # the twilio.send_mail() function.
     elif choice == '4':
         print('Quitting...')
         break

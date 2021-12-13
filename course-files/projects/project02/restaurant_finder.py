@@ -47,7 +47,7 @@ while True:
         # In addition to showing the matching restaurants, allow the user to: 
         # (a) select an individual restaurant and view its ratings, and 
         # (b) email a restaurant to one or more of their friends using
-        #     the sendgrid.send_mail() function.
+        #     the twilio.send_mail() function.
 
     elif choice == '4':
         print('Quitting...')
