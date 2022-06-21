@@ -8,7 +8,7 @@ description:
     - What are some "real world" analogies?
 num: 2
 draft: 0
-due_date: 2021-09-24
+due_date: 2022-08-19
 slides:
    - url: https://docs.google.com/presentation/d/1KcRLMlYpYS6onuJ9nobsA4Z3Yh-kudLvFfBjCkRqyuc/edit?usp=sharing
      title: Intro to Hardware & Software
@@ -40,4 +40,4 @@ readings:
     year: 2012
 ---
 
-<img style="max-width: 300px; float: left; margin-right: 15px;" src="/fall2021/assets/images/lectures/pbj.png" />In today's lesson, we're going to think a little bit more about how computers interpret instructions. <br><br>It is important for you to generate your own model of how a computer processes your instructions so that you can get the feedback you need to write the program you intended.
+<img style="max-width: 300px; float: left; margin-right: 15px;" src="/fall2022/assets/images/lectures/pbj.png" />In today's lesson, we're going to think a little bit more about how computers interpret instructions. <br><br>It is important for you to generate your own model of how a computer processes your instructions so that you can get the feedback you need to write the program you intended.

@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: "Getting Started on P2"
 abbreviation: HW6
 type: homework
-due_date: 2021-12-03
+due_date: 2022-10-28
 points: 8
 draft: 0
 ---

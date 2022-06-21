@@ -7,7 +7,7 @@ description:
 type: lecture
 draft: 0
 num: 19
-due_date: 2021-11-05
+due_date: 2022-09-30
 slides: 
    - title: "More Files & Strings + Error Handling"
      url: https://docs.google.com/presentation/d/1B6aHSqSRWWG68qjEl3R9lAwskW4Lxu-VQNEQ75r1dW8/edit?usp=sharing

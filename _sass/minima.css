@@ -10,7 +10,7 @@ iframe {
 
 body {
   margin: 0;
-  font-family: 'Akkurat Pro Regular';
+  font-family: 'Montserrat', sans-serif;
   color: #444;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -59,7 +59,7 @@ ol.spaced li, ul.spaced li {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: "Campton Book",Tahoma,sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #4e2a84;
   font-weight: 600;
 }
@@ -263,7 +263,8 @@ header h1 a, header h1 a:hover, header h1 a:visited, header h1 a:active {
 header h2 {
   margin-top: 0px;
   margin-bottom: 20px;
-  font-family: "Campton Extra Light",Tahoma,sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
   border-bottom: none;
   color: white;
 }
@@ -322,7 +323,7 @@ nav ul li:hover, nav ul li:active {
 }
 
 @font-face {
-  font-family: "Akkurat Pro Light";
+  font-family: 'Montserrat', sans-serif;
   src: url("https://common.northwestern.edu/v8/css/fonts/AkkuratProLight.woff") format("woff");
   font-weight: normal;
   font-style: normal;
@@ -416,11 +417,11 @@ table td ul li, table th ul li {
 }
 
 table td {
-  font-family: "Akkurat Pro Light";
+  font-family: 'Montserrat', sans-serif;
 }
 
 table td strong, table td i, table td a.lec, table td a.hw, table td a.pj {
-  font-family: 'Akkurat Pro Regular';
+  font-family: 'Montserrat', sans-serif;
 }
 
 table td:first-child, table th:first-child {

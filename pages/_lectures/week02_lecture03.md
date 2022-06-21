@@ -8,7 +8,7 @@ draft: 0
 description:
     - Some useful built-in functions
     - Parameters and arguments
-due_date: 2021-10-01
+due_date: 2022-08-26
 slides:
   - url: https://docs.google.com/presentation/d/12Srk8yvpsYQQlB_U_TEaCCcHb9zqMVmmoz4KRLUbLEQ/edit?usp=sharing
     title: "Intro to Functions"
@@ -44,5 +44,5 @@ readings:
 exercise_url: "lecture05.zip"
 ---
 
-<img class="module-image" src="/fall2021/assets/images/lectures/lecture_03_functions.png" /> 
+<img class="module-image" src="/fall2022/assets/images/lectures/lecture_03_functions.png" /> 
 The next two lessons will primarily be dedicated to functions. In this lesson, we will introduce functions, including some basic terminology and why they are useful. We'll also take a look at some examples of how to use built-in functions. In the next lesson (Lesson 6), we will practice building our own functions and modules. <br><br>Next week's tutorial ([Tutorial 2](../assignments/tutorial02)) and homework ([Homework 2](../assignments/hw2)) will be based on content reviewed in this lesson and the next one. You are strongly encouraged to review the content in these lessons *before* trying the lab/homework.

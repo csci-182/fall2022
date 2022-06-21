@@ -4,7 +4,7 @@ title: "Practice Manipulating Data: Spotify"
 type: lecture
 draft: 0
 num: 28
-due_date: 2021-12-01
+due_date: 2022-10-26
 videos:
     - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4994c5f7-e072-440b-8661-adf10107c9c0
       title: Live Lecture Coding (Spotify)

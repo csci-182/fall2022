@@ -7,7 +7,7 @@ description:
 type: lecture
 draft: 0
 num: 27
-due_date: 2021-11-29
+due_date: 2022-10-24
 slides:
    - title: "Practice Working with Web APIs"
      url: https://docs.google.com/presentation/d/1-PqQkfpTtTNDxqfoXU7w5pzcNG7zuuW9zNNhaVqvJJs/edit?usp=sharing

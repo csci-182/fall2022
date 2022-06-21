@@ -6,7 +6,7 @@ draft: 0
 num: 7
 description:
   - More function practice (continuation from Monday)
-due_date: 2021-10-06
+due_date: 2022-08-31
 slides:
 # LINK HAS BEEN UPDATED BUT NEEDS WORK
   - url: https://docs.google.com/presentation/d/1yuP9Uj0VnkFk4Obqd-dQ54jmO293Lt7QBvUdg7T76Ek/edit?usp=sharing

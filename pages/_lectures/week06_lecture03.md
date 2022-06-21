@@ -8,7 +8,7 @@ description:
 type: lecture
 draft: 0
 num: 16
-due_date: 2021-10-29
+due_date: 2022-09-23
 slides: 
    - title: "Handling User Input & Event Handlers"
      url: https://docs.google.com/presentation/d/1Qeki-wRimGWwT8VtpnGmXtUDEkbiVEZLI4f1Tz7YB4Y/edit?usp=sharing

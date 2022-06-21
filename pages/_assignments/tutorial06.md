@@ -6,11 +6,11 @@ abbreviation: Tutorial 6
 draft: 0
 num: 4
 points: 3
-due_date: 2021-11-03
+due_date: 2022-09-28
     
 ---
 
-<a class="nu-button" href="/fall2021/course-files/tutorials/tutorial06.zip" target="_blank">
+<a class="nu-button" href="/fall2022/course-files/tutorials/tutorial06.zip" target="_blank">
     Tutorial Starter Files <i class="fas fa-download"></i>
 </a> 
 

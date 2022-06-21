@@ -7,7 +7,7 @@ description:
 type: lecture
 draft: 0
 num: 21
-due_date: 2021-11-12
+due_date: 2022-10-07
 readings:
   - title: "Ch9: Dictionaries"
     author: "Severance"

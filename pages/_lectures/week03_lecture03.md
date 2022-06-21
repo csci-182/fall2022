@@ -4,7 +4,7 @@ title: "Modules and Variable Scope"
 type: lecture
 num: 8
 draft: 0
-due_date: 2021-10-08
+due_date: 2022-09-02
 quiz_url: https://canvas.northwestern.edu/courses/149580/quizzes/159821
 description:
     - Creating modules

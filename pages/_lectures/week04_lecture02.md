@@ -11,7 +11,7 @@ description:
   - Variables & Variable Scope
   - Lists & Tuples
   - Modules
-due_date: 2021-10-13
+due_date: 2022-09-07
 slides:
    - title: "Google Doc from Today"
      url: https://docs.google.com/document/d/1Htmc4lcdBydk270CZagDblVVeyXTNc51C9oRKpcXzGE/edit#

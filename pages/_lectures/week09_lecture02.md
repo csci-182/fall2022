@@ -7,7 +7,7 @@ description:
 type: lecture
 draft: 0
 num: 23
-due_date: 2021-11-17
+due_date: 2022-10-12
 exercise_url: "lecture23.zip"
 slides: 
    - url: https://docs.google.com/presentation/d/19MNJgFXywamAxzdR-8x1zZwC3nifrNoE2fH4PRaRYEA/edit?usp=sharing

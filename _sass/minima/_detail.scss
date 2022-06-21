@@ -2,7 +2,7 @@
     margin: -20px 0px 15px 0px;
     color: #676767;
     font-family:"Campton Extra Light";
-    // color: $lightpurple;
+    // color: $br2;
     font-size: 1.2em;
 }
 
@@ -66,10 +66,10 @@ img.cars {
 
 .nu-button, .nu-button:visited, .nu-button:active {
     &:hover {
-        background: $lightpurple;
+        background: $br2;
         border: none;
     }
-    background: $purple;
+    background: $br1;
     border: none;
     color: #fff !important;
     margin: 20px .5em 20px 0;

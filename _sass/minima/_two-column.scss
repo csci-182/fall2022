@@ -16,17 +16,17 @@ $twocolHeaderHeight: 164px;
     .mobile { display: none; }
     header {
         height: 116px;
-        width: 100vw;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        // width: 100vw;
+        // display: flex;
+        // align-items: center;
+        // justify-content: center;
         z-index: 100;
         h1 {
             z-index: 100; 
         }
     }
     nav {
-        height: 48px;
+        // height: 48px;
         // background: white;
         border-bottom: dotted 1px #CCC;
         width: 100vw;
@@ -78,7 +78,7 @@ $twocolHeaderHeight: 164px;
                     display: block;
                     padding-top: 5px;
                     &.active {
-                        background: $lightpurple;
+                        background: $br2;
                         color: white;
                     }
                 }

@@ -72,16 +72,16 @@
         color: #444;
     }
     .hw, .hw:hover {
-        background: $purple;
+        background: $br1;
     }
     .quiz, .quiz:hover {
-        background: $mutedblue;
+        background: $br4;
     }
     .pj, .pj:hover {
-        background: $blue;
+        background: $br1;
     }
     .lec, .lec:hover, a.lec {
-        background: $lightlightpurple;
+        background: $br3;
     }
     .lab, .lab:hover {
         background: $green;
@@ -96,7 +96,7 @@
         background: $orange;
     }
     .recorded {
-        background: $lightpurple;
+        background: $br2;
     }
     
     ul {
@@ -226,7 +226,7 @@ blockquote.quote {
         line-height: 0.1em;
         margin-right: 0.1em;
         vertical-align: -0.4em;
-        font-family: 'Times New Roman', Times, serif;
+  font-family: 'Montserrat', sans-serif;
         vertical-align: middle;
     }
     &.slim {
@@ -275,7 +275,7 @@ blockquote.quote {
             display: inline-block;
             text-indent: -16px;
             vertical-align: text-bottom;
-            color: $purple;
+            color: $br1;
         }
     }
     h2 {
@@ -283,8 +283,8 @@ blockquote.quote {
     }
     h3 {
         color: #676767;
-        font-family:"Campton Extra Light";
-        // color: $lightpurple;
+        font-family: 'Montserrat', sans-serif;
+        // color: $br2;
         font-size: 1.5em;
     }
 }

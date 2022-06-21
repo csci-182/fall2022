@@ -5,7 +5,7 @@ type: lecture
 draft: 0
 num: 25
 exercise_url: "lecture25.zip"
-due_date: 2021-11-22
+due_date: 2022-10-17
 videos: 
     - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=43f066c6-6dd0-49ea-b525-ade8010822bc
       title: More practice with the dictionary tallying algorithm

@@ -6,7 +6,7 @@ num: 1
 draft: 0
 description:
     - Intro to the course
-due_date: 2021-09-22
+due_date: 2022-08-17
 slides:
    - url: https://docs.google.com/presentation/d/1jEKY_tkTf_2nuDElNSe-zGqHXSnXwqJ7DRK9p5kDmgg/edit?usp=sharing
      title: Course Logistics

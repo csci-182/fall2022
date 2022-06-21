@@ -9,7 +9,7 @@ abbreviation: Tutorial 8
 draft: 0
 num: 8
 points: 3
-due_date: 2021-11-17
+due_date: 2022-10-12
 ---
 
 <style>
@@ -20,7 +20,7 @@ due_date: 2021-11-17
     }
 </style>
 
-<a class="nu-button" href="/fall2021/course-files/tutorials/tutorial08.zip" target="_blank">
+<a class="nu-button" href="/fall2022/course-files/tutorials/tutorial08.zip" target="_blank">
     Tutorial Starter Files <i class="fas fa-download"></i>
 </a> 
 

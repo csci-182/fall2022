@@ -6,7 +6,7 @@ description:
 type: quiz
 draft: 0
 num: 2
-due_date: 2021-11-08
+due_date: 2022-10-03
 ---
 
 {:.blockquote-no-margin}

@@ -4,7 +4,7 @@ title: |
     Installation & Introductory Exercises
 abbreviation: HW1
 type: homework
-due_date: 2021-10-01
+due_date: 2022-08-26
 ordering: 1
 draft: 0
 points: 8
@@ -33,13 +33,13 @@ After going through the installation process, navigate to the folder on your mac
 
 Inside, the Python 3.9 folder, you'll find a file called **IDLE** - this is the IDLE executable. Double click on that file to run it. You should then see something like this (the screen shows version 3.8, but any 3.x version is OK):
 
-<img class="screenshot" src="/fall2021/assets/images/hw01/idle1.png" />
+<img class="screenshot" src="/fall2022/assets/images/hw01/idle1.png" />
 
 I recommend keeping IDLE in your dock (on a Mac) or making a Desktop Shortcut to IDLE (on Windows).
 
 At the **&gt;&gt;&gt;** prompt, you can type any valid python command. For example, type `print("hello world!")` and hit enter. You should see something like this:
 
-<img class="screenshot" src="/fall2021/assets/images/hw01/idle2.png" />
+<img class="screenshot" src="/fall2022/assets/images/hw01/idle2.png" />
 
 If you have any issues installing Python or IDLE, contact your assigned peer mentor. You are also welcome to attend any of the course office hours to get help.
 
@@ -112,7 +112,7 @@ When you're done, please complete the following 9 exercises by editing the **mai
 ```
 
 #### 4. Write a program that computes and prints the result of: 
-<img src="/fall2021/assets/images/hw01/equation.png" style="width: 100px;"/>
+<img src="/fall2022/assets/images/hw01/equation.png" style="width: 100px;"/>
 
 (The answer is roughly 0.1017).
 
