@@ -1,9 +1,11 @@
 ---
 layout: module
-title: Labor Day
+title: TBD
 type: lecture
 draft: 1
-due_date: 2022-09-05
+num: 40
+due_date: 2022-11-28
+
 ---
 
-Labor Day
+TBD

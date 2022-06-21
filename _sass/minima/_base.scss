@@ -6,8 +6,16 @@ $br1: #0076A5;
 $br2: #4298B5;
 $br3: #71B2C9;
 $br4: #AFCDD7;
-$green: #009c7b;
-$orange: #F46036;
+$forest: #7F9C90;
+$river: #3F6C7D;
+$nightSky: #003865;
+$gold: #BD9B60;
+$chestnut: #7C4D3A;
+$mapleRed: #A6192E;
+$honeyBee: #EBBC4E;
+$autumn: #E6A65D;
+$clay: #C26E60;
+
 
 * {
     box-sizing: border-box;
@@ -204,6 +212,10 @@ blockquote {
 }
   
 footer {
+    // background: url('https://www.unca.edu/wp-content/uploads/2018/12/Installation-extra@4x-100-500x350.jpg?x41771');
+    // background-size: contain;
+    // background-position: top center;
+    // background-repeat: no-repeat;
     border-top: dotted 1px $grey;
     margin-top: 150px;
     grid-area: bottom;
@@ -220,31 +232,30 @@ main {
     }
 
 }
+
 header {
-    background: url('https://www.unca.edu/wp-content/uploads/2018/12/Installation-extra@4x-100-1170x512.jpg');
-    background-size: cover;
+    background: url('/fall2022/assets/images/mountains1.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right -5px;
     grid-area: top;
-    background-position-y: -50px;
-    background-position-x: center;
     background-color: #003da5;
     display: grid;
-    grid-template-columns: 1fr 5fr;
+    grid-template-columns: 5fr 1fr;
     align-items: center;
     justify-content: center;
 }
 header img {
     width: 200px;
-    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
 }
 header section {
     display: flex;
     align-items: center;
     flex-direction: column;
-    margin-left: -200px;
-    // background: url('');
-    // background-repeat: no-repeat;
-    // background-position: top left;
-    // background: url(/fall2022/assets/images/purple-polygons.png) repeat-y;
+    margin-left: 200px;
+   
     h1 {
         margin-bottom: 0px;
         color: white;

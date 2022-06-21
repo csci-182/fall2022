@@ -1,23 +1,22 @@
 ---
 layout: module
-title: Project 2 Preview (Zoom Lecture)
+title: Dictionary Algorithms (Continued)
 type: lecture
-draft: 0
-num: 26
+draft: 1
+num: 25
+exercise_url: "lecture25.zip"
 due_date: 2022-10-19
-videos:
-   - url: https://northwestern.zoom.us/rec/share/fFAbBs5flDsTxp_Q5UUVb7NCZkX8mC_KfRtQQw4gTF8mEX_mL2V8vyhmXQqqK8eA.5KAnOkBVfaQ7jw0z
-     title: Tutorial 9 / Project 2 Preview & Setup
-     duration: "57:18"
-     live: 1
+videos: 
+    - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=43f066c6-6dd0-49ea-b525-ade8010822bc
+      title: More practice with the dictionary tallying algorithm
+      duration: "48:47"
+      live: 1
 ---
 
-Today we will be going over the Project 2 scope and looking at some examples. The class is virtual. Zoom link here: <a href="https://northwestern.zoom.us/j/92512948058" target="_blank">https://northwestern.zoom.us/j/92512948058</a>.
+This lecture will be a continuation of [Lecture 24](week09-lecture03). We're going to do a few more dictionary practice problems.
 
-## Agenda
-1. Get the project 2 files and dependencies installed on your computer.
-2. Practice using three of the modules that we have designed to help you with project 2 (located inside of the `apis` folder):
-  * <a href="/fall2022/course-files/projects/project02/docs/twilio.html" target="_blank">twilio</a>
-  * <a href="/fall2022/course-files/projects/project02/docs/yelp.html" target="_blank">yelp</a>
-  * <a href="/fall2022/course-files/projects/project02/docs/spotify.html" target="_blank">spotify</a>
-3. Answer any questions you have.
+## Please complete the following challenges:
+1. Write a program that counts the number of trees in each condition (good, fair, etc.).
+2. Write a program that counts the number of trees belonging to each species.
+3. Write a program to make a map of all the trees in Evanston by installing and using using the `folium` module.
+

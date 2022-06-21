@@ -72,28 +72,28 @@
         color: #444;
     }
     .hw, .hw:hover {
-        background: $br1;
+        background: $river;
     }
     .quiz, .quiz:hover {
-        background: $br4;
+        background: $mapleRed;
     }
     .pj, .pj:hover {
-        background: $br1;
+        background: $clay;
     }
     .lec, .lec:hover, a.lec {
         background: $br3;
     }
     .lab, .lab:hover {
-        background: $green;
+        background: $forest;
         font-weight: 600;
     }
     .ec, .ec:hover {
-        background: rgba(104, 74, 152, 0.5);
+        background: $nightSky;
         // color: #444 !important;
         font-weight: 600;
     }
     .live {
-        background: $orange;
+        background: $clay;
     }
     .recorded {
         background: $br2;

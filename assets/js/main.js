@@ -35,4 +35,4 @@ const stickyToggle = () => {
     }
 };
 
-window.onscroll = stickyToggle;
+// window.onscroll = stickyToggle;

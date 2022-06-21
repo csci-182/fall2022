@@ -6,7 +6,7 @@ type: homework
 files: course-files/assignments/hw05.zip
 due_date: 2022-10-17
 points: 8
-draft: 0
+draft: 1
 ---
 <style>
     .bash-small .highlighter-rouge {

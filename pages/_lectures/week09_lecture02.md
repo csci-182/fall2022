@@ -1,22 +1,23 @@
 ---
 layout: module
 title: |
-    Activity: Downloading Internet Files
+    Activity: Working with Lists of Dictionaries from the Internet
 description:
-    - Continuation of Lecture 22
+    - More practice with dictionaries / lists of dictionaries
+    - Intro to web-based data application programming interfaces (APIs)
 type: lecture
-draft: 0
-num: 23
+draft: 1
+num: 22
 due_date: 2022-10-12
-exercise_url: "lecture23.zip"
+exercise_url: "lecture22.zip"
 slides: 
-   - url: https://docs.google.com/presentation/d/19MNJgFXywamAxzdR-8x1zZwC3nifrNoE2fH4PRaRYEA/edit?usp=sharing
-     title: "Downloading and Creating Data-Driven Files"
+   - url: https://docs.google.com/presentation/d/1iIecA190dVoRStdof1MEE5xk6rjTe_hJDLefwUgtbdU/edit?usp=sharing
+     title: "Practice Working With  Lists of Dictionaries"
 videos:
-   - title: "Downloading and Creating Data-Driven Files"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06f31b35-ee41-4a5f-ab36-ade30107efb6
+   - title: "Spotify Data Activity"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c3facc7-7ff3-44c1-baea-ade1010779d4
      live: 1
-     duration: "48:41"
+     duration: "49:35"
 ---
 
-Today we will finish the activities from [Lecture 22](week09-lecture01).
+Today we will continue practicing how to work with dictionary data representations and lists of dictionaries using Spotify's <a href="https://developer.spotify.com/documentation/web-api/reference/#/operations/search" target="_blank">REST API</a>.

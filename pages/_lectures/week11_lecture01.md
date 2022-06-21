@@ -1,25 +1,23 @@
 ---
 layout: module
-title: "Practice Manipulating Data: Yelp"
-description:
-    - More practice working with REST Endpoints
-    - Understanding query parameters
+title: Project 2 Preview
 type: lecture
-draft: 0
-num: 27
+draft: 1
+num: 26
 due_date: 2022-10-24
-slides:
-   - title: "Practice Working with Web APIs"
-     url: https://docs.google.com/presentation/d/1-PqQkfpTtTNDxqfoXU7w5pzcNG7zuuW9zNNhaVqvJJs/edit?usp=sharing
 videos:
-   - title: "Email & Yelp"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a547a486-d6f6-4ae7-a765-adef0107b963
-     duration: "51:10"
+   - url: https://northwestern.zoom.us/rec/share/fFAbBs5flDsTxp_Q5UUVb7NCZkX8mC_KfRtQQw4gTF8mEX_mL2V8vyhmXQqqK8eA.5KAnOkBVfaQ7jw0z
+     title: Tutorial 9 / Project 2 Preview & Setup
+     duration: "57:18"
      live: 1
-
-
 ---
 
-* <a href="https://forms.gle/isBEvmoK9Jv9SWw86" target="_blank">Appreciations</a>: Take 30 seconds to thank someone from the course staff who helped you.
-* <a href="https://photos.app.goo.gl/wjRsM1eBDxmey4Kt5" target="_blank">Project 1 Showcase</a>: Take a look at your fine work and that of your classmates!
-* Today we will continue practicing how to work with Cloud-based data services (Twilio, Yelp, Spotify), which we will be doing for the rest of the quarter (today and Wednesday).
+Today we will be going over the Project 2 scope and looking at some examples. The class is virtual. Zoom link here: <a href="https://northwestern.zoom.us/j/92512948058" target="_blank">https://northwestern.zoom.us/j/92512948058</a>.
+
+## Agenda
+1. Get the project 2 files and dependencies installed on your computer.
+2. Practice using three of the modules that we have designed to help you with project 2 (located inside of the `apis` folder):
+  * <a href="/fall2022/course-files/projects/project02/docs/twilio.html" target="_blank">twilio</a>
+  * <a href="/fall2022/course-files/projects/project02/docs/yelp.html" target="_blank">yelp</a>
+  * <a href="/fall2022/course-files/projects/project02/docs/spotify.html" target="_blank">spotify</a>
+3. Answer any questions you have.

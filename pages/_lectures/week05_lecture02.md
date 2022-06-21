@@ -6,7 +6,7 @@ description:
     - How long do you want to repeat it?
     - What changes each time (optional)?
 type: lecture
-draft: 0
+draft: 1
 num: 12
 due_date: 2022-09-14
 slides: 

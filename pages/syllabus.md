@@ -6,14 +6,14 @@ permalink: /syllabus/
 
 |--|--|
 | **Term** | Fall, 2021 |
-| **Course** | CS 110: Intro to Computer Programming with Python |
+| **Course** | CSCI 182: Intro to Computer Programming with Python |
 | **Prerequisites** | None |
 | **Instructor** | Sarah Van Wart |
 | **Lecture Time** | Monday, Wednesday, & Friday, 10:00 - 10:50am |
 | **Lecture Location** | Lutkin Hall |
 
 ## About the Course
-CS 110 is an introduction to computer programming using Python, and assumes no prior programming knowledge. The intent of the course is twofold. First, we want to give you a sense of the kinds of problem-solving and creative pursuits that programming can support. Programming can be many different things — a representational medium, a tool for thinking about problems, a way of amplifying and/or communicating ideas, a means of performing complex calculations over massive datasets, and so forth. Most people who write computer programs are not computer scientists, but rather people who occupy a range of professions (journalists, geographers, sociologists, scientists, artists, musicians, entrepreneurs, researchers, etc.), and who use various programming languages to accomplish diverse and specialized goals. Moreover, as data and computing increasingly mediate modern life, knowing a bit about the mechanisms (and risks!) that underlie these systems is a valuable modern literacy that is likely to serve you well.
+CSCI 182 is an introduction to computer programming using Python, and assumes no prior programming knowledge. The intent of the course is twofold. First, we want to give you a sense of the kinds of problem-solving and creative pursuits that programming can support. Programming can be many different things — a representational medium, a tool for thinking about problems, a way of amplifying and/or communicating ideas, a means of performing complex calculations over massive datasets, and so forth. Most people who write computer programs are not computer scientists, but rather people who occupy a range of professions (journalists, geographers, sociologists, scientists, artists, musicians, entrepreneurs, researchers, etc.), and who use various programming languages to accomplish diverse and specialized goals. Moreover, as data and computing increasingly mediate modern life, knowing a bit about the mechanisms (and risks!) that underlie these systems is a valuable modern literacy that is likely to serve you well.
 
 A second goal of the course is to introduce you to the fundamental constructs of computer programming, and some skills and strategies for helping you apply these low-level constructs in creative and useful ways. Towards this end, there will be quite a few drills and practice problems to get you familiar with ‘the basics.’ You need to dedicate enough time to practicing the basics: the fun, creative parts of programming are only possible when you understand the building blocks; and understanding comes from an active, consistent, and iterative engagement with new ideas. Taking this course means committing — for 10 weeks — to attending lectures and office hours, turning in assignments / projects, doing (lots of) practice problems, and most importantly, persevering when things get difficult and asking questions. We have an excellent staff of teaching assistants and peer mentors who are here just for you and your questions and ideas. With your consistent and active participation in your own learning, we can guide you through the material so that you can become a proficient programmer. Welcome to the course!
 
@@ -156,7 +156,7 @@ On occasion, the grader may make an error. You will receive your assignment grad
 In the past, there have been a few unfortunate instances in which students have presented work other than their own. For the programming assignments: You are allowed (encouraged, even!) to discuss general approaches to solving problems, but all work you submit must be your own. Working “together” and presenting variants of the same file is not acceptable. Here are some specific guidelines to make sure you don’t cross the line:
 
 * Do not exchange programs or program fragments in any form – on paper, via e-mail, or by other means.
-* Do not copy solutions from any source, including the web or previous EECS 110 students.
+* Do not copy solutions from any source, including the web or previous EECSCI 182 students.
 * While working with other students, it is perfectly acceptable to ‘look’ at each other’s code (perhaps while helping someone to debug), but you should NEVER be scribing (typing or writing) your own work while looking at someone else’s (on a computer screen, paper, whiteboard, etc.).
 * Uploading materials from this course to websites that sell such content to students is prohibited by Northwestern’s academic integrity policies, and may also put you at risk for violating copyright policies in Northwestern’s Student Conduct Code.
 
