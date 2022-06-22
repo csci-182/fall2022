@@ -212,15 +212,17 @@ blockquote {
 }
   
 footer {
-    // background: url('https://www.unca.edu/wp-content/uploads/2018/12/Installation-extra@4x-100-500x350.jpg?x41771');
-    // background-size: contain;
-    // background-position: top center;
-    // background-repeat: no-repeat;
-    border-top: dotted 1px $grey;
-    margin-top: 150px;
+    background: url('/fall2022/assets/images/mountains4.png');
+    background-size: cover;
+    margin-top: 50px;
+    background-repeat: no-repeat;
+    // background-position-y: -140px;
+    height: 600px !important;
+    align-items: flex-end !important;
+    color: white;
+    font-weight: bold;
     grid-area: bottom;
     p {
-        margin: 40px 0px 40px 0px;
         text-align: center;
     }
 }
@@ -234,21 +236,22 @@ main {
 }
 
 header {
-    background: url('/fall2022/assets/images/mountains1.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: right -5px;
     grid-area: top;
-    background-color: #003da5;
+    background: $br2;
+    background: linear-gradient(90deg, $br2 0%, $br1 50%, $primary 100%);
+    // background: $br1;
+    // background: linear-gradient(90deg, $br1 48%, $primary 94%);
     display: grid;
     grid-template-columns: 5fr 1fr;
     align-items: center;
     justify-content: center;
+    text-align: center;
+    background-position-y: -270px;
 }
 header img {
     width: 200px;
     margin-right: 20px;
-    margin-top: 10px;
+    // margin-bottom: 10px;
 }
 header section {
     display: flex;
@@ -259,6 +262,7 @@ header section {
     h1 {
         margin-bottom: 0px;
         color: white;
+        margin-top: 0px;
         a, a:hover, a:visited, a:active {
             color: white;
             background: none;
@@ -266,10 +270,11 @@ header section {
     }
     h2 {
         margin-top: 0px;
-        margin-bottom: 20px;
+        margin-bottom: 0px;
         font-family: 'Montserrat', sans-serif;
         border-bottom: none;
         color: white;
+        text-align: center;
         a, a:hover, a:visited, a:active {
             color: white;
         }
@@ -279,6 +284,8 @@ header section {
 nav {
     background: $lightgrey;
     grid-area: menu;
+    position: sticky;
+    top: 0;
     &.sticky {
         position: fixed;
         top: 0;
