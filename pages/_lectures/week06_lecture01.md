@@ -5,7 +5,7 @@ description:
     - Intro to for loops syntax
     - Using for loops with lists and sequences
 type: lecture
-draft: 1
+draft: 0
 num: 14
 due_date: 2022-09-19
 slides: 

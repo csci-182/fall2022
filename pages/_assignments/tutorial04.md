@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Practice with Conditionals
 type: tutorial
 abbreviation: Tutorial 4
-draft: 1
+draft: 0
 points: 3
 num: 4
 due_date: 2022-09-14

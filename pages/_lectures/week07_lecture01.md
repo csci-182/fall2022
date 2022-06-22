@@ -5,7 +5,7 @@ description:
     - working on the command line
     - introduction to PIP
 type: lecture
-draft: 1
+draft: 0
 num: 17
 due_date: 2022-09-26
 slides: 

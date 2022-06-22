@@ -2,7 +2,7 @@
 layout: module
 title: "Practice Manipulating Data: Spotify"
 type: lecture
-draft: 1
+draft: 0
 num: 28
 due_date: 2022-10-28
 videos:

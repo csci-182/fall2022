@@ -3,7 +3,7 @@ layout: module
 title: Modules & Variable Scope (Continued)
 type: lecture
 num: 9
-draft: 1
+draft: 0
 due_date: 2022-09-02
 videos:
   - title: "Demo: Modules & Variable Scope"

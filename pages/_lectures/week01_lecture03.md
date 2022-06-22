@@ -2,7 +2,7 @@
 layout: module
 title: The Building Blocks
 type: lecture
-draft: 1
+draft: 0
 num: 3
 description:
   - Variables, operators, data types, and built-in functions

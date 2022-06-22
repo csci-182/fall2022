@@ -2,7 +2,7 @@
 layout: two-column
 title:  Quiz 3
 type: quiz
-draft: 1
+draft: 0
 num: 3
 due_date: 2022-10-31
 

@@ -337,7 +337,7 @@ nav ul li:hover, nav ul li:active {
 }
 
 @font-face {
-  font-family: "Akkurat Pro Regular";
+  font-family: 'Montserrat', sans-serif;
   src: url("https://common.northwestern.edu/v8/css/fonts/AkkuratProRegular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
@@ -1572,7 +1572,7 @@ table.instructions td, table.instructions th {
     padding-right: 5vw;
   }
   table td {
-    font-family: "Akkurat Pro Regular";
+    font-family: 'Montserrat', sans-serif;
   }
   .schedule table td:nth-child(1), .schedule table th:nth-child(1), .labs table td:nth-child(1), .labs table th:nth-child(1) {
     min-width: 72px;

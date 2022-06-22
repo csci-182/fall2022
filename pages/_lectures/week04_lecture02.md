@@ -3,7 +3,7 @@ layout: module
 title: |
     Quiz Review: Expressions
 type: lecture
-draft: 1
+draft: 0
 num: 10
 description:
   - Operators & Data Types

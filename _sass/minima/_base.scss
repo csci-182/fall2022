@@ -238,7 +238,7 @@ main {
 header {
     grid-area: top;
     background: $br2;
-    background: linear-gradient(90deg, $br2 0%, $br1 50%, $primary 100%);
+    background: linear-gradient(90deg, $br2 0%, $br1 45%, $primary 80%);
     // background: $br1;
     // background: linear-gradient(90deg, $br1 48%, $primary 94%);
     display: grid;
@@ -316,7 +316,7 @@ nav {
             }
             &:hover, &:active {
                 background: #F9F9F9;
-                border-bottom: solid 3px $grey;
+                border-bottom: solid 3px $clay;
             }
         }
     }

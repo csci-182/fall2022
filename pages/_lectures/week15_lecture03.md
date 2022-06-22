@@ -2,7 +2,7 @@
 layout: module
 title: Thanksgiving Break
 type: lecture
-draft: 1
+draft: 0
 num: 39
 due_date: 2022-11-25
 

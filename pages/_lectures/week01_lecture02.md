@@ -7,7 +7,7 @@ description:
     - What is software?
     - What are some "real world" analogies?
 num: 2
-draft: 1
+draft: 0
 due_date: 2022-08-17
 slides:
    - url: https://docs.google.com/presentation/d/1KcRLMlYpYS6onuJ9nobsA4Z3Yh-kudLvFfBjCkRqyuc/edit?usp=sharing

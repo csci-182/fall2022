@@ -4,7 +4,7 @@ title: |
     Introduction to Functions
 type: lecture
 num: 5
-draft: 1
+draft: 0
 description:
     - Some useful built-in functions
     - Parameters and arguments

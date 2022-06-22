@@ -4,7 +4,7 @@ title: "Quiz 2"
 description:
     - Quiz 2 of 3
 type: quiz
-draft: 1
+draft: 0
 num: 2
 due_date: 2022-10-05
 ---

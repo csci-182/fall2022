@@ -6,7 +6,7 @@ description:
     - Expanding your I/O repertoire
     - Click, drag, and keyboard events
 type: lecture
-draft: 1
+draft: 0
 num: 16
 due_date: 2022-09-23
 slides: 

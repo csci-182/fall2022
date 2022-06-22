@@ -5,7 +5,7 @@ title: |
 description:
     - Continuation of Lecture 22
 type: lecture
-draft: 1
+draft: 0
 num: 23
 due_date: 2022-10-14
 exercise_url: "lecture23.zip"

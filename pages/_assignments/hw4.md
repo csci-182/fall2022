@@ -6,7 +6,7 @@ type: homework
 files: course-files/assignments/hw04.zip
 due_date: 2022-09-23
 points: 8
-draft: 1
+draft: 0
 ---
 
 
