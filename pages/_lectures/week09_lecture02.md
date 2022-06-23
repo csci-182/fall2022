@@ -6,7 +6,7 @@ description:
     - More practice with dictionaries / lists of dictionaries
     - Intro to web-based data application programming interfaces (APIs)
 type: lecture
-draft: 0
+draft: 1
 num: 22
 due_date: 2022-10-12
 exercise_url: "lecture22.zip"

@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Practice with Functions
 type: tutorial
 abbreviation: Tutorial 2
-draft: 0
+draft: 1
 points: 3
 num: 2
 description: 

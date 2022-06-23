@@ -5,7 +5,7 @@ description:
     - Working with templates
     - Error handling
 type: lecture
-draft: 0
+draft: 1
 num: 19
 due_date: 2022-09-30
 slides: 

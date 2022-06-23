@@ -265,7 +265,6 @@ header section {
     align-items: center;
     flex-direction: column;
     margin-left: 200px;
-    z-index: 100;
 
     h1 {
         margin-bottom: 0px;
@@ -275,6 +274,7 @@ header section {
             color: white;
             background: none;
         }
+        z-index: 100;
     }
     h2 {
         margin-top: 0px;
@@ -286,6 +286,7 @@ header section {
         a, a:hover, a:visited, a:active {
             color: white;
         }
+        z-index: 100;
     }
 }
 

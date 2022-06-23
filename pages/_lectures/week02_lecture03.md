@@ -2,7 +2,7 @@
 layout: module
 title: Creating Your Own Functions
 type: lecture
-draft: 0
+draft: 1
 num: 6
 description:
   - Creating your own functions

@@ -73,4 +73,7 @@ if __name__ == '__main__':
     for file_path in file_paths:
         do_replacement('fall2021', 'fall2022', file_path)
         do_replacement('CS 110', 'CSCI 182', file_path)
-        do_replacement('draft: 1', 'draft: 0', file_path)
+        do_replacement('CSCI 182', 'CSCI XXX', file_path)
+        do_replacement('draft: 0', 'draft: 1', file_path)
+        do_replacement('Northwestern University', 'UNCA', file_path)
+        do_replacement('Northwestern', 'UNCA', file_path)

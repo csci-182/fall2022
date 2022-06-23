@@ -5,7 +5,7 @@ description:
     - More practice working with REST Endpoints
     - Understanding query parameters
 type: lecture
-draft: 0
+draft: 1
 num: 27
 due_date: 2022-10-26
 slides:

@@ -2,7 +2,7 @@
 layout: module
 title: TBD
 type: lecture
-draft: 0
+draft: 1
 num: 40
 due_date: 2022-11-28
 

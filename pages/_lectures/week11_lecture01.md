@@ -2,7 +2,7 @@
 layout: module
 title: Project 2 Preview
 type: lecture
-draft: 0
+draft: 1
 num: 26
 due_date: 2022-10-24
 videos:

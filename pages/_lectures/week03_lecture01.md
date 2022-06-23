@@ -2,7 +2,7 @@
 layout: module
 title: "Creating Your Own Functions: Part 2"
 type: lecture
-draft: 0
+draft: 1
 num: 7
 description:
   - More function practice (continuation from Monday)

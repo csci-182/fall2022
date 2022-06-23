@@ -5,7 +5,7 @@ description:
     - Creating, reading, and updating a dictionary
     - Dictionaries as lookup tables
 type: lecture
-draft: 0
+draft: 1
 num: 21
 due_date: 2022-10-10
 readings:

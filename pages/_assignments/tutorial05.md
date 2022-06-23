@@ -9,7 +9,7 @@ description:
 type: tutorial
 abbreviation: Tutorial 5
 points: 3
-draft: 0
+draft: 1
 num: 5
 due_date: 2022-09-21
     

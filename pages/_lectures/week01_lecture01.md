@@ -3,7 +3,7 @@ layout: module
 title: Introduction
 type: lecture
 num: 1
-draft: 0
+draft: 1
 description:
     - Intro to the course
 due_date: 2022-08-15

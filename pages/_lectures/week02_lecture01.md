@@ -3,7 +3,7 @@ layout: module
 title: Intro to Lists & Tuples
 type: lecture
 num: 4
-draft: 0
+draft: 1
 quiz_url: https://canvas.northwestern.edu/courses/149580/quizzes/159823
 description:
     - Lists and tuples (sequences)

@@ -5,7 +5,7 @@ description:
     - reading from and writing to files
     - examining different file types
 type: lecture
-draft: 0
+draft: 1
 num: 18
 due_date: 2022-09-28
 slides: 

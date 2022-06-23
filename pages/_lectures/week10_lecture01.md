@@ -6,7 +6,7 @@ description:
     - The "counting algorithm"
     - The "grouping algorithm"
 type: lecture
-draft: 0
+draft: 1
 num: 24
 due_date: 2022-10-17
 exercise_url: "lecture24.zip"

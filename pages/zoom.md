@@ -18,7 +18,7 @@ We **will** be recording all sessions during regularly scheduled class time. We 
 ## Etiquette
 To ensure a smooth lecture experience for everyone, we’ll need to follow some simple guidelines.
 
-1. To protect your privacy and avoid outside disruptions, all class-related Zoom meetings will require authentication and be password-protected. You will need to connect to Zoom using Northwestern Single Sign-On (other Zoom accounts you may have will not work). Passwords will be available on the Canvas "Syllabus" page.
+1. To protect your privacy and avoid outside disruptions, all class-related Zoom meetings will require authentication and be password-protected. You will need to connect to Zoom using UNCA Single Sign-On (other Zoom accounts you may have will not work). Passwords will be available on the Canvas "Syllabus" page.
 2. Keep your audio and video muted at all times, unless you’re asking a question. Your audio and video should be muted by default when you join the lecture meetings.
 3. To ask a question (I love questions!), please use the "raise hand" feature of Zoom. In the "Participants" pane (opened using the "Participants" button at the bottom of the screen), there is a "raise hand" button. When you raise your hand, I will receive a pop-up, and will acknowledge your question as soon as appropriate.
 4. To ask your question, please unmute your audio (and video, if you want), ask, then mute yourself again. Repeat as needed for follow-ups.

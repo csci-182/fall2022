@@ -6,7 +6,7 @@ description:
     - File analytices
 type: tutorial
 abbreviation: Tutorial 7
-draft: 0
+draft: 1
 num: 7
 points: 3
 due_date: 2022-10-05

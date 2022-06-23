@@ -2,7 +2,7 @@
 layout: module
 title: Dictionary Algorithms (Continued)
 type: lecture
-draft: 0
+draft: 1
 num: 25
 exercise_url: "lecture25.zip"
 due_date: 2022-10-19
