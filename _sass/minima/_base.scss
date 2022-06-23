@@ -238,6 +238,7 @@ main {
 header {
     grid-area: top;
     background: $br2;
+    height: 116px;
     background: linear-gradient(90deg, $br2 0%, $br1 45%, $primary 80%);
     // background: $br1;
     // background: linear-gradient(90deg, $br1 48%, $primary 94%);
@@ -247,6 +248,12 @@ header {
     justify-content: center;
     text-align: center;
     background-position-y: -270px;
+    canvas {
+        position: absolute;
+        top: 0px;
+        left: 0;
+        // height: 116px;
+    }
 }
 header img {
     width: 200px;

@@ -89,13 +89,6 @@ table.instructions {
     }
 }
 
-canvas {
-    position: absolute;
-    top: 0px;
-    left: 0;
-    height: 116px;
-}
-
 @media (max-width: 800px) { 
     img.small, img.medium, img.med-lg {
         max-width: 100%;
