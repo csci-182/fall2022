@@ -1,5 +1,8 @@
 $twocolHeaderHeight: 164px;
 .two-column {
+    footer {
+        display: none;
+    }
     margin-bottom: 400px;
     main {
         h1, h2, h3, h4 {

@@ -100,7 +100,7 @@ Homework will be approximately weekly, and is due at 11:59pm on the specified da
 We will still accept late homework up to 48 hours after the original due date, but with a 2 point penalty (25%). Homework is graded on the following scale:
 
 |--|--|
-| **No submission / little understanding** | 0 Points | Little to no understanding/effort demonstrated |
+| **No submission / little understanding** | 0 Points | Little to no understanding / effort demonstrated |
 | **Check minus** | 3 Points | Some effort made, but significant features are missing or not working |
 | **Check** | 6 Points | Mostly working, but some errors or issues were found |
 | **Check Plus**| 8 Points | Working exactly as it should |
