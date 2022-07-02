@@ -1,12 +1,11 @@
-title: "CSCI XXX: Fall 2022"
-subtitle: "Introduction to Programming: XXX"
+title: "CSCI 185: Fall 2022"
+subtitle: "Introduction to Programming for the Web"
 email: vanwars@unca.edu
 baseurl: "/fall2022"
 term_start_date: "2022-08-15"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-campuswire_url: https://campuswire.com/c/G7DE56EF3/feed
 
 timezone: "America/New_York"
 # Build settings
