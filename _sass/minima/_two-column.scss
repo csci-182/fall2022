@@ -3,14 +3,28 @@ $twocolHeaderHeight: 164px;
     footer {
         display: none;
     }
-    margin-bottom: 400px;
+    // margin-bottom: 400px;
     main {
+        display: grid;
+        grid-template-columns: 300px auto;
+
         h1, h2, h3, h4 {
             padding-top: 85px;
             margin-top: -70px;
         }
         h2, h3, h4 {
             z-index: -1;
+        }
+
+        > article {
+            // width: calc(100vw - 300px);
+            // margin-left: 50px;
+            padding: 20px 60px;
+            // padding-right: 18vh;
+    
+            h1 {
+                font-size: 1.8em;
+            }
         }
     }
     padding: 0px;
@@ -40,18 +54,19 @@ $twocolHeaderHeight: 164px;
         }
     }
     aside {
-        &.sticky {
-            top: 48px;
-            position: fixed;
-            height: calc(100vh - 44px);
-            left: 0px;
-        }
-        background: #F6F6F6;
-        position: absolute;
-        top: $twocolHeaderHeight;
+
+        // &.sticky {
+        top: 48px;
+        position: sticky;
+        height: calc(100vh - 44px);
         left: 0px;
-        height: calc(100vh - 164px);
-        min-height: 100vh;
+        // }
+        background: #F6F6F6;
+        // position: absolute;
+        // top: $twocolHeaderHeight;
+        left: 0px;
+        // height: calc(100vh - 164px);
+        // min-height: 100vh;
         width: 300px;
         overflow-y: auto;
         padding-bottom: 40px;
@@ -118,14 +133,5 @@ $twocolHeaderHeight: 164px;
             }
         }
     }
-    article {
-        width: calc(100vw - 300px);
-        margin-left: 300px;
-        padding: 20px 60px;
-        padding-right: 18vh;
-
-        h1 {
-            font-size: 1.8em;
-        }
-    }
+    
 }
