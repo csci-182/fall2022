@@ -28,18 +28,26 @@
         }
     }  
     .one-column {
+        // main {
+        //     padding-left: 5vw;
+        //     padding-right: 5vw;
+        // }
         main {
-            padding-left: 5vw;
-            padding-right: 5vw;
+            padding-left: 0vw;
+            padding-right: 0vw;
         }
     }
 }
 
 @media (max-width: 800px) {   
     .two-column {
+        // main {
+        //     padding-left: 5vw;
+        //     padding-right: 5vw;
+        // }
         main {
-            padding-left: 5vw;
-            padding-right: 5vw;
+            padding-left: 0vw;
+            padding-right: 0vw;
         }
     }
     table {
@@ -73,6 +81,11 @@
     }
 
     .two-column {
+
+        main {
+            grid-template-columns: auto;
+        }
+
         main > article {
             margin-top: auto;
             width: auto;

@@ -15,7 +15,6 @@ body {
   color: #342f2e;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  overflow-x: hidden;
 }
 
 section, div, aside {
@@ -1564,15 +1563,15 @@ table.instructions td, table.instructions th {
     margin-left: 0;
   }
   .one-column main {
-    padding-left: 5vw;
-    padding-right: 5vw;
+    padding-left: 0vw;
+    padding-right: 0vw;
   }
 }
 
 @media (max-width: 800px) {
   .two-column main {
-    padding-left: 5vw;
-    padding-right: 5vw;
+    padding-left: 0vw;
+    padding-right: 0vw;
   }
   table td {
     font-family: 'Montserrat', sans-serif;
@@ -1593,6 +1592,10 @@ table.instructions td, table.instructions th {
   }
   .two-column {
     margin-bottom: 0px;
+  }
+  .two-column main {
+    -ms-grid-columns: auto;
+        grid-template-columns: auto;
   }
   .two-column main > article {
     margin-top: auto;
