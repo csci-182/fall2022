@@ -15,6 +15,7 @@ body {
   color: #342f2e;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 section, div, aside {
@@ -823,6 +824,10 @@ blockquote.quote.slim:before {
   font-size: 3em;
 }
 
+table.schedule-simple th, table.schedule-simple td {
+  padding: 4px;
+}
+
 .schedule ul, .labs ul {
   padding-left: 20px;
 }
@@ -859,9 +864,9 @@ blockquote.quote.slim:before {
 }
 
 .assignment h3, .lecture h3, .details h3, .two-column article h3, .syllabus h3, .schedule h3 {
-  color: #676767;
+  color: #444;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.5em;
+  font-size: 1.3em;
 }
 
 .container {
@@ -1524,6 +1529,10 @@ img.cars {
 
 table.instructions td, table.instructions th {
   font-size: 1em;
+}
+
+ol.compact li, ul.compact li {
+  margin: 0;
 }
 
 @media (max-width: 800px) {

@@ -89,6 +89,13 @@ table.instructions {
     }
 }
 
+ol.compact, ul.compact {
+    li {
+        margin: 0;
+        // line-height: 1.2em;
+    }
+}
+
 @media (max-width: 800px) { 
     img.small, img.medium, img.med-lg {
         max-width: 100%;

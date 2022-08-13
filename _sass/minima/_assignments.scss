@@ -250,7 +250,11 @@ blockquote.quote {
         font-size: 3em;
     }
 }
-
+table.schedule-simple {
+    th, td {
+        padding: 4px;
+    }
+}
 .schedule, .labs {
     ul { padding-left: 20px; }
 }
@@ -282,9 +286,9 @@ blockquote.quote {
         border-bottom: solid 1px $lightgrey;
     }
     h3 {
-        color: #676767;
+        color: #444;
         font-family: 'Montserrat', sans-serif;
-        // color: $br2;
-        font-size: 1.5em;
+        // color: $mapleRed;
+        font-size: 1.3em;
     }
 }

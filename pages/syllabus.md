@@ -1,144 +1,225 @@
 ---
-layout: two-column
+layout: syllabus
 title: Syllabus
 permalink: /syllabus/
+course: "CSCI 185: Intro to Computer Programming for the Web"
+term: "Fall, 2022"
+# include_schedule: 1
+prerequisites: "None"
+office_hours: "MWF 5pm - 6pm (in person), Rhoades Robinson Hall, Rm. 220"
+professor: "Dr. Sarah Van Wart (she/her)"
+section1: "MWF 12:30-1:45PM, Zeis Hall, Rm. 203"
+section2: "MWF 3:30-4:45PM, Zeis Hall, Rm. 203"
+notes: "Students may receive credit for ONLY ONE of the following courses: CSCI 182, 183 or 185."
 ---
 
-|--|--|
-| **Term** | Fall, 2021 |
-| **Course** | CSCI 185: Intro to Computer Programming for the Web |
-| **Prerequisites** | None |
-| **Instructor** | Sarah Van Wart |
-| **Section 1** | MWF 12:30-1:45PM, Location |
-| **Section 2** | MWF 3:30-4:45PM, Location |
-
 ## About the Course
-CSCI 185 is an introduction to computer programming with JavaScript, and assumes no prior programming knowledge. The intent of the course is twofold. First, we want to give you a sense of the kinds of problem-solving and creative pursuits that programming can support. Programming can be many different things — a representational medium, a tool for thinking about problems, a way of amplifying and/or communicating ideas, a means of performing complex calculations over massive datasets, and so forth. Most people who write computer programs are not computer scientists, but rather people who occupy a range of professions (journalists, geographers, sociologists, scientists, artists, musicians, entrepreneurs, researchers, etc.), and who use various programming languages to accomplish diverse and specialized goals. Moreover, as data and computing increasingly mediate modern life, knowing a bit about the mechanisms (and risks!) that underlie these systems is a valuable modern literacy that is likely to serve you well.
+CSCI 185 is an introduction to web design and web development, and assumes no prior knowledge. In this course, you will gain experience with some of the skills and strategies of modern web design and development, including:
 
-A second goal of the course is to introduce you to the fundamental constructs of computer programming, and some skills and strategies for helping you apply these low-level constructs in creative and useful ways. Towards this end, there will be quite a few drills and practice problems to get you familiar with ‘the basics.’ You need to dedicate enough time to practicing the basics: the fun, creative parts of programming are only possible when you understand the building blocks; and understanding comes from an active, consistent, and iterative engagement with new ideas. Taking this course means committing — for 10 weeks — to attending lectures and office hours, turning in assignments / projects, doing (lots of) practice problems, and most importantly, persevering when things get difficult and asking questions. We have an excellent staff of teaching assistants and peer mentors who are here just for you and your questions and ideas. With your consistent and active participation in your own learning, we can guide you through the material so that you can become a proficient programmer. Welcome to the course!
+{:.compact}
+* Exploring some principles of web architecture.
+* Learning the building blocks of programming -- data types, variables, functions, control flow, and events.
+* Writing a variety of interesting programs that a web browser can understand -- using HTML, CSS, & JavaScript.
+* Working with git and GitHub to publish and share files to the Internet.
+* Using the fetch API to build "data-driven" web interfaces.
+* Exploring some third-party JavaScript libraries and widgets (e.g. interactive maps, carousels, photo galleries, etc.).
+* Learning some basic principles of interface design (UX/UI), including how to make websites accessible for people with disabilities.
+* Considering some of the social, ethical, and legal implications of websites.
+
+> ### What this course does NOT cover
+> This course does not cover:
+> * Server-side programming (e.g., storing and retrieving custom datasets; authentication and security; using cloud-based tools like AWS, Heroku, etc.).
+> * Some of the popular web application frameworks that are widely used in industry (e.g., React, Vue, jQuery)
+> * Making native apps (iOS via Swift; Android via Java)
+> * SCSS and SASS (languages that transpile to CSS), CoffeeScript, TypeScript (languages that transpile to JavaScript)
+
+### About Web Design & Development
+Websites are living documents that require multiple forms of expertise to design and build. Some of the most important considerations fall outside of what is typically considered computer science, such as understanding the needs of the users and organizations and the potential implications of design decisions; or crafting clean, engaging visual designs. Other, equally important considerations are much more technical -- writing code with HTML, CSS, and JavaScript, thinking about how information travels over the Internet, and learning new frameworks, architectural styles, and design patterns. Moreover, as web techniques/technologies continue to evolve, it is also import to "learn how to learn" about new technologies, including interpreting technical documentation, modifying and adapting sample code, and thinking about whether or not to use an external library (versus building something from scratch). Developing these competencies involves cultivating a variety of practices and dispositions (versus acquiring some fixed body of knowledge).
+
+Taking this course means committing – for 17 weeks – to practicing your emergent coding skills, experimenting with how you want to convey information to make it engaging and digestable, turning in weekly assignments, committing to doing homework, being present in class for individual and group activities, and most importantly, persevering when things get confusing / difficult and asking questions. Your enjoyment and success in this course depends on your commitment to showing up, engaging, and practicing your developing skills and ideas.
+
 
 ## Course Format
+The course includes a mix of lectures, in-class activities, tutorials, quizzes, homework, and a final project. It is your responsibility to keep up-to-date on class material and announcements, as the schedule is subject to change. This includes material presented and announcements made in class, via email, or on Moodle.
 
-### Lectures
-Lectures will be both synchronous and asynchronous. We will use our scheduled class time to do practice problems together and make sure your questions get answered. All in-class lectures will be recorded. You will also be assigned some pre-recorded videos, which cover specific concepts and ideas that we will be practicing during lecture. Organizationally, some topics/modules span multiple lectures (see the [course schedule](../)). 
+### Class Meetings
+We will use our scheduled class time to go over web design and development concepts, do practice problems together and make sure your questions get answered. Class meetings will be in person. Organizationally, some topics/modules span multiple lectures (see the [course schedule](../)). Most class sessions have accompanying readings.
 
-**Bottom line**: We want you to attend the in-person lectures. That said, all lectures will be recorded and posted to the website, and therefore it is possible to successfully complete this course without ever attending a "live" lecture.
+### Lecture
+On Mondays and Wednesdays, we will cover new topics, discuss the readings, and complete short exercises to reinforce your understanding.
 
-### Tutorial Sessions (Your Participation Grade)
-The best way to learn how to program is to practice writing lots of programs. To encourage this, you will sign up for a required tutorial section on on Friday, 9/21. There will be around 17 tutorial sections that you can sign up for (with around 12 students per section). Your tutorial peer mentor will be your "go to person" for the course -- feel free to reach out to them with any questions or concerns that you may have.
+### Tutorial Sessions (15%)
+Every Friday, you will complete a slightly longer coding / design "tutorial." The tutorial is intended to help you:
+1. Become familiar with the types of strategies you might use to approach problems (which will be closely related to the homework / projects).
+1. Get comfortable writing lots of programs (practice makes perfect!)
+1. Assess what you know and don't know, so that you can make a plan to review various ideas and/or attend office hours.
 
-These tutorials have a few goals:
-1. To help you become familiar with the types of strategies you might use to approach problems (which will be closely related to the homework / projects).
-1. To force you to write lots of programs (practice makes perfect!)
-1. To help you to assess what you know and don't know, so that you can make a plan to attend office hours.
+Tutorials will be graded pass/fail. Even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must complete **at least 12 tutorials**, with a passing grade to get full credit for the tutorial portion of the class -- but you are encouraged to complete them all. 
 
-Tutorials will be graded pass/fail. Even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must submit **at least 7 tutorials**, but are encouraged to complete them all. 
+### Homework (45%) and Projects (30%)
+The majority of your grade will be based on 6 homework assignments and one final project -- creating a website of your choosing -- that you will complete over the course of the quarter. 
 
+### Quizzes (10%)
+There will also be 2 quizzes, which are intended to ensure that you understand some basic programming and web-oriented concepts. 
 
-## Course Materials and Resources 
+## Course Materials & Resources
 
-### Free Online Books
-* <a href="https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf">A Practical Introduction to Python Programming</a>, by Brian Heinold
-* <a href="https://www.py4e.com/">Python for Everyone</a>, by Chuck Severance
-* <a href="http://openbookproject.net/thinkcs/python/english3e/">How to think like a Computer Scientist</a>, by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
+### Software
+As this is a programming course, you will be using the free software programs listed below. This software will take about 3GB of space to install. Installing and configuring programming software can be a hassle, but it is part of the process of developing your working computing knowledge. I will help you. 
 
+{:.compact}
+* <a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code</a>
+* <a href="https://github.com/git-guides/install-git" target="_blank">Git and Github</a>
 
-### Installing Software
-As this is a programming course, you will be using some free software programs and libraries in order to write Python programs. Installing and configuring this software can be a huge hassle, but it is part of the process of developing your working computing knowledge. 
+This software is also installed on all of the classroom computers.
 
-> If you are struggling to get Python and your code editor installed, this is (alas) ***normal*** (ask any software engineer). This is also one of the reasons why we have such a big course staff: to troubleshoot individual laptop problems with students.
+### Course References
+I have compiled a list of web-based reference materials on the course website:
+
+{:.compact}
+* [HTML Resources](/fall2022/html-reference)
+* [CSS Resources](/fall2022/css-reference)
+* [JavaScript Resources](/fall2022/javascript-reference)
+* [Design Resources](/fall2022/design-reference)
+* [Accessibility Resources](/fall2022/accessibility-reference)
+
+Before each class, you may be assigned some pre-recorded videos, readings, or tutorial links from this resource guide, which will cover specific concepts and ideas that we will be practicing during lecture. Please set aside time to review these materials, as they will make the assignments and projects easier!
 
 ## Getting Questions Answered
 
 ### Office Hours
-Office hours (and tutorials) are hands down **THE BEST** resource this course has to offer. That said, it's up to you to take initiave and cultivate a weekly / bi-weekly office-hours-going practice that works for you and your schedule. This looks different for everyone: some people go to 1-2 office hours sessions per week and finish their homework with a TA or peer mentor nearby (if needed). Other students never go to office hours (though this is rare, as the homeworks and projects are challenging). Also, different people connect with different TAs/peer mentors, so do shop around to find a person with whom you work well...and drop in sooner rather than later! 
+My office hours are every Monday, Wednesday, and Friday from 5-6PM. All questions are welcomed, including (but are not limited to):
 
-The kinds of questions that are perfectly legitimate to ask in office hours include (but are not limited to):
-
+{:.compact}
 * I don't know where to start in this week's homework. Can you help?
-* My laptop won't run the code! Help!
-* My code's not working? What's my error?
-* I didn't understand X idea in lecture / tutorial this week. Can you explain it to me?
-* What courses should I take next after CS110?
-* What kinds of CS-related careers and opportunities are out there?
+* My GitHub page is broken -- help!
+* My code's not working. How do I debug it.
+* I didn't understand X idea in lecture / tutorial this week. Can we discuss it?
+* What courses should I take next after CSCI 185?
+* What kinds of web-related careers and opportunities are out there?
 
+You may also talk to me about concerns about your progress in the course, personal matters related to your participation in the course, larger grade concerns, advice about future courses, majors and internships, etc.
 
-### Grading Questions
-For grading questions/concerns, or for any other issues, please come talk to me. This might include things like concerns about your progress in the course, questions about content from my lectures, personal matter related to your participation in the course, larger grade concerns, advice about future courses, majors and internships, etc.
-
-## Office Hours
-Office hours and locations / Zoom links are posted <a href="{{site.baseurl}}/times-locations/">here</a>. Some office hours will be in person. Others will be virtual. See the course calendar for details.
 
 ## Grading
 Your course grade is calculated based on 200 points as follows:
 
 {:.medium}
-| **2 Projects** | 2 x 40 Points | 80 Points | 40% |
-| **2 Quizzes** (of 3) | 2 x 30 Points (lowest score dropped) | 60 Points | 30% |
-| **5 Homeworks** (of 6) | 5 x 8 Points (lowest score dropped) | 40 Points | 20% |
-| **7 Tutorials** (of 9) | 7 x ~3 Points (lowest scores dropped) | 20 Points | 10% |
+| **1 Project** | 1 x 60 Points | 60 Points | 30% |
+| **2 Quizzes** | 2 x 10 Points | 20 Points | 10% |
+| **6 Homeworks** (of 7) | 7 x 15 Points (lowest score dropped) | 90 Points | 45% |
+| **10 Tutorials** (of 12) | 10 x 3 Points (lowest 2 scores dropped) | 30 Points | 15% |
 | | | **200 Points** | **100%** |
 
 Final grades are assigned on a fixed scale: 93-100 is 
 an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Some other logistics:
 
 1. Final course grades will not be rounded or curved.
-1. We will not be using the final exam time for this class.
+1. There will not be a final exam, but you will be presenting your final projects during exam time.
 
 > ### NOTE: Leniency is built into the course
 > Because there are unprecedented and uncertain times, I have built leniency into the design of the class. You will be able to:
-> * drop your lowest quiz score (best 2 of 3)
-> * drop your lowest homework score (best 5 of 6)
-> * Keep your best 7 tutorial scores (best 7 of 9)
+> * drop your lowest homework score (best 6 of 7)
+> * Keep your best 10 tutorial scores (best 10 of 12)
 >
-> I have done this to make the class equitable. Use this leniency wisely. In other words, skipping HW1, Quiz1, and Tutorial1-2 is an ill-advised approach. **I will not grant additional exceptions unless the circumstances are truly exceptional, and this will need to go through the Dean of Students (or some similar NU entity).**
+> I have done this to make the class equitable. Use this leniency wisely. In other words, skipping HW1 and Tutorial1-2 is an ill-advised approach. I will not grant additional exceptions unless the circumstances are exceptional, and this will need to be done in coordination with Dean of Student's office.
 
 
 ### Homework Grading
-Homework will be approximately weekly, and is due at 11:59pm on the specified date.
+Homework will be due approximately every other week at 11:59pm on the specified date. Homework will be graded according to a published rubric that will be given when the assignment is released. Each day that your homework is late, 10% of the possible total points will be deducted. Work submitted after 4 days will earn a maximum of half credit.
 
-We will still accept late homework up to 48 hours after the original due date, but with a 2 point penalty (25%). Homework is graded on the following scale:
+{:.small}
+| 0-1 day | 10% penalty |
+| 1-2 days | 20% penalty |
+| 2-3 days | 30% penalty |
+| 3-4 days | 20% penalty |
+| 4 or more days | 50% penalty |
 
-|--|--|
-| **No submission / little understanding** | 0 Points | Little to no understanding / effort demonstrated |
-| **Check minus** | 3 Points | Some effort made, but significant features are missing or not working |
-| **Check** | 6 Points | Mostly working, but some errors or issues were found |
-| **Check Plus**| 8 Points | Working exactly as it should |
+### Tutorial Grading
+Attendance is **mandatory** at all tutorial sessions. Tutorials will be graded pass / fail according to:
 
-On occasion, the grader may make an error. You will receive your assignment grades on Canvas. If you have any grading questions/concerns, please send a private message on Campuswire within 1 week to the graduate TA to resolve the issue. Finally, it is your responsibility to keep up-to-date on class material and announcements, as the schedule is subject to change. This includes material presented and announcements made in class, via email, or on Campuswire.
+{:.compact}
+1. Whether or not you submitted a completed tutorial assignment.
+3. Whether or not you attended the tutorial.
+2. Evidence that you put in a good faith effort
 
-## Policy on Academic Honesty
-In the past, there have been a few unfortunate instances in which students have presented work other than their own. For the programming assignments: You are allowed (encouraged, even!) to discuss general approaches to solving problems, but all work you submit must be your own. Working “together” and presenting variants of the same file is not acceptable. Here are some specific guidelines to make sure you don’t cross the line:
+### Project Grading
+During the second half of the semester, you will have the opportunity to create a website of your choosing. You may work alone, or in a group of up to three people. The evaluation criteria for your final project will be posted when the assignment is released.
 
+
+### Regrading Policy
+I have been known to make the occasional grading error. If you have any grading questions/concerns, please email me within a week to resolve the issue.
+
+
+## Course Policies
+
+### General
+* No food, no drinks, and no water inside the classroom. If you need to eat or drink, please step outside the classroom (away from the computers) to do so.
+* Be respectful of others during classroom discussions and presentations.
+* We may have the occasional remote class session. We can decide as a class how we want to do that.
+
+### COVID Policies
+* **Masking.** Currently, there is no masking mandate at UNCA with the exception of healthcare settings and University shuttles. Please respect individuals’ personal decisions to either wear or not wear a mask in any given circumstance.
+    * ***Note:*** I may require masks in my office. I may also request that students voluntarily continue wearing masks in class, with the understanding that masking cannot be required.
+* **Social distancing.** There is no official policy regarding social distancing in the classroom. Please be sensitive to the fact that everyone’s comfort level will vary. Whenever possible, please keep several feet between yourself and a classmate. If a classmate requests more space, please do so kindly and without judgment or question. 
+* **Illness policy.** Please stay home if you are ill, and email me -- I will let you know how you can catch up / participate remotely.
+
+### Academic Honesty
+In the past, there have been a few unfortunate instances in which students have presented work other than their own. Here are some guidelines to help you understand what is and is not appropriate"
+
+#### Labs
+Helping other students with their in-class lab code is allowed and encouraged, but each student should type their own solution. 
+
+#### Homework and Project Work
+You are allowed and encouraged to discuss general approaches to solving problems, but all work you submit must be your own. Working “together” and presenting variants of the same file is not acceptable. Here are some specific guidelines to make sure you don’t cross the line:
 * Do not exchange programs or program fragments in any form – on paper, via e-mail, or by other means.
-* Do not copy solutions from any source, including the web or previous CSCI 185 students.
 * While working with other students, it is perfectly acceptable to ‘look’ at each other’s code (perhaps while helping someone to debug), but you should NEVER be scribing (typing or writing) your own work while looking at someone else’s (on a computer screen, paper, whiteboard, etc.).
 * Uploading materials from this course to websites that sell such content to students is prohibited by UNCA’s academic integrity policies, and may also put you at risk for violating copyright policies in UNCA’s Student Conduct Code.
 
 Contact Sarah Van Wart if you have any questions about what is appropriate.
 
+#### Using the Broader Web for Code and Ideas
+In this class, I encourage you to explore the broader web for tutorials, code samples, new coding techniques, libraries, etc. After all, learning how to build websites is all about studying existing websites and how the work! That said, you must *acknowledge all sources contributing to your work.*  If you receive any assistance from any source (Internet, peer, social media, etc.), please describe your source and that source’s contribution(s). If you have any questions about this, please don't hesitate to contact me.
+
+Students violating the academic honesty policy on a test or exam will receive a grade of "F" in the course. Students violating the academic honesty policy on an assignment other than a test or exam will receive a grade of 0 on that assignment for the first offense, and will receive a grade of "F" in the course for the second offense. This will apply to all students involved in the violation, including both the source student and the copying student. It is your responsibility to ensure that your work is not used by other students.
+
+All cases of academic dishonesty will be reported to the Assistant Provost.
 
 
-## Syllabus Statements from the Provost's Office
-TBD
+### Class Cancellation Policy
+If a class meeting is canceled or due dates are moved due to inclement weather or any other reason, I will inform you via campus email (ending with unca.edu).
 
-### Academic Integrity
-> TBD.
 
-### Accessibility
-> TBD.
 
-### COVID-19 Testing Compliance
-> TBD.
 
-### Prohibition of Recording of Class Sessions by Students
-> TBD.
+## University Policies
+### Acknowledgement of the COVID-19 Pandemic
+As a community in this time of uncertainty, we seek to uphold and embody our ideals of compassion, resilience, understanding, and flexibility for each other.  With that understanding, here are a list of course policies active for this semester:
+1. We all are expected to abide by our institution's [community expectations](https://coronavirus.unca.edu/return-to-campus/community-expectations/). If you are in a public space you are expected to wash your hands and maintain social distance from others. 
+2. COVID-19 vaccines are strongly encouraged for all students, faculty, and staff; surveillance testing is also available on campus.
+3. If you become ill: 
+    * Do not physically attend any classes.
+    * If emergency, dial 911. For non-emergency medical help contact [UNC Asheville Health and Counseling Center](https://healthandcounseling.unca.edu/) at (828) 251-6520, Monday-Friday 8:00am - 4:30pm. After hours call MAHEC at (828)257-4740.
+    * Reach out to your instructor as you are able.
 
-### Support for Wellness and Mental Health
-> TBD.
+### Office of Academic Accessibility 
+UNC-Asheville values the diversity of our student body as a strength and a critical component of our dynamic community. Students with disabilities or temporary injuries/conditions may require accommodations due to barriers in the structure of facilities, course design, technology used for curricular purposes, or other campus resources. Students who experience a barrier to full access to this class should let the professor know, and/or make an appointment to meet with the Office of Academic Accessibility as soon as possible. To make an appointment, call 828.232.5050; email academicaccess@unca.edu; visit [https://oaa.unca.edu/](https://oaa.unca.edu/) and click on "Schedule an Appointment"; or drop by the Academic Accessibility Office, room 008 in the One Stop suite (lower level of Ramsey Library). Learn more about the process of registering, and the services available through the Office of Academic Accessibility here: [https://oaa.unca.edu/](https://oaa.unca.edu/)
 
-### COVID-19 Classroom Expectations
-> TBD.
+While students may disclose disability at any point in the semester, students who receive Letters of Accommodation are strongly encouraged to request, obtain and present these to their professors as early in the semester as possible so that accommodations can be made in a timely manner. It is the student’s responsibility to follow this process each semester.
 
-### Exceptions to Class Modality
-> TBD.
+### Promoting Gender Equity, Addressing Sexual Misconduct
+UNC Asheville is dedicated to cultivating and maintaining a safe, respectful, and inclusive environment, free from harassment and discrimination. We strive to ensure that all have equal access to the educational and employment opportunities the University provides. If you or someone you know has been affected by sexual misconduct, including sexual or gender-based harassment, sexual assault, dating or domestic violence, or stalking, please know that help and support are available. UNC Asheville strongly encourages all members of the community to take action, seek support, and report incidents of sexual harassment to the Title IX Office. You may contact the Title IX Office or Heather Lindkvist, the Title IX Coordinator, directly at 828.232.5658 or at titleix@unca.edu. Learn more by visiting [titleix.unca.edu](https://titleix.unca.edu).
+
+As a faculty member, I am a “responsible employee” and private resource. This means that if you share any information or discuss an incident with me regarding sexual or gender-based harassment, I must disclose this information to the Title IX Coordinator. Our goal is to ensure you are aware of the range of options available to you and have access to the resources you may need. 
+
+If you wish to speak with a confidential resource, contact University Health and Counseling Services at 828.251.6520. Off-campus confidential resources include Our Voice (24-Hour Hotline at 828.255.7576) and HelpMate (24-Hour Hotline at 828.254.0516).
+
+### Academic Indicators
+Faculty at UNC Asheville are required to use the university's Academic Indicators system. The purpose of this system is to communicate with students about their progress in courses. Academic Indicators can reflect that a student’s performance is satisfactory at the time it is submitted, or they can indicate concerns (e.g., academic difficulty, attendance problems, or other concerns). Professors use this system because they are invested in student success and want to encourage open conversations about how students can improve their performance. When a faculty member submits an indicator that expresses a concern, the student receives an email from Academic Advising notifying them of the indicator and subsequent registration hold on their account. To clear the hold, the student must complete an online Response Form included in the alert e-mail. 
+
+The student’s responses will be shared with the instructor and advising staff. If a student receives three or more indicators that show problems, they will need to meet with an advisor by scheduling an appointment using the online appointment service at [advising.unca.edu](https://advising.unca.edu/) and select ‘Academic Alert Appointment’ as the type of appointment. The professor may also request to meet with the student to discuss the indicator.  It is in the student's best interest to complete the process quickly, as students who do so are more likely to earn credit for the course. Failure to complete the process means the student won't be able to register for the next semester's classes until they have submitted the required form and completed any requested meeting requirements. Questions about the indicator system can be directed to Anne Marie Roberts (amrober1@unca.edu) in the [Academic Success Center](https://www.unca.edu/academics/academic-success/).
+
+### Mental Health Support
+As a student, you may experience a range of challenges that can interfere with learning, such as stressful life events, experiences of anxiety and/or depression, self-harm, substance use, and/or unusual difficulty with ordinary life activities. The increased stress of school can also make existing mental health struggles more difficult to manage. Support is available and treatment can help. Learn more about the confidential mental health services UNC Asheville provides to support student success at [https://www.unca.edu/life/health-counseling/](https://www.unca.edu/life/health-counseling/)
+
+The Health and Counseling Center is located at 118 W.T. Weaver Boulevard. Appointments can be made by calling 828-251-6520. A UNC Asheville counselor on call is available after 5 p.m. and on weekends; the counselor on call can be accessed by calling the UNCA Campus Police dispatcher at 828-251-6710. Additionally available after hours and on weekends, call the Bulldog Health Link at 1-888-267-3675, where you can get immediate support for mental health, medical consultation, concern for a friend, and/or community resources. In case of an emergency, you can also call RHA’s Mental Health Mobile Crisis Unit at 1-888-573-1006.

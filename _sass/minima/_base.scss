@@ -30,7 +30,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: #342f2e;
     box-sizing: border-box;
-    // overflow-x: hidden;
+    overflow-x: hidden;
 }
 
 section, div, aside {
@@ -52,6 +52,7 @@ section, article {
         font-size: 16px;
         color: #5c5962;
         line-height: 1.7em;
+        // line-height: 1.5em;
         margin-top: 5px;
     }
 }
