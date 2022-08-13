@@ -25,6 +25,14 @@
             section {
                 margin-left: 0;
             }
+            p.kudos {
+                top: 34px;
+                left: 11px;
+                a, a:hover, a:visited, a:link, a:active {
+                    padding: 0;
+                    margin: 0;
+                }
+            }
         }
     }  
     .one-column {
