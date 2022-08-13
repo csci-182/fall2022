@@ -256,43 +256,60 @@ header {
         // height: 116px;
     }
 }
-header img {
-    width: 200px;
-    margin-right: 20px;
-    z-index: 100;
-}
-header section {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    margin-left: 200px;
+header {
+    img {
+        width: 200px;
+        margin-right: 20px;
+        z-index: 100;
+    }
+    p.kudos {
+        position: absolute;
+        left: 10px;
+        color: white;
+        top: 80px;
+        font-size: .8em;
+        z-index: 100;
 
-    h1 {
-        margin-bottom: 0px;
-        color: white;
-        margin-top: 0px;
-        a, a:hover, a:visited, a:active {
+        a, a:hover, a:visited, a:link, a:active {
             color: white;
-            background: none;
+            text-decoration: underline;
         }
-        z-index: 100;
+
     }
-    h2 {
-        margin-top: 0px;
-        margin-bottom: 0px;
-        font-family: 'Montserrat', sans-serif;
-        border-bottom: none;
-        color: white;
-        text-align: center;
-        a, a:hover, a:visited, a:active {
+    section {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-left: 200px;
+    
+        h1 {
+            margin-bottom: 0px;
             color: white;
+            margin-top: 0px;
+            a, a:hover, a:visited, a:active {
+                color: white;
+                background: none;
+            }
+            z-index: 100;
         }
-        z-index: 100;
-    }
-    a {
-        z-index: 100;
+        h2 {
+            margin-top: 0px;
+            margin-bottom: 0px;
+            font-family: 'Montserrat', sans-serif;
+            border-bottom: none;
+            color: white;
+            text-align: center;
+            a, a:hover, a:visited, a:active {
+                color: white;
+            }
+            z-index: 100;
+        }
+        a {
+            z-index: 100;
+        }
     }
 }
+
 
 nav {
     background: $lightgrey;

@@ -277,6 +277,20 @@ header img {
   z-index: 100;
 }
 
+header p.kudos {
+  position: absolute;
+  left: 10px;
+  color: white;
+  top: 80px;
+  font-size: .8em;
+  z-index: 100;
+}
+
+header p.kudos a, header p.kudos a:hover, header p.kudos a:visited, header p.kudos a:link, header p.kudos a:active {
+  color: white;
+  text-decoration: underline;
+}
+
 header section {
   display: -webkit-box;
   display: -ms-flexbox;

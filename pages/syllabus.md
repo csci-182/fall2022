@@ -38,7 +38,6 @@ Websites are living documents that require multiple forms of expertise to design
 
 Taking this course means committing – for 17 weeks – to practicing your emergent coding skills, experimenting with how you want to convey information to make it engaging and digestable, turning in weekly assignments, committing to doing homework, being present in class for individual and group activities, and most importantly, persevering when things get confusing / difficult and asking questions. Your enjoyment and success in this course depends on your commitment to showing up, engaging, and practicing your developing skills and ideas.
 
-
 ## Course Format
 The course includes a mix of lectures, in-class activities, tutorials, quizzes, homework, and a final project. It is your responsibility to keep up-to-date on class material and announcements, as the schedule is subject to change. This includes material presented and announcements made in class, via email, or on Moodle.
 
@@ -54,13 +53,13 @@ Every Friday, you will complete a slightly longer coding / design "tutorial." Th
 1. Get comfortable writing lots of programs (practice makes perfect!)
 1. Assess what you know and don't know, so that you can make a plan to review various ideas and/or attend office hours.
 
-Tutorials will be graded pass/fail. Even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must complete **at least 12 tutorials**, with a passing grade to get full credit for the tutorial portion of the class -- but you are encouraged to complete them all. 
+Tutorials will be graded pass/fail. Even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must complete **at least 10 tutorials**, with a passing grade to get full credit for the tutorial portion of the class -- but you are encouraged to complete them all. 
 
 ### Homework (45%) and Projects (30%)
-The majority of your grade will be based on 6 homework assignments and one final project -- creating a website of your choosing -- that you will complete over the course of the quarter. 
+The majority of your grade will be based on 6 homework assignments and one final project -- creating a website of your choosing -- that you will complete over the course of the semester. 
 
 ### Quizzes (10%)
-There will also be 2 quizzes, which are intended to ensure that you understand some basic programming and web-oriented concepts. 
+There will also be 2 quizzes, which are intended to ensure that you understand some basic programming and web-related concepts. 
 
 ## Course Materials & Resources
 
@@ -140,8 +139,10 @@ Attendance is **mandatory** at all tutorial sessions. Tutorials will be graded p
 
 {:.compact}
 1. Whether or not you submitted a completed tutorial assignment.
-3. Whether or not you attended the tutorial.
-2. Evidence that you put in a good faith effort
+1. Whether or not you attended the tutorial.
+1. Evidence that you put in a good faith effort
+
+Tutorials are due by 11:59PM on Friday (but I recommend that you just submit them at the end of class). I **do not accept late tutorials** because I post the solutions right away.
 
 ### Project Grading
 During the second half of the semester, you will have the opportunity to create a website of your choosing. You may work alone, or in a group of up to three people. The evaluation criteria for your final project will be posted when the assignment is released.
