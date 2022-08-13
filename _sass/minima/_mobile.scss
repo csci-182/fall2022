@@ -25,14 +25,6 @@
             section {
                 margin-left: 0;
             }
-            p.kudos {
-                top: 34px;
-                left: 11px;
-                a, a:hover, a:visited, a:link, a:active {
-                    padding: 0;
-                    margin: 0;
-                }
-            }
         }
     }  
     .one-column {
@@ -154,6 +146,16 @@
             box-shadow: 0 1px 3px rgba(0, 0, 0, 0.22), 0 1px 2px rgba(0, 0, 0, 0.34);
             color: white;
             grid-template-columns: 1fr;
+
+            
+            p.kudos {
+                a, a:hover, a:visited, a:link, a:active {
+                    padding: 0;
+                    margin: 0;
+                }
+                left: 11px;
+                top: 34px;
+            }
             
             i { font-size: 24px; }
             a {

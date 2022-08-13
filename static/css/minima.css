@@ -1585,14 +1585,6 @@ ol.compact li, ul.compact li {
   .one-column header section, .two-column header section {
     margin-left: 0;
   }
-  .one-column header p.kudos, .two-column header p.kudos {
-    top: 34px;
-    left: 11px;
-  }
-  .one-column header p.kudos a, .one-column header p.kudos a:hover, .one-column header p.kudos a:visited, .one-column header p.kudos a:link, .one-column header p.kudos a:active, .two-column header p.kudos a, .two-column header p.kudos a:hover, .two-column header p.kudos a:visited, .two-column header p.kudos a:link, .two-column header p.kudos a:active {
-    padding: 0;
-    margin: 0;
-  }
   .one-column main {
     padding-left: 0vw;
     padding-right: 0vw;
@@ -1697,6 +1689,14 @@ ol.compact li, ul.compact li {
     color: white;
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
+  }
+  .one-column header p.kudos, .two-column header p.kudos {
+    left: 11px;
+    top: 34px;
+  }
+  .one-column header p.kudos a, .one-column header p.kudos a:hover, .one-column header p.kudos a:visited, .one-column header p.kudos a:link, .one-column header p.kudos a:active, .two-column header p.kudos a, .two-column header p.kudos a:hover, .two-column header p.kudos a:visited, .two-column header p.kudos a:link, .two-column header p.kudos a:active {
+    padding: 0;
+    margin: 0;
   }
   .one-column header i, .two-column header i {
     font-size: 24px;
