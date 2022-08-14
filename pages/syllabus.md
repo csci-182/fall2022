@@ -39,7 +39,7 @@ Websites are living documents that require multiple forms of expertise to design
 Taking this course means committing – for 17 weeks – to practicing your emergent coding skills, experimenting with how you want to convey information to make it engaging and digestable, turning in weekly assignments, committing to doing homework, being present in class for individual and group activities, and most importantly, persevering when things get confusing / difficult and asking questions. Your enjoyment and success in this course depends on your commitment to showing up, engaging, and practicing your developing skills and ideas.
 
 ## Course Format
-The course includes a mix of lectures, in-class activities, tutorials, quizzes, homework, and a final project. It is your responsibility to keep up-to-date on class material and announcements, as the schedule is subject to change. This includes material presented and announcements made in class, via email, or on Moodle.
+The course includes a mix of lectures, in-class activities, tutorials, quizzes, homework, and projects. It is your responsibility to keep up-to-date on class material and announcements, as the schedule is subject to change. This includes material presented and announcements made in class, via email, or on Moodle.
 
 ### Class Meetings
 We will use our scheduled class time to go over web design and development concepts, do practice problems together and make sure your questions get answered. Class meetings will be in person. Organizationally, some topics/modules span multiple lectures (see the [course schedule](../)). Most class sessions have accompanying readings.
@@ -47,7 +47,7 @@ We will use our scheduled class time to go over web design and development conce
 ### Lecture
 On Mondays and Wednesdays, we will cover new topics, discuss the readings, and complete short exercises to reinforce your understanding.
 
-### Tutorial Sessions (15%)
+### Tutorial Sessions (20%)
 Every Friday, you will complete a slightly longer coding / design "tutorial." The tutorial is intended to help you:
 1. Become familiar with the types of strategies you might use to approach problems (which will be closely related to the homework / projects).
 1. Get comfortable writing lots of programs (practice makes perfect!)
@@ -55,7 +55,7 @@ Every Friday, you will complete a slightly longer coding / design "tutorial." Th
 
 Tutorials will be graded pass/fail. Even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must complete **at least 10 tutorials**, with a passing grade to get full credit for the tutorial portion of the class -- but you are encouraged to complete them all. 
 
-### Homework (45%) and Projects (30%)
+### Homework (40%) and Projects (30%)
 The majority of your grade will be based on 6 homework assignments and one final project -- creating a website of your choosing -- that you will complete over the course of the semester. 
 
 ### Quizzes (10%)
