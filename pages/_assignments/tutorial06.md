@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: DOM Manipulation
+title: DOM manipulation
 type: tutorial
 abbreviation: Tutorial 6
 draft: 1

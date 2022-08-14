@@ -6,25 +6,24 @@ layout: default
     <!-- gets a distinct list of dates from lectures and assignments -->
     {% assign everything = site.assignments | concat: site.lectures %}
     {% assign dates = everything | sort: 'due_date'| map: 'due_date' | uniq %}
-
+    {% assign labs = site.assignments | where: 'type', 'tutorial' %}
+    {% assign main_listing = site.lectures | concat: labs %}
     <p>
         Note: This schedule is subject to change (as needed). 
-        In addition, unless otherwise indicated, tutorials are always due on Wednesday at 11:59PM
-        and homework is always due on Friday at 11:59PM.
     </p>
     <table>
         <thead>
             <tr>
                 <th>Week</th>
                 <th></th>
-                <th>Lesson Topic</th>
-                <th>Due</th>
+                <th>Topic</th>
+                <th>HW / Project Due</th>
             </tr>
         </thead>
         <tbody>
         {% assign last_week = 0 %}
         {% for date in dates %}
-            {% assign lecture = site.lectures | where: 'due_date', date | last %}
+            {% assign lecture = main_listing | where: 'due_date', date | last %}
             <!-- Calculate the Week -->
             {% assign dateStart = site.term_start_date | date: '%s' %}
             {% assign lectureDate = date | date: '%s' %}
@@ -44,14 +43,6 @@ layout: default
                     <!-- If lecture -->
                     <td> 
                         {{ date | date: "%a, %m/%d" }}
-                        <!-- {% comment %}
-                        {% if lecture.type != 'lab' %}
-                            {{ date | date: "%a, %m/%d" }}
-                        {% else %}
-                            Lab<br>
-                            (during assigned day/time)
-                        {% endif %} 
-                        {% endcomment %} -->
                     </td>
                     <td>
                         {% assign className = 'lec' %}
@@ -59,38 +50,28 @@ layout: default
                         {% if lecture.num  %}
                             {% assign prefix = "Lesson " | append: lecture.num %}
                         {% endif %} 
-                        {% if lecture.type == 'lab' %}
-                            {% assign className = 'lab' %}
-                            {% assign prefix = "Lab " | append: lecture.num %}
-                        {% endif %} 
                         {% if lecture.type == 'review' or lecture.type == 'exam' or lecture.type == 'quiz'%}
                             {% assign className = 'quiz' %}
                             {% assign prefix = lecture.type  | append: " " | append: lecture.num %}
                         {% endif %}
+                        {% if lecture.type == 'tutorial' %}
+                            {% assign className = 'lab' %}
+                            {% assign prefix = "Tutorial " | append: lecture.num %}
+                        {% endif %} 
+
+                        <!-- output -->
                         {% if lecture.draft == 1 and prefix %}
                             <span class="badge">
                                 {{ prefix }}
                             </span>
+                            {{ lecture.title }} 
                         {% elsif prefix %} 
-                            <a id="l{{lecture.num}}" class="{{ className }}" href="{{site.baseurl}}{{lecture.url}}">
+                            <a class="{{ className }}" href="{{site.baseurl}}{{lecture.url}}">
                                 {{ prefix }} <i class="fas fa-link"></i>
                             </a>
-                        {% endif %}
-                        {% if lecture.type == 'lab' or lecture.type == 'lecture' or lecture.type == 'exam' or lecture.type == 'quiz' %}
-                            {% if lecture.draft == 1 %}
-                                {{ lecture.title }}
-                            {% else %}
-                                <strong>{{ lecture.title }}</strong>
-                            {% endif %}
-                        {% endif %}
-                        {% if lecture.description.first %}
-                            <ul>
-                                <li>
-                                    {{ lecture.description | join: "</li><li>" }}
-                                </li>
-                            </ul>
+                            {{ lecture.title }} 
                         {% else %}
-                            {{ lecture.description }}
+                            {{ lecture.title }} 
                         {% endif %}
                     </td>
                 {% else %}
@@ -99,31 +80,21 @@ layout: default
                     <td></td>
                 {% endif %}
                 <td>
-                    {% if lecture.type == 'lab' or lecture.type == 'quiz' %}
-                        {{ prefix | upcase }} <br>
-                    {% endif %}
                     {% assign assignments = site.assignments | where: 'due_date', date %}
                     {% for assignment in assignments %}
                         {% assign classname = "pj" %}
                         {% if assignment.type == "homework" %}
                             {% assign classname = "hw" %}
                         {% endif %} 
-                        {% if assignment.type == "extra credit" %}
-                            {% assign classname = "ec" %}
-                        {% endif %} 
-                        {% if assignment.type == "tutorial" %}
-                            {% assign classname = "lab" %}
-                        {% endif %} 
                         
-                        {% if assignment.draft == 1 %}
-                            <strong>{{ assignment.abbreviation }}:</strong>
-                        {% else %} 
+                        {% if assignment.draft == 1 and  assignment.type != "tutorial" %}
+                            <strong>{{ assignment.abbreviation }}:</strong> {{ assignment.title }}
+                        {% elsif assignment.type != "tutorial" %} 
                             <a href="{{site.baseurl}}{{assignment.url}}" class="{{classname}}">
                                 {{ assignment.abbreviation }}
                                 <i class="fa fa-link"></i>
-                            </a>
+                            </a> {{ assignment.title }}
                         {% endif %} 
-                        {{ assignment.title }}<br>
                     {% endfor %}
                 </td>
             </tr>
@@ -133,23 +104,3 @@ layout: default
     </table>
 
 </section>
-{% if site.deadline_reminder %}
-<script>
-    /* 
-        Script for calculating # of days until assignment due.
-        Note: Can't use Jekyll b/c it doesn't compile every time.
-    */
-    const trs = document.querySelectorAll('tr');
-    for (tr of trs) {
-        const dateElement = tr.querySelector('.due-date');
-        if (dateElement) {
-            const dateString = dateElement.innerHTML;
-            const dueDate = new Date(dateString);
-            const numDays = (dueDate - new Date()) / (1000 * 3600 * 24);
-            if (numDays < -1) {
-                tr.classList.add('passed');
-            }
-        }
-    }
-</script>
-{% endif %}

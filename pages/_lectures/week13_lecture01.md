@@ -1,11 +1,10 @@
 ---
 layout: module
-title: TBD
+title: "Practice working with REST APIs: Yelp"
 type: lecture
 draft: 1
-num: 31
+num: 21
 due_date: 2022-11-07
-
 ---
 
 TBD

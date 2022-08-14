@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: Project Proposal Presentations
+title: Project proposal presentations
 type: tutorial
 abbreviation: Tutorial 12
 draft: 1

@@ -1,9 +1,9 @@
 ---
 layout: module
-title: TBD
+title: "Intro to the fetch API"
 type: lecture
 draft: 1
-num: 29
+num: 20
 due_date: 2022-11-02
 ---
 
