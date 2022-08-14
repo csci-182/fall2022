@@ -6,13 +6,8 @@ nav_order: 9
 permalink: /css-reference/media-queries/
 ---
 
-## Recommended LinkedIn Learning videos
 
-{:.medium}
-| <a href="https://www.linkedin.com/learning/css-essential-training-3/introduction-to-media-queries" target="_blank">Intro to media queries</a> | 3:58 |
-| <a href="https://www.linkedin.com/learning/css-essential-training-3/introduction-to-media-queries" target="_blank">Media queries, width, and breakpoints</a> | 3:26 |
-
-## Other resources
+## Resources
 1. <a href="https://alligator.io/css/media-queries/" target="_blank">Alligator.io: Quick Reference & Guide</a>
 2. <a href="https://css-tricks.com/snippets/css/media-queries-for-standard-devices/" target="_blank">CSS Tricks</a>
 

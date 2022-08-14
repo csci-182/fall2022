@@ -6,18 +6,7 @@ nav_order: 7
 permalink: /css-reference/flexbox/
 ---
 
-
-## Recommended LinkedIn Learning Videos
-
-{:.medium}
-| <a href="https://www.linkedin.com/learning/css-essential-training-3/introduction-to-grid-and-flexbox" target="_blank">Introduction to Grid and Flexbox</a> | 1:36 |
-| <a href="https://www.linkedin.com/learning/css-essential-training-3/introduction-to-flexbox" target="_blank">Introduction to flexbox</a> | 2:33 |
-| <a href="https://www.linkedin.com/learning/css-essential-training-3/flexbox-orientation-and-ordering" target="_blank">Flexbox: orientation and ordering</a> | 2:08 |
-| <a href="https://www.linkedin.com/learning/css-essential-training-3/flexible-sizing" target="_blank">Flexible sizing</a> | 2:33 |
-| <a href="https://www.linkedin.com/learning/css-essential-training-3/flexbox-exercise?u=75814418" target="_blank">Flexbox exercise</a> | 2:22 |
-| <a href="https://www.linkedin.com/learning/css-essential-training-3/flexbox-alignment" target="_blank">Flexbox alignment</a> | 2:13 |
-
-## Additional Resources & Documentation
+## Resources & Documentation
 * <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">CSS Tricks: A guide to flexbox</a> (recommended)
 
 

@@ -8,7 +8,6 @@ permalink: /html-reference/images/
 
 > **Overview Resources**
 >
-> * LinkedIn Learning video: [Displaying Images](https://www.linkedin.com/learning/html-essential-training/displaying-images?u=75814418) (7:08)
 > * W3Schools Reference: [http://www.w3schools.com/html/html_images.asp](http://www.w3schools.com/html/html_images.asp)
 
 

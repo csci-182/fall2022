@@ -128,12 +128,6 @@ As defined in Rule #2, selectors indicate which parts of the HTML you would want
 
 ### 8. Understand the Cascade
 
-#### Linked Learning References
-
-{:.medium}
-| <a href="https://www.linkedin.com/learning/css-essential-training-3/inheritance-and-specificity" target="_blank">Inheritance and specificity</a> | 4:33 |
-| <a href="https://www.linkedin.com/learning/css-essential-training-3/the-cascade-and-importance" target="_blank">The cascade and importance</a> | 1:43 |
-
 
 * The "cascade" refers to the way that CSS styles are applied to HTML elements. Styles applied to elements cascade down to their descendants, unless they are overridden.
 * **Specificity** is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied.

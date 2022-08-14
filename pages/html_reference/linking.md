@@ -8,7 +8,6 @@ permalink: /html-reference/links/
 
 > **Overview Resources**
 >
-> * LinkedIn Learning video: [Exploring the anchor element](https://www.linkedin.com/learning/html-essential-training/exploring-the-anchor-element?u=75814418) (2:58)
 > * [Absolute versus relative paths](http://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/)
 
 ## 1. Navigating Relative File Paths
@@ -25,21 +24,14 @@ styles/dark/new.css # go into the styles directory, then into the dark directory
 <a href="/fall2022/assets/paths.zip">Download the sample files</a> to experiment with relative file paths (and view the home/index.html).
 
 ## 2. Linking to pages within your own site
-* LinkedIn Learning Video: [Linking to pages within your own site](https://www.linkedin.com/learning/html-essential-training/linking-to-pages-within-your-site?u=75814418) (10:21)
+TBD
 
 ## 3. Linking to external pages
 <iframe src="//codepen.io/vanwars/embed/mERgZY/?height=300&theme-id=18654&default-tab=html,result" allowfullscreen="true" class="codepen-frame"></iframe>
 
-> **Additional Resources**
-* LinkedIn Learning Video: [Linking to external pages](https://www.linkedin.com/learning/html-essential-training/linking-to-external-pages?u=75814418) (4:18)
-
 
 ## 4. Linking to page regions
 <iframe src="//codepen.io/vanwars/embed/rLjbXG/?height=300&theme-id=18654&default-tab=html,result" allowfullscreen="true" class="codepen-frame"></iframe>
-
-
-> **Additional Resources**
-* LinkedIn Learning Video: [Linking to page regions](https://www.linkedin.com/learning/html-essential-training/linking-to-page-regions?u=75814418) (9:46)
 
 
 ## 5. Organizing links into a menu
