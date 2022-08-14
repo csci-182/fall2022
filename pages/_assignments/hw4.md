@@ -1,11 +1,11 @@
 ---
 layout: assignment-two-column
-title: Animations & Landscapes
+title: "Practice with Control: Animations & Landscapes"
 abbreviation: HW4
 type: homework
 files: course-files/assignments/hw04.zip
-due_date: 2022-09-23
-points: 8
+due_date: 2022-10-19
+points: 16
 draft: 1
 ---
 

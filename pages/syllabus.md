@@ -104,10 +104,10 @@ You may also talk to me about concerns about your progress in the course, person
 Your course grade is calculated based on 200 points as follows:
 
 {:.medium}
-| **1 Project** | 1 x 60 Points | 60 Points | 30% |
-| **2 Quizzes** | 2 x 10 Points | 20 Points | 10% |
-| **6 Homeworks** (of 7) | 7 x 15 Points (lowest score dropped) | 90 Points | 45% |
-| **10 Tutorials** (of 12) | 10 x 3 Points (lowest 2 scores dropped) | 30 Points | 15% |
+| **2 Projects** | 2 x 30 Points | 60 Points | 30% |
+| **3 Quizzes** | 2 x 10 Points (lowest score dropped) | 20 Points | 10% |
+| **5 Homeworks** | 5 x 16 Points | 80 Points | 40% |
+| **10 Tutorials** (of 14) | 10 x 4 Points (lowest 4 scores dropped) | 40 Points | 20% |
 | | | **200 Points** | **100%** |
 
 Final grades are assigned on a fixed scale: 93-100 is 
@@ -118,8 +118,8 @@ an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Some other logistics:
 
 > ### NOTE: Leniency is built into the course
 > Because there are unprecedented and uncertain times, I have built leniency into the design of the class. You will be able to:
-> * drop your lowest homework score (best 6 of 7)
-> * Keep your best 10 tutorial scores (best 10 of 12)
+> * drop your lowest quiz score (best 2 of 3)
+> * Keep your best 10 tutorial scores (best 10 of 14)
 >
 > I have done this to make the class equitable. Use this leniency wisely. In other words, skipping HW1 and Tutorial1-2 is an ill-advised approach. I will not grant additional exceptions unless the circumstances are exceptional, and this will need to be done in coordination with Dean of Student's office.
 

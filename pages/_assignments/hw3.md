@@ -1,23 +1,20 @@
 ---
 layout: assignment-two-column
-title: Make a Creature
+title: "Practice with Functions: Make a Creature"
 abbreviation: HW3
 type: homework
-due_date: 2022-09-08
+due_date: 2022-10-05
 ordering: 3
-points: 8
+points: 16
 draft: 1
 ---
 
-<a class="nu-button" href="/fall2022/course-files/homework/hw03.zip" target="_blank">
-    Homework Starter Files <i class="fas fa-download"></i>
-</a> 
 
 > **LEARNING OBJECTIVES:** 
 > 1. More practice working with built-in functions
 > 1. Practice writing your own functions
 
-<img class="creature" src="/fall2022/assets/images/hw02/creature.png" /> In this assignment, you are going to write a program to draw a creature of your own design/choosing using <a href="" target="_blank">tkinter</a>. At the end of this assignment, someone should be able to use your function to draw your creature: anywhere on the screen at any size or color. In other words, your function needs to honor the parameters that are passed into it. If you don't quite know what this means (it's a confusing concept for people just learning to program), ask Sarah during class or ask your TAs during lab / office hours.
+<img class="creature" src="/fall2022/assets/images/hw02/creature.png" /> In this assignment, you are going to write a program to draw a creature of your own design/choosing using p5.js. At the end of this assignment, someone should be able to use your function to draw your creature: anywhere on the screen at any size or color. In other words, your function needs to honor the parameters that are passed into it. If you don't quite know what this means (it's a confusing concept for people just learning to program), ask Sarah during class or ask your TAs during lab / office hours.
 
 ## Part 1: Design your creature
 On paper, sketch out at least 3 VERY SIMPLE creature ideas (shoot for using between 4-8 shapes). These can be different variations of the same creature or all different ones. You can just implement the head of your creature (similar to the bear at the top) or the whole thing — the choice is up to you. Here are some links to ideas:
