@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Programming using JavaScript"
+title: "Quiz: Programming using JavaScript"
 type: quiz
 draft: 1
 num: 2

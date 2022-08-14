@@ -1,7 +1,7 @@
 ---
 layout: assignment-two-column
 title: Intermediate Project Deliverable
-abbreviation: P2B
+abbreviation: P2(b)
 type: project
 due_date: 2022-11-18
 ordering: 3 

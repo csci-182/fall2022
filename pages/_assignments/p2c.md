@@ -1,7 +1,7 @@
 ---
 layout: assignment-two-column
 title: Final Project Deliverable
-abbreviation: P2C
+abbreviation: P2(c)
 type: project
 due_date: 2022-12-05
 ordering: 4 

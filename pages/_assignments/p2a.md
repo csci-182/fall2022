@@ -1,7 +1,7 @@
 ---
 layout: assignment-two-column
 title: Project Proposal
-abbreviation: P2A
+abbreviation: P2(a)
 type: project
 due_date: 2022-11-02
 ordering: 2

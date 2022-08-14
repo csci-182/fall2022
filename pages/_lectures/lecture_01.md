@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Introduction
+title: Introduction to the course & the web
 type: lecture
 num: 1
 draft: 1

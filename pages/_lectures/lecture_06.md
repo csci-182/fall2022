@@ -1,6 +1,6 @@
 ---
 layout: module
-title: CSS Layouts
+title: Common CSS properties & the box model
 type: lecture
 num: 6
 draft: 1

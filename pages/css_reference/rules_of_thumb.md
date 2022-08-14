@@ -26,7 +26,7 @@ Image Source: [W3Schools](http://www.w3schools.com/css/css_syntax.asp)
 
 | -- | -- |
 | **rule set** | The entire style definition for the selector(s). For example, the entire code below is the rule set<br>```h1 { color: blue; font-size: 12px; }``` |
-| **selector** | Selectors are patterns used to select the element(s) you want to style. To understand how selectors work, use the [W3Schools selector tester](http://www.w3schools.com/cssref/trysel.asp). Please also refer to the more detailed selector guide in [this eBook](/css/selectors.html). |
+| **selector** | Selectors are patterns used to select the element(s) you want to style. To understand how selectors work, use the [W3Schools selector tester](http://www.w3schools.com/cssref/trysel.asp). Please also refer to the more detailed selector guide in [this eBook](/fall2022/css-reference/selectors/). |
 | **declaration block** | everything that falls within the curly braces. For example:<br>```color: blue; font-size: 12px;```|
 | **declaration** | Any single property / value specification. Note that a colon separates the property and value, and each declaration ends in a semi-colon. One example of a declaration is:<br>```color: blue;``` |
 | **property** | Properties refer to ***what you want to change***. A list of the legal properties that your web browser allows you to modify can be found in the [CSS property reference](http://www.w3schools.com/cssref/default.asp). Examples of properties include font and background colors, widths, heights, borders, etc. In the example above, **`color`** and **`font-size`** are properties that allow us to change the text color and text size of the selector. |
