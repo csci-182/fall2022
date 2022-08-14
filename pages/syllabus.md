@@ -48,18 +48,21 @@ We will use our scheduled class time to go over web design and development conce
 On Mondays and Wednesdays, we will cover new topics, discuss the readings, and complete short exercises to reinforce your understanding.
 
 ### Tutorial Sessions (20%)
-Every Friday, you will complete a slightly longer coding / design "tutorial." The tutorial is intended to help you:
+Every Friday, you will complete a coding / design "tutorial." Tutorials are intended to help you:
 1. Become familiar with the types of strategies you might use to approach problems (which will be closely related to the homework / projects).
 1. Get comfortable writing lots of programs (practice makes perfect!)
 1. Assess what you know and don't know, so that you can make a plan to review various ideas and/or attend office hours.
 
 Tutorials will be graded pass/fail. Even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must complete **at least 10 tutorials**, with a passing grade to get full credit for the tutorial portion of the class -- but you are encouraged to complete them all. 
 
-### Homework (40%) and Projects (30%)
-The majority of your grade will be based on 6 homework assignments and one final project -- creating a website of your choosing -- that you will complete over the course of the semester. 
+### Homework (40%)
+You will be given 5 homework assignments that are intended to give you additional practice with the course ideas beyond the tutorials. They are each designed to take between 4-6 hours to complete, so leave yourself enough time!
+
+### Projects (30%)
+This course has two projects. The intent of the first project is to help you master some ideas in programming (variables, data types, loops, conditionals, and functions) by making an interactive animation. The intent of the second project is to give you the time and space to make a website of your choosing. For your second project, you may work alone or in a group of up to three people. The evaluation criteria for your final project will be posted when the assignment is released.
 
 ### Quizzes (10%)
-There will also be 2 quizzes, which are intended to ensure that you understand some basic programming and web-related concepts. 
+There will also be 3 quizzes, which are intended to ensure that you understand some basic programming and web-related concepts. You may drop your lowest quiz score. 
 
 ## Course Materials & Resources
 
@@ -134,22 +137,20 @@ Homework will be due approximately every other week at 11:59pm on the specified 
 | 4 or more days | 50% penalty |
 
 ### Tutorial Grading
-Attendance is **mandatory** at all tutorial sessions. Tutorials will be graded pass / fail according to:
+Attendance is **mandatory** at all tutorial sessions. Tutorials will be graded pass / fail. You will earn a passing grade if all of the following conditions are met.
 
 {:.compact}
-1. Whether or not you submitted a completed tutorial assignment.
-1. Whether or not you attended the tutorial.
-1. Evidence that you put in a good faith effort
+1. You attended the tutorial.
+1. You put in a good faith effort.
+1. You submitted your work to Moodle.
 
 Tutorials are due by 11:59PM on Friday (but I recommend that you just submit them at the end of class). I **do not accept late tutorials** because I post the solutions right away.
 
 ### Project Grading
-During the second half of the semester, you will have the opportunity to create a website of your choosing. You may work alone, or in a group of up to three people. The evaluation criteria for your final project will be posted when the assignment is released.
-
+Projects are each worth 30 points, and a rubric will be published to communicate how you will be evaluated. The second project will be broken up into a series of deliverables that will be due throughout the second half of the semester.
 
 ### Regrading Policy
 I have been known to make the occasional grading error. If you have any grading questions/concerns, please email me within a week to resolve the issue.
-
 
 ## Course Policies
 
