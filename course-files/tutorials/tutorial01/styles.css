@@ -57,3 +57,12 @@ header {
 #about, footer {
     background: #F4F4F4;
 }
+
+.detail {
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    column-gap: 50px;
+}
+.detail img {
+    width: 100%;
+}
