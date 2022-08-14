@@ -8,4 +8,6 @@ points: 4
 num: 3
 due_date: 2022-09-02
 ---
-TBD
+
+
+* Design principles to group things into categories. Bread is their main thing, but they also have other baked goods.

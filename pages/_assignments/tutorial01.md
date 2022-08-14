@@ -8,4 +8,7 @@ points: 4
 num: 1
 due_date: 2022-08-19
 ---
-TBD
+
+
+* TODO: find 6 images of baked things
+* Find an "about us"
