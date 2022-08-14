@@ -4,13 +4,14 @@ title: Syllabus
 permalink: /syllabus/
 course: "CSCI 185: Intro to Computer Programming for the Web"
 term: "Fall, 2022"
-# include_schedule: 1
+email: svanwart@unca.edu
 prerequisites: "None"
 office_hours: "MWF 5pm - 6pm (in person), Rhoades Robinson Hall, Rm. 220"
 professor: "Dr. Sarah Van Wart (she/her)"
 section1: "MWF 12:30-1:45PM, Zeis Hall, Rm. 203"
 section2: "MWF 3:30-4:45PM, Zeis Hall, Rm. 203"
 notes: "Students may receive credit for ONLY ONE of the following courses: CSCI 182, 183 or 185."
+# include_schedule: 1
 ---
 
 ## About the Course
@@ -48,12 +49,10 @@ We will use our scheduled class time to go over web design and development conce
 On Mondays and Wednesdays, we will cover new topics, discuss the readings, and complete short exercises to reinforce your understanding.
 
 ### Tutorial Sessions (20%)
-Every Friday, you will complete a coding / design "tutorial." Tutorials are intended to help you:
+Every Friday, you will complete a coding / design "tutorial" (mandatory attendance). Tutorials are intended to help you:
 1. Become familiar with the types of strategies you might use to approach problems (which will be closely related to the homework / projects).
 1. Get comfortable writing lots of programs (practice makes perfect!)
 1. Assess what you know and don't know, so that you can make a plan to review various ideas and/or attend office hours.
-
-Tutorials will be graded pass/fail. Even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must complete **at least 10 tutorials**, with a passing grade to get full credit for the tutorial portion of the class -- but you are encouraged to complete them all. 
 
 ### Homework (40%)
 You will be given 5 homework assignments that are intended to give you additional practice with the course ideas beyond the tutorials. They are each designed to take between 4-6 hours to complete, so leave yourself enough time!
@@ -124,7 +123,7 @@ an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Some other logistics:
 > * drop your lowest quiz score (best 2 of 3)
 > * Keep your best 10 tutorial scores (best 10 of 14)
 >
-> I have done this to make the class equitable. Use this leniency wisely. In other words, skipping Quiz1 and Tutorials 1-4 is an ill-advised approach. I will not grant additional exceptions unless the circumstances are exceptional, and this will need to be done in coordination with Dean of Student's office.
+> Use this leniency wisely. In other words, skipping Quiz 1 and Tutorials 1-4 is an ill-advised approach. I will not grant additional exceptions unless the circumstances are exceptional, and this will need to be done in coordination with Dean of Student's office.
 
 ### Homework Grading
 Homework will be due approximately every other week at 11:59pm on the specified date. Homework will be graded according to a published rubric that will be given when the assignment is released. Each day that your homework is late, 10% of the possible total points will be deducted. Work submitted after 4 days will earn a maximum of half credit.
@@ -144,7 +143,7 @@ Attendance is **mandatory** at all tutorial sessions. Tutorials will be graded p
 1. You put in a good faith effort.
 1. You submitted your work to Moodle.
 
-Tutorials are due by 11:59PM on Friday (but I recommend that you just submit them at the end of class). I **do not accept late tutorials** because I post the solutions right away.
+Tutorials are due by 11:59PM on Friday (but I recommend that you just submit them at the end of class). I **do not accept late tutorials** because I post the solutions right away. Even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must complete **at least 10 tutorials**, with a passing grade to get full credit for the tutorial portion of the class -- but you are encouraged to complete them all. 
 
 ### Project Grading
 Projects are each worth 30 points, and a rubric will be published to communicate how you will be evaluated. The second project will be broken up into a series of deliverables that will be due throughout the second half of the semester.
