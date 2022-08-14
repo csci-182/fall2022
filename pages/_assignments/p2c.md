@@ -5,7 +5,7 @@ abbreviation: P2C
 type: project
 due_date: 2022-12-05
 ordering: 4 
-points: 10
+points: 15
 draft: 1
 ---
 
