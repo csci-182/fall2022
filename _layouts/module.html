@@ -29,7 +29,7 @@ show_schedule: 1
     {% endfor %}
     </ol>
 {% else %}
-    <p>No slides posted.</p>
+    <p>Slides will be posted before lecture (if there are slides).</p>
 {% endif %}
 
 {% if page.videos %}
@@ -82,11 +82,7 @@ show_schedule: 1
 {% endif %}
 
 {% if page.readings %}
-    <h3 id="readings">{{ num }}. Review / Study the Supplemental Materials</h3>
-    <p>
-        Note: these readings / videos are suggested for additional context / 
-        examples, but not required.
-    </p>
+    <h3 id="readings">{{ num }}. Complete the Assigned Readings</h3>
     {% include page_readings.html %} 
     {% assign num = num | plus: 1 %}
 {% endif %}

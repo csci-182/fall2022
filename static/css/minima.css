@@ -668,7 +668,6 @@ table.medium.module td:nth-child(2) {
 
 .assignments .lab, .assignments .lab:hover, .lectures .lab, .lectures .lab:hover, .assignment .lab, .assignment .lab:hover, .reference .lab, .reference .lab:hover, .lecture .lab, .lecture .lab:hover, .readings .lab, .readings .lab:hover, .link-menu .lab, .link-menu .lab:hover, .two-column article .lab, .two-column article .lab:hover, .syllabus .lab, .syllabus .lab:hover, .schedule .lab, .schedule .lab:hover {
   background: #7F9C90;
-  font-weight: 600;
 }
 
 .assignments .ec, .assignments .ec:hover, .lectures .ec, .lectures .ec:hover, .assignment .ec, .assignment .ec:hover, .reference .ec, .reference .ec:hover, .lecture .ec, .lecture .ec:hover, .readings .ec, .readings .ec:hover, .link-menu .ec, .link-menu .ec:hover, .two-column article .ec, .two-column article .ec:hover, .syllabus .ec, .syllabus .ec:hover, .schedule .ec, .schedule .ec:hover {
@@ -945,6 +944,7 @@ table.schedule-simple th, table.schedule-simple td {
 
 .two-column main > article {
   padding: 20px 60px;
+  margin-bottom: 100px;
 }
 
 .two-column main > article h1 {
