@@ -1467,16 +1467,20 @@ table.schedule-simple th, table.schedule-simple td {
   border: solid 1px #CCC;
 }
 
-img.small {
+img.xsmall {
   max-width: 30%;
 }
 
+img.small {
+  max-width: 40%;
+}
+
 img.medium {
-  max-width: 50%;
+  max-width: 70%;
 }
 
 img.med-lg {
-  max-width: 75%;
+  max-width: 85%;
 }
 
 img.large {

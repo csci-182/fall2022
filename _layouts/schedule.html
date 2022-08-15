@@ -48,7 +48,7 @@ layout: default
                         {% assign className = 'lec' %}
                         {% assign prefix = None %}
                         {% if lecture.num  %}
-                            {% assign prefix = "Lesson " | append: lecture.num %}
+                            {% assign prefix = "Lecture " | append: lecture.num %}
                         {% endif %} 
                         {% if lecture.type == 'review' or lecture.type == 'exam' or lecture.type == 'quiz'%}
                             {% assign className = 'quiz' %}
