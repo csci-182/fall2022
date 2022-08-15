@@ -1,6 +1,6 @@
 ---
 layout: module
-title: CSS Selectors
+title: Intro to CSS
 type: lecture
 num: 4
 draft: 1
