@@ -6,7 +6,7 @@ course: "CSCI 185: Intro to Computer Programming for the Web"
 term: "Fall, 2022"
 email: svanwart@unca.edu
 prerequisites: "None"
-office_hours: "MWF 5pm - 6pm (in person), Rhoades Robinson Hall, Rm. 220"
+office_hours: "MWF 2pm - 3pm (in person), Rhoades Robinson Hall, Rm. 220"
 professor: "Dr. Sarah Van Wart (she/her)"
 section1: "MWF 12:30-1:45PM, Zeis Hall, Rm. 203"
 section2: "MWF 3:30-4:45PM, Zeis Hall, Rm. 203"
