@@ -5,10 +5,10 @@ type: lecture
 num: 2
 draft: 0
 due_date: 2022-08-17
-# slides:
-#    - url: https://docs.google.com/presentation/d/1KcRLMlYpYS6onuJ9nobsA4Z3Yh-kudLvFfBjCkRqyuc/edit?usp=sharing
-#      title: Intro to Hardware & Software
-
+slides:
+   - url: https://docs.google.com/presentation/d/1oZLhSd8Px3BFa07bJwPpxkk0cQg3mo0bgsw97MI0Z0k/edit?usp=sharing
+     title: Intro to HTML
+exercise_url: "lecture02.zip"
 readings:
    - url: ../html-reference/
      title: HTML Resources
