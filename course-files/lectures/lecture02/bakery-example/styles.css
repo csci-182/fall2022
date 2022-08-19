@@ -29,11 +29,9 @@ header {
 }
 
 .item {
-    /* border: solid 1px #000; */
     min-height: 250px;
     display: flex;
     flex-direction: column;
-    /* justify-content: flex-start; */
     align-items: flex-start;
 }
 

@@ -183,7 +183,7 @@ When you're done, your page should look like this (except with *your* videos):
 
 {:#step5}
 ### 5. Add a Spotify player to music.html
-Inside the `music.html` file, add one or more embedded music players inside of the `<section class="music-section"></section>` region of your page. To get the embed code of a Spotify artist, read <a href="https://developer.spotify.com/documentation/widgets/generate/embed/" target="_blank">Spotify's Documentation on embedding</a>.
+Inside the `music.html` file, add one or more embedded music players inside of the `<section class="music-section"></section>` region of your page. There are instructions on how to get the embed code of a Spotify artist profile, album, song, playlist, or podcast on Spotify's <a href="https://artists.spotify.com/en/help/article/embedded-players" target="_blank">documentation page</a>. 
 
 When you're done, your page should look like this (except with *your* videos):
 
