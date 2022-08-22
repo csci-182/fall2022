@@ -20,9 +20,9 @@ readings:
    - url: https://webfoundation.org/about/vision/history-of-the-web/
      title: History of the Web
      source: The World Wide Web Foundation
-# slides:
-#    - url: https://docs.google.com/presentation/d/1tG2QdrtlXCZvSWtd6_4ppv-CNnNMsOXe96t4w1o9ZoE/edit?usp=sharing
-#      title: Intro to Web Infrastructure
+slides:
+   - url: https://docs.google.com/presentation/d/10C52f6NnGP7bz02ivsRo8felaD2xZ6wE31x1YP8mgNk/edit?usp=sharing
+     title: Intro to Web Infrastructure
 
 ---
 
