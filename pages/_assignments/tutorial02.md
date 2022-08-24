@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Introduction to GitHub
 type: tutorial
 abbreviation: Tutorial 2
-draft: 1
+draft: 0
 points: 4
 num: 2
 due_date: 2022-08-26
@@ -61,28 +61,32 @@ On Mac, people had to install XCode Tools
 {:#part1}
 ## 1. Background Readings
 Please complete the following readings / video tutorials:
-1. Intro to git and GitHub
-2. [https://youtu.be/i_23KUAEtUM](Using GitHub with Visual Studio Code).
+1. [Intro to git and GitHub](https://medium.com/the-underdog-writing-project/introduction-to-git-and-github-a5fdf5633923). A little technical, but please do your best to read it and come to tutorial with questions.
+2. [Using GitHub with Visual Studio Code](https://youtu.be/i_23KUAEtUM). How we will be using GitHub in this class.
 
 {:#part2}
 ## 2. Install Git
 In order to interact with GitHub, you need to install git. Before you install it, check and make sure it’s not already installed by:
 
-1. Opening your Terminal (Mac) or Command Prompt (Windows) and typing the word `git` at the command prompt. 
-2. If you get a message that says "not recognized" or something along those lines, then you need to install it: <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank">https://git-scm.com/book/en/v2/Getting-Started-Installing-Git</a> 
+1. Windows: search for the software program "GitBash." If you find it, git is already installed. 
+2. Mac:
+    1. Opening your Terminal and type the word `git` at the command prompt. 
+    2. If you get a message that says "not recognized" or something along those lines, then you need to install it.
 
+If you need to install it, follow these instructions:   <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank">https://git-scm.com/book/en/v2/Getting-Started-Installing-Git</a>.
 
 {:#part3}
 ## 3. Register for an account on GitHub
-If you don’t already have a GitHub account, register for one: <a href="https://github.com/" target="_blank">https://github.com/join</a>.
+If you don’t already have a GitHub account, register for one: <a href="https://github.com/" target="_blank">https://github.com/join</a>. Some notes:
 
-You may also need to create a **"Personal Access Token"**. The process is described <a href="https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token" target="_blank">here</a>.
+1. Please have your password close at hand. Particularly if you are using the computer lab computers, you will keep being prompted for your password.
+2. Mac users may also need to create a **"Personal Access Token"**. The process is described <a href="https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token" target="_blank">here</a>.
 
 
 {:#part4}
 ## 4. Configure the Git / Visual Studio Code Plugin
 
-### Tell the system who you are 
+### 1. Tell the system who you are 
 Tell your computer who you are on Git by running the following commands in GitBash (Windows) or in the Terminal (Mac):
 
 ```bash
@@ -90,9 +94,12 @@ git config --global user.name "Sarah"
 git config --global user.email "my_email@gmail.com"
 ```
 
-Please use your name, and the email you used when registering with GitHub.
+Please use **your name**, and the **email you used when registering with GitHub**.
 
-### Verify your file structure
+> #### Note for Computer Lab Computers
+> If you are using a computer lab computer, you will need to complete this step each time you use git.
+
+### 2. Verify your file structure
 
 Please ensure that your `csci185` folder looks like this:
 
@@ -114,7 +121,8 @@ csci185
 
 It's OK if your lectures folder isn't set up yet, but make sure your tutorials folder looks like the one shown above. This is very important. As your peer mentor to verify that your folder nesting is correct (`tutorial01` should be contained within `tutorials` which should contained within `csci185`).
 
-Next, open your entire `csci185` folder in VS Code. Your file list should look like this (click on the icon that looks like two pieces of paper in the upper left-hand corner of your screen):
+### 3. Initialize a Git Repository
+After you've doublechecked your file structure, open your entire `csci185` folder in VS Code. Your file list should look like this (click on the icon that looks like two pieces of paper in the upper left-hand corner of your screen):
 
 <img class="large" src="/fall2022/assets/images/tutorials/tutorial02/ss1.png" />
 
@@ -170,14 +178,13 @@ This will generate a link to your GitHub site.
 
 <img class="large" src="/fall2022/assets/images/tutorials/tutorial02/ss10.png" />
 
-Note:
-
-* It make take a few minutes for your webpage to display
-* In order to preview the webpage you made in `tutorial01`, you have to append the `/tutorials/tutorial01/index.html` file path to the end of your github pages to indicate which file to display.
+> ### A note on GitHub Pages
+> * It make take a few minutes for your webpage to display
+> * In order to preview the webpage you made in `tutorial01`, you have to append the `/tutorials/tutorial01/index.html` file path to the end of your github pages to indicate which file to display.
 
 ## What to turn in
-Just paste in your links to Canvas:
+Just paste in your links to the Moodle:
 1. A link to your GitHub repository
-    * Sarah's link is here: <a href="https://github.com/vanwars/csci185-coursework" target="_blank">https://github.com/vanwars/csci185-coursework</a>. You will replace "vanwars" with your GitHub username.
+    <!-- * Sarah's link is here: <a href="https://github.com/vanwars/csci185-coursework" target="_blank">https://github.com/vanwars/csci185-coursework</a>. You will replace "vanwars" with your GitHub username. -->
 2. A link to your GitHub Pages that displays your tutorial01 page. 
-    * Sarah's link is here: <a href="https://vanwars.github.io/csci185-coursework/tutorials/tutorial01/index.html" target="_blank">https://vanwars.github.io/csci185-coursework/tutorials/tutorial01/index.html</a>. You will replace "vanwars" with your GitHub username.
+    <!-- * Sarah's link is here: <a href="https://vanwars.github.io/csci185-coursework/tutorials/tutorial01/index.html" target="_blank">https://vanwars.github.io/csci185-coursework/tutorials/tutorial01/index.html</a>. You will replace "vanwars" with your GitHub username. -->
