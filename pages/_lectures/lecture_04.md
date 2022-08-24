@@ -5,10 +5,13 @@ type: lecture
 num: 4
 draft: 0
 due_date: 2022-08-24
-# slides:
-#   - url: https://docs.google.com/presentation/d/12Srk8yvpsYQQlB_U_TEaCCcHb9zqMVmmoz4KRLUbLEQ/edit?usp=sharing
-#     title: "Intro to Functions"
-# exercise_url: "lecture05.zip"
+include_pages: 
+    - extras/css_cheatsheet.md
+    - extras/css_activity.md
+slides:
+  - url: https://docs.google.com/presentation/d/1cXKHmoM0qX2WIQj0oCso4VAQogQjv93NMmOjjm-yz4M/edit?usp=sharing
+    title: "Intro to CSS"
+exercise_url: "lecture04.zip"
 readings:
    - url: ../html-reference/semantic-tags/
      title: "HTML Resources: Semantic Tags"
