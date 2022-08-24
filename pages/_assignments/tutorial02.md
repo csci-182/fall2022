@@ -185,6 +185,6 @@ This will generate a link to your GitHub site.
 ## What to turn in
 Just paste in your links to the Moodle:
 1. A link to your GitHub repository
-    <!-- * Sarah's link is here: <a href="https://github.com/vanwars/csci185-coursework" target="_blank">https://github.com/vanwars/csci185-coursework</a>. You will replace "vanwars" with your GitHub username. -->
+    * Sarah's link is here: <a href="https://github.com/vanwars/csci185-coursework" target="_blank">https://github.com/vanwars/csci185-coursework</a>. You will replace "vanwars" with your GitHub username.
 2. A link to your GitHub Pages that displays your tutorial01 page. 
-    <!-- * Sarah's link is here: <a href="https://vanwars.github.io/csci185-coursework/tutorials/tutorial01/index.html" target="_blank">https://vanwars.github.io/csci185-coursework/tutorials/tutorial01/index.html</a>. You will replace "vanwars" with your GitHub username. -->
+    * Sarah's link is here: <a href="https://vanwars.github.io/csci185-coursework/tutorials/tutorial01/index.html" target="_blank">https://vanwars.github.io/csci185-coursework/tutorials/tutorial01/index.html</a>. You will replace "vanwars" with your GitHub username.
