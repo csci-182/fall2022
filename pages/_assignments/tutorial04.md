@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: CSS Layouts with Flex & Grid
+title: CSS Grid & Responsive Design
 type: tutorial
 abbreviation: Tutorial 4
 draft: 1

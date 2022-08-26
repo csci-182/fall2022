@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: Design principles & the box model
+title: Design a Homepage
 type: tutorial
 abbreviation: Tutorial 3
 draft: 1

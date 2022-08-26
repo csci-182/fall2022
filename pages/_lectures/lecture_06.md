@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Common CSS properties & the box model
+title: "CSS Layouts: Part 1"
 type: lecture
 num: 6
 draft: 1
@@ -11,4 +11,4 @@ due_date: 2022-08-31
 # exercise_url: "lecture08.zip"
 ---
 
-TBD
+Grid, Media Queries

@@ -60,7 +60,9 @@ layout: default
                         {% endif %} 
 
                         <!-- output -->
-                        {% if lecture.draft == 1 and prefix %}
+                        {% if lecture.type == "tutorial" %}
+                            Tutorial
+                        {% elsif lecture.draft == 1 and prefix %}
                             <span class="badge">
                                 {{ prefix }}
                             </span>
@@ -87,9 +89,9 @@ layout: default
                             {% assign classname = "hw" %}
                         {% endif %} 
                         
-                        {% if assignment.draft == 1 and  assignment.type != "tutorial" %}
+                        {% if assignment.draft == 1 %}
                             <strong>{{ assignment.abbreviation }}:</strong> {{ assignment.title }}
-                        {% elsif assignment.type != "tutorial" %} 
+                        {% else %} 
                             <a href="{{site.baseurl}}{{assignment.url}}" class="{{classname}}">
                                 {{ assignment.abbreviation }}
                                 <i class="fa fa-link"></i>

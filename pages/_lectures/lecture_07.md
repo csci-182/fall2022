@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Web Accessibility
+title: "CSS Layouts: Part 2"
 type: lecture
 draft: 1
 num: 7

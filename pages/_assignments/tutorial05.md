@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: Responsive navigation
+title: CSS Transitions, background images, and filters
 type: tutorial
 abbreviation: Tutorial 5
 draft: 1
