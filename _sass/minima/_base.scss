@@ -16,6 +16,9 @@ $honeyBee: #EBBC4E;
 $autumn: #E6A65D;
 $clay: #C26E60;
 
+html {
+    scroll-behavior: smooth;
+}
 
 * {
     box-sizing: border-box;
@@ -182,7 +185,7 @@ ol.flush, ul.flush {
     margin-left: 34px;
 }
 .checkbox:before {
-    font-family:"Font Awesome 5 Pro";
+    font-family:"Font Awesome 5 Free";
     content: "\f00c";
     font-weight: 600;
     color: #1cb954;
