@@ -5,7 +5,7 @@ abbreviation: HW1
 type: homework
 due_date: 2022-09-12
 ordering: 1
-draft: 1
+draft: 0
 points: 16
 ---
 
@@ -26,16 +26,13 @@ points: 16
     }
 </style>
 
-{:.blockquote-no-margin}
-> ## Readings
-> TODO: resources here.
->
-
 ## Introduction
-The goal of today's lab is to style the `index.html` page that was given to you so that it looks like the page shown in [this video](https://drive.google.com/file/d/1eLJVLW7AGQ_1EX6Hvqh_BVMAkPxKJZFX/view?usp=sharing). This is mostly a CSS exercise. That is, 99% of the edits you will make will be in `style.css`. That said, you are also welcome to change `index.html` to make things easier for you to style (optional, not required).
+The goal of today's lab is to make a fake portfolio website. You will be given an `index.html` file, which controls the content. You will then style this content by making changes to the `styles.css` file that you are given. When you're done, your webpage should look exactly like the one shown in [this video](https://drive.google.com/file/d/1eLJVLW7AGQ_1EX6Hvqh_BVMAkPxKJZFX/view?usp=sharing). While this is mostly a CSS exercise, you are also welcome to change `index.html` to make things easier for you to style (optional, not required). Please download the starter files below to begin:
+
+<a href="/fall2022/course-files/homework/hw01.zip" class="nu-button">Homework 1 Starter Files <i class="fas fa-download"></i></a>
 
 ## Your Tasks
-In order to complete this assignment, you will be modifying the 6 sections described below. Please read the checklist carefully, to ensure that you receive full credit for this assignment.
+In order to complete this assignment, please complete the 7 sets of tasks described below. Read the checklist carefully, to ensure that you receive full credit for this assignment.
 
 1. [Navigation](#nav)
 1. [Header](#header)
@@ -50,7 +47,7 @@ In order to complete this assignment, you will be modifying the 6 sections descr
 Style the `<nav></nav>` section so that it matches the style of the screenshot below. Specifically, you will:
 
 {:.checkbox-list}
-* Style the `<ul></ul>` so that it's laid out horizontally, and remove the bullets.
+* Style the `<ul></ul>` so that it displays horizontally and aligned to the right, with the bullets removed.
 * Ensure that the color of the links are white and that they do not have an underline. 
 * Modify the link HTML so that when each link is clicked, the page scrolls down to the relevant section (see video).
 
@@ -64,7 +61,7 @@ Style the `<header></header>` section so that it matches the style of the screen
 * Change the background color to a color that you like (but ensure that it's dark enough for the white text to be readable).
 * Center the text and image.
 * Style the image so that it's circular (hint: Google "border radius").
-* Use a custom google font for the `<h1></h1>` tag.
+* Use a custom google font for the `<h1></h1>` tag, and change the color to white.
 
 {:#about}
 ### 3. About Me
@@ -72,7 +69,7 @@ Style the `<section id="about"></section>` section so that it matches the style 
 
 {:.checkbox-list}
 * Use a custom google font for the `<h2></h2>` tag (same font you used for the h1 tag).
-* Use a simple font for the rest of your tags (p, li, a, etc.) -- something that is well-suited for body copy.
+* Use a simple font for the rest of your text tags (e.g., p, li, a, etc.) -- something that is well-suited for body copy.
 * Ensure that the text has sufficient spacing from the sides of the screen and from the top and bottom, and that it is left-justified (see screenshot).
 
 <img class="large frame" src="/fall2022/assets/images/homework/hw01/02-about.png" />
@@ -112,6 +109,18 @@ Style the `<footer></footer>` section so that it matches the style of the screen
 {:#publish}
 ### 7. Publish to GitHub
 
+When you're done styling your fake portfolio website, you will:
+
+{:.checkbox-list}
+* Ensure that all of your folders and files are **lowercase** with **no spaces**.
+* Ensure that your repository on GitHub is called **csci185-coursework** (and if it's not, rename it).
+* Create a link to from your homepage (which you created during Tutorial 3) to the `index.html` you just made (which should be stored in the `homework/hw01` folder). Recall that your homepage is at the root of your `csci185` folder. 
+* Commit and push all of your changes to GitHub (like we did in Tutorials 2-3).
+
+Here is what my homepage looks like after I've published it, except for your HW1 will be a *completed* HW1 (versus the starter files):
+* Webpage: [https://vanwars.github.io/csci185-coursework/](https://vanwars.github.io/csci185-coursework/)
+* Code: [https://github.com/vanwars/csci185-coursework](https://github.com/vanwars/csci185-coursework)
+
 ## Rubric
 
 {:.medium}
@@ -121,14 +130,14 @@ Style the `<footer></footer>` section so that it matches the style of the screen
 | 2. | Header | 2pts | [see requirements](#header) |
 | 3. | About Me | 1pts | [see requirements](#about) |
 | 4. | Projects | 3pts | [see requirements](#projects) |
-| 5. | Contact | 4pts | [see requirements](#contact) |
+| 5. | Contact | 5pts | [see requirements](#contact) |
 | 6. | Footer | 1pt | [see requirements](#footer) |
 | 7. | Publish to GitHub | 2pts | [see requirements](#publish) |
 |  | **Total** | **16pts** |  |
 
 
 ## What to Submit
-**Please Read Carefully:** To submit homework 1, please paste the following links into the Moodle under the Homework 1 submission section:
+**Please Read Carefully:** To submit Homework 1, please paste the following links into the Moodle under the Homework 1 submission section:
 
-1. A link to your **homepage** (from Tutorial 4) on GitHub pages, which should link to your hw01 assignment (and previous tutorials and classwork you have done).
+1. A link to your **homepage** (from Tutorial 3) on GitHub pages, which should link to your hw01 assignment (and previous tutorials and classwork you have done).
 2. A link to your GitHub **code repository** (where your code files are stored).
