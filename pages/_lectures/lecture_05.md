@@ -14,9 +14,9 @@ readings:
      title: "The Non-Designer's Design Book, Chapter 2"
      date: 2015
      author: Williams, Robin
-# slides:
-#   - url: https://docs.google.com/presentation/d/1yuP9Uj0VnkFk4Obqd-dQ54jmO293Lt7QBvUdg7T76Ek/edit?usp=sharing
-#     title: "Principles of Design"
+slides:
+  - url: https://docs.google.com/presentation/d/1Pp1OQhUL5rRlOGgiC6R_HXAqy1vGqUwRtSNjZef6neM/edit?usp=sharing
+    title: "Principles of Design"
 ---
 
 Today we will be discussing a few different visual design and usability principles:
