@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Student Repositories
 permalink: /repos/
 ---
 
@@ -46,8 +46,8 @@ Student repositories for Section 2:
 | 1 | Jahfari Coumarbatch | [repo](https://github.com/Jitori1/csci185-coursework) &bull; [website](https://jitori1.github.io/csci185-coursework/) |
 | 1 | Nova Holland | [repo](https://github.com/LunaireNova/csci185) &bull; [website](https://lunairenova.github.io/csci185/) |
 | 1 | Olivia Burns | [repo](https://github.com/oburns2/csci185-coursework) &bull; [website](https://oburns2.github.io/csci185-coursework/) |
-| 1 |  | [repo](#) &bull; [website](#) |
-| 1 |  | [repo](#) &bull; [website](#) |
-| 1 |  | [repo](#) &bull; [website](#) |
+| 1 | Lizbeth Gonzalez-Leon | Private repository? |
+| 1 | Adam Gray | [repo](https://github.com/4dam3/csci185-coursework) &bull; [website](https://4dam3.github.io/csci185-coursework/) |
+| 1 | Ari Moore | [repo](https://github.com/AriMoore/csci185-coursework) &bull; [website](https://arimoore.github.io/csci185-coursework/) |
 | 1 |  | [repo](#) &bull; [website](#) |
 | 1 |  | [repo](#) &bull; [website](#) |
