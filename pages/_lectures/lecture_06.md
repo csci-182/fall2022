@@ -8,7 +8,7 @@ due_date: 2022-08-31
 slides:
   - url: https://docs.google.com/presentation/d/1cFCTwWbHTgw-TDlvaRIUGdxcEUWk60S5vj_7h_O0CQg/edit?usp=sharing
     title: "Creating Page Layouts with CSS Grid"
-exercise_url: "lectures/lecture06.zip"
+exercise_url: "lecture06.zip"
 readings:
    - url: ../css-reference/css-grid/
      title: CSS Grid
