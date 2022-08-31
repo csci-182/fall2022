@@ -5,10 +5,10 @@ type: lecture
 num: 6
 draft: 0
 due_date: 2022-08-31
-# slides:
-#   - url: https://docs.google.com/presentation/d/18pxHOGkTpOJ2iSdN2wmDZ8v1tY1g-pl1TrU4xg7S-zs/edit?usp=sharing
-#     title: "Modules"
-# exercise_url: "lectures/lecture06.zip"
+slides:
+  - url: https://docs.google.com/presentation/d/1cFCTwWbHTgw-TDlvaRIUGdxcEUWk60S5vj_7h_O0CQg/edit?usp=sharing
+    title: "Creating Page Layouts with CSS Grid"
+exercise_url: "lectures/lecture06.zip"
 readings:
    - url: ../css-reference/css-grid/
      title: CSS Grid
