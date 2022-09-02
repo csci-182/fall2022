@@ -18,13 +18,13 @@ Student repositories for Section 1:
 | 6 | Oren Evans | [repo](https://github.com/oren99/csci185-coursework) &bull; [website](https://oren99.github.io/csci185-coursework/) |
 | 7 | Quentin Hess | [repo](https://github.com/qhess/csci185-coursework) &bull; [website](https://qhess.github.io/csci185-coursework/) |
 | 8 | Katelyn Lillard | [repo](https://github.com/klillard/csci185-coursework) &bull; [website](https://klillard.github.io/csci185-coursework/) |
-| 9 | Joe Millspaw | [repo](https://github.com/J-millspaw/csci185-coursework) &bull; Still TODO |
+| 9 | Joe Millspaw | [repo](https://github.com/J-millspaw/csci185-coursework) &bull; [website](https://j-millspaw.github.io/csci185-coursework/) |
 | 10 | Gabriel Nicholson | [repo](https://github.com/GabrielNicholson/csci185-coursework) &bull; [website](https://gabrielnicholson.github.io/csci185-coursework/) |
 | 11 | Andy Oliver | [repo](https://github.com/andyoliver18/csci185-coursework) &bull; [website](https://andyoliver18.github.io/csci185-coursework/) |
 | 12 | Sam Presser | [repo](https://github.com/smamster/csci185/) &bull; [website](https://smamster.github.io/csci185/) |
 | 13 | Isa Satake | [repo](https://github.com/isatake7/csci185-coursework) &bull; [website](https://isatake7.github.io/csci185-coursework) |
 | 14 | Rory Trentham | [repo](https://github.com/rorytren/csci185) &bull; [website](https://rorytren.github.io/csci185/) |
-| 15 | Tess Walker | [repo](https://github.com/gitess2) &bull; Missing |
+| 15 | Tess Walker | [repo](https://github.com/gitess2) &bull; [website](https://gitess2.github.io/csci185-coursework/) |
 | 16 | Julia Wills | [repo](https://github.com/julia190/csci185-coursework) &bull; [website](https://julia190.github.io/csci185-coursework) |
 
 ## Section 2 (3:30-4:45PM)
@@ -38,7 +38,7 @@ Student repositories for Section 2:
 | 3 | Jahfari Coumarbatch | [repo](https://github.com/Jitori1/csci185-coursework) &bull; [website](https://jitori1.github.io/csci185-coursework/) |
 | 4 | Denzel Diaz | [repo](https://github.com/Denzelito/csci185) &bull; [website](https://denzelito.github.io/csci185/) |
 | 5 | Lizbeth Gonzalez-Leon | Private repository? |
-| 6 | Knox Gordon | Missing Repo &bull; Missing Website |
+| 6 | Knox Gordon | [repo](https://github.com/knoxgordonunca/csci185-coursework) &bull; [website](https://knoxgordonunca.github.io/csci185-coursework/) |
 | 7 | Adam Gray | [repo](https://github.com/4dam3/csci185-coursework) &bull; [website](https://4dam3.github.io/csci185-coursework/) |
 | 8 | Nova Holland | [repo](https://github.com/LunaireNova/csci185) &bull; [website](https://lunairenova.github.io/csci185/) |
 | 9 | Vlad Kravchyshyn | [repo](https://github.com/vlkrvc/csci185) &bull; [website](https://vlkrvc.github.io/csci185/) |
