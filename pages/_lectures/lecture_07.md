@@ -5,9 +5,9 @@ type: lecture
 draft: 0
 num: 7
 due_date: 2022-09-07
-# slides:
-#    - title: "Google Doc from Today"
-#      url: https://docs.google.com/document/d/1Htmc4lcdBydk270CZagDblVVeyXTNc51C9oRKpcXzGE/edit#
+slides:
+   - title: "CSS Flexbox"
+     url: https://docs.google.com/presentation/d/18NrEIcj3dx1BxCdTq4ji1O27hf-q2bn77AYyprggyO8/edit?usp=sharing
 readings:
    - url: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
      title: "CSS Tricks: A Complete Guide to Flexbox"
