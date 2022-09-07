@@ -105,5 +105,6 @@ Specifically, you will:
 1. Ensure that each section has a different background color. 
 
 ## What to Submit
-Please commit and push your changes (like we've been doing in class for the past few weeks). Please paste a link to your code repository (e.g., https://github.com/vanwars/csci185-coursework) to Moodle under **Tutorial 4**.
-    * If for whatever reason you can't get your GitHub working, please zip your entire tutorial04 folder and submit it to Moodle under **Tutorial 4**.
+Please commit and push your changes (like we've been doing in class for the past few weeks). Then, paste a link to your code repository (e.g., [https://github.com/vanwars/csci185-coursework](https://github.com/vanwars/csci185-coursework)) to the course Moodle under **Tutorial 4**.
+
+* If for whatever reason you can't get your GitHub working, please zip your entire tutorial04 folder and submit it to Moodle under **Tutorial 4**.
