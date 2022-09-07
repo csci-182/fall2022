@@ -55,13 +55,13 @@ When you're done, complete the following tasks:
     * One that links to `about.html` with the display text of “About Us”. Also use a **relative path**.
     * One that links to Instagram's home page, the display text of “Instagram”. Use an **absolute path**.
 
-**Note:** you may not move the gallery.html or about.html files outside of the folders they’re currently in. 
+**Note:** you may not move the gallery.html or about.html files outside of the `pages` folder. 
 
 ### 1.4. Main Section
 1. Below the `nav` tag, create a `main` tag. 
 1. Inside the `main` tag, create a section that has an id of “images”.
 1. Inside of the section you just made, create 3 `img` tags that display the three images in the `images` folder, using **relative paths**. 
-    * Don’t forget to use the alt attribute to give each image a description (for people who use a screen reader).
+    * Don’t forget to use the `alt` attribute to give each image a description (for people who use a screen reader).
 
 ### 1.5. Footer
 Create a footer section below your `main` section using the `footer` tag. Within the footer, create a paragraph tag that says “Copyright Your Name, 2022.”
@@ -84,7 +84,7 @@ Create a CSS file called styles.css inside of the `tutorial04/part01`. Edit your
 
 
 ## Part 2: CSS Grid
-For Part 3 of the practice quiz, you are going to create the layout shown below by modifying the HTML and CSS file inside of the `exercise02` folder. Note that the gridlines are just for demonstration, but they won't actually be visible.
+For Part 2 of the practice quiz, you are going to create the layout shown below by modifying the CSS file inside of the `exercise02` folder. You should not need to modify the HTML file. Note that the gridlines are just for demonstration, but they won't actually be visible.
 
 <img src="/fall2022/assets/images/tutorials/tutorial04/exercise02b.png" />
 
@@ -95,7 +95,7 @@ Specifically, you will:
 1. **Note:** You do NOT have to center the text inside of each section unless you want to.
 
 ## Part 3: Flexbox
-For Part 3 of the practice quiz, you are going to create the layout shown in the animated gif below by modifying the HTML and CSS file inside of the `exercise03` folder.
+For Part 3 of the practice quiz, you are going to create the layout shown in the animated gif below by modifying the CSS file inside of the `exercise03` folder. You should not need to modify the HTML file.
 
 <img src="/fall2022/assets/images/tutorials/tutorial04/exercise03.gif" />
 
@@ -105,4 +105,5 @@ Specifically, you will:
 1. Ensure that each section has a different background color. 
 
 ## What to Submit
-Please zip your entire tutorial04 folder (ask if you don’t know how to do this), and submit it to Moodle under **Tutorial 4**.
+Please commit and push your changes (like we've been doing in class for the past few weeks). Please paste a link to your code repository (e.g., https://github.com/vanwars/csci185-coursework) to Moodle under **Tutorial 4**.
+    * If for whatever reason you can't get your GitHub working, please zip your entire tutorial04 folder and submit it to Moodle under **Tutorial 4**.
