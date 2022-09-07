@@ -115,7 +115,7 @@ When you're done styling your fake portfolio website, you will:
 * Ensure that all of your folders and files are **lowercase** with **no spaces**.
 * Ensure that your repository on GitHub is called **csci185-coursework** (and if it's not, rename it).
 * Create a link to from your homepage (which you created during Tutorial 3) to the `index.html` you just made (which should be stored in the `homework/hw01` folder). Recall that your homepage is at the root of your `csci185` folder. 
-* Commit and push all of your changes to GitHub (like we did in Tutorials 2-3).
+* Commit and push all of your changes to GitHub (like we did in Tutorials 2-4).
 
 Here is what my homepage looks like after I've published it, except for your HW1 will be a *completed* HW1 (versus the starter files):
 * Webpage: [https://vanwars.github.io/csci185-coursework/](https://vanwars.github.io/csci185-coursework/)
