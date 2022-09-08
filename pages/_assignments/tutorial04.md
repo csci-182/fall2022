@@ -47,10 +47,12 @@ When you're done, complete the following tasks:
 1. Add a `title` tag inside of the `head` tag, with the display text of "Practice Quiz 1: Your Name."
 
 ### 1.2. Header Section
-1. Add a `header` tag inside the `body` tag (don’t get the head and the header tag confused). Inside the `header` tag, create an `h1` tag that displays the text "Practice Quiz 1: Your Name."
+1. Add a `header` tag inside the `body` tag (don’t get the head and the header tag confused). 
+1. Inside the `header` tag, create an `h1` tag that displays the text "Practice Quiz 1: Your Name."
 
 ### 1.3. Navigation
-1. Below the `header` tag, create a navigation section using the `nav` tag. Inside of the `nav` tag, create three hyperlinks:
+1. Below the `header` tag, create a navigation section using the `nav` tag. 
+1. Inside of the `nav` tag, create three hyperlinks:
     * One that links to `gallery.html` (in the pages folder) with the display text of “Photo Gallery”. Use a **relative path**.
     * One that links to `about.html` with the display text of “About Us”. Also use a **relative path**.
     * One that links to Instagram's home page, the display text of “Instagram”. Use an **absolute path**.
