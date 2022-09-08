@@ -22,7 +22,11 @@ readings:
    - url: ../css-reference/media-queries/
      title: Media Queries (review)
      internal: 1 
-     optional: 1      
+     optional: 1 
+videos:
+   - url: https://drive.google.com/file/d/1z_iuskgauE2AsbkaYbTETlpmz6c-9LTF/view?usp=sharing
+     title: Intro to CSS Flexbox  
+     live: 1   
 include_pages: 
     - extras/css_flex_activity.md
 exercise_url: "lecture07.zip"

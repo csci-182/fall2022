@@ -1,4 +1,4 @@
-### 3. Common CSS Properties
+### 5. Common CSS Properties
 
 | Property | Sample Values | Example |
 |--|--|--|

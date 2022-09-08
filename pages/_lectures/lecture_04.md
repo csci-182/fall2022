@@ -31,6 +31,10 @@ readings:
    - url: ../css-reference/box-model/
      title: "The Box Model"
      internal: 1
+videos:
+   - url: https://drive.google.com/file/d/1UJ3iG3pDgdplHbDFWwJO1XDHTGciLvcs/view?usp=sharing
+     title: Intro to CSS
+     live: 1
 ---
 
 <img class="module-image" src="{{site.baseurl}}/assets/images/lectures/lecture04-css.png" /> Today we are going to go over some of the core rules of CSS and do a practice activity (see below).  Whereas you can kind of wing it with HTML tags and look them up as needed, having a sense of how CSS works is essential to making professional-looking websites. When you have completed this lesson, you should be familiar with selectors, how to specify color values, some font properties, and the "box model."

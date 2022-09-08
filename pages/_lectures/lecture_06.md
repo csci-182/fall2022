@@ -24,7 +24,10 @@ readings:
    - url: https://cssgridgarden.com/
      title: "CSS Grid Garden"
      optional: 1
-     
+videos:
+   - url: https://drive.google.com/file/d/11GGUuI0WqOZLyweDGj5cCsZZUIFs87k1/view?usp=sharing
+     title: Intro to CSS Grid
+     live: 1
 include_pages: 
     - extras/css_grid_activity.md
 ---

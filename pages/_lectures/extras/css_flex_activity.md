@@ -1,4 +1,4 @@
-### 4. Do the Flexbox Exercises
+### 5. Do the Flexbox Exercises
 In class, you will try to build the following layouts using flexbox:
 
 #### Task 1: Card

@@ -1,4 +1,4 @@
-### 4. CSS Activity
+### 6. CSS Activity
 
 Please download the exercise files (above) and use the CSS Property Cheatsheet (above) and what you've learned about selectors to make the following drawing:
 

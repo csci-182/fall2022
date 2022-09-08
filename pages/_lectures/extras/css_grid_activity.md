@@ -1,4 +1,4 @@
-### 4. Do the CSS Grid Exercises
+### 5. Do the CSS Grid Exercises
 In class, you will try to build the following layouts:
 
 #### Task 1: Pancake Stack
