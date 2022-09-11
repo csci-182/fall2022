@@ -6,6 +6,7 @@ class Debugger {
         this.addLabels();
         window.addEventListener('resize', this.addLabels.bind(this));
         window.setTimeout(this.addLabels.bind(this), 1000);
+        window.setInterval(this.addLabels.bind(this), 5000);
     }
 
     initStyles() {
