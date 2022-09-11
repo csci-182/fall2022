@@ -26,6 +26,18 @@ points: 16
     }
 </style>
 
+
+## Hints (Updated 9/11 @12PM)
+Several students contacted me about the "Contact" section and how to approach it. I decided to make a [video walkthrough](https://drive.google.com/file/d/1-I3NoIsFPK5jGVakLxjoWfp0Obj31K2A/view?usp=sharing) to help you with that one. If you want to use the debugging script I used in the video, just paste the following right before the close of the body tag:
+
+```html
+<script src="https://csci-185.github.io/fall2022/course-files/utilities/debug.js"></script>
+<script>
+    debug('#contact', 3); // first item is the selector; second is # of levels you want to highlight.
+</script>
+```
+
+
 ## Introduction
 The goal of today's lab is to make a fake portfolio website. You will be given an `index.html` file, which controls the content. You will then style this content by making changes to the `styles.css` file that you are given. When you're done, your webpage should look exactly like the one shown in [this video](https://drive.google.com/file/d/1eLJVLW7AGQ_1EX6Hvqh_BVMAkPxKJZFX/view?usp=sharing). While this is mostly a CSS exercise, you are also welcome to change `index.html` to make things easier for you to style (optional, not required). Please download the starter files below to begin:
 
