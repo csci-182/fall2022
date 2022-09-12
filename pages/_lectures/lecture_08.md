@@ -5,9 +5,10 @@ type: lecture
 draft: 0
 num: 8
 due_date: 2022-09-12
-# slides:
-#    - url: https://docs.google.com/presentation/d/1kh5eIfmrNiwggMYqoC6KYIBWA5mAftZEI_O1qt7Kc90/edit?usp=sharing
-#      title: Designing with Accessibility in Mind
+slides:
+   - url: https://docs.google.com/presentation/d/12g5QCzuXD9RPsgpctayhuBB9vXZ6uByuWIa3V6Ziz2E/edit?usp=sharing
+     title: Designing with Accessibility in Mind
+exercise_url: "lecture08.zip"
 readings:
    - url: https://www.toptal.com/designers/ui/importance-web-accessibility
      title: UX and the Importance of Web Accessibility
