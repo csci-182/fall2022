@@ -81,12 +81,12 @@ Then, complete the 4 subtasks:
 {:.checkbox-list}
 * **[5pts]** Modify `index.html`, `mammals.html`, `reptiles.html`, and `sea-creatures.html` so that each page links to the `styles.css` stylesheet.
 * **[10pts]** Modify the hyperlinks inside of the `<nav>` sections of `index.html`, `mammals.html`, `reptiles.html`, and `sea-creatures.html` so that every HTML page links to every other HTML page **using relative paths**. 
-    * In case it isn't clear, the hyperlink associated with the "Home" link text should link to `index.html` (see the animated gif below for a demo).
+    * In case it isn't clear, the hyperlink associated with the "Home" link text should link to `index.html` (see the video above for a demo).
 * **[10pts]** Add images to `mammals.html`, `reptiles.html`, and `sea-creatures.html` inside of the `<section class="photo-container"></section>` tag. Ensure that you are using **relative paths** to the corresponding image in the `images` folder.
     * Mammals should display 6 images (fox, lion, monkey, squirrel, tiger, and zebra).
     * Reptiles should display 2 images (chameleon and turtle).
     * Sea Creatures should display 2 images (fish and jellyfish).
-* **[5pts]** Inside of `mammals.html`, `reptiles.html`, and `sea-creatures.html`, add a hyperlink to a Wikipedia page where you can learn more about each animal category. You will do this above `<section class="photo-container"></section>` tag but still inside of the `<main></main>` tag.
+* **[5pts]** Inside of `mammals.html`, `reptiles.html`, and `sea-creatures.html`, add a hyperlink to a Wikipedia page where you can learn more about each animal category. You will do this above the `<section class="photo-container"></section>` tag but still inside of the `<main></main>` tag.
     * `mammals.html` should have a link to: https://en.wikipedia.org/wiki/Mammal.
     * `reptiles.html` should have a link to: https://en.wikipedia.org/wiki/Reptile.
     * `sea-creatures.html` should have a link to: https://en.wikipedia.org/wiki/Marine_life.
@@ -104,19 +104,23 @@ To do this, open the `task02` folder and complete the tasks below. You may only 
 * **[5pts]** Set the background color of the first, third, and fifth cards to `#EEEEEE`.
 * **[5pts]** Set the background color of the second, fourth, and sixth cards to `#BCE5D6`.
 * **[5pts]** Make the images inside the first, third, and fifth card circular.
-* **[5pts]** Set the font family of all of the text to `'Courier New'`.
+* **[5pts]** Set the font family of all of the text to `'Courier New'`. Remember that fonts cascade, so you could just set it in one place (but there are many other ways to do it as well).
 * **[5pts]** Set the font weight of the **first paragraph** and the **paragraph inside the footer** to bold. The paragraphs inside the cards should **NOT** be bold.
 
 
 ### [20pts] Task 3. Flexbox
-Open the `task03` folder and use flexbox to produce the layout shown below. You may only edit the stylesheet (`styles.css`). **Do not edit anything inside `index.html`.**
+Open the `task03` folder and use flexbox to produce the layout shown below. 
+
+* You may only edit the stylesheet (`styles.css`). **Do not edit anything inside `index.html`.**
+* Centering the text horizontally and vertically within each `section` tag is optional.
 
 <img class="medium" src="/fall2022/assets/images/quizzes/quiz01/task03.png" />
 
 ### [20pts] Task 4. CSS Grid
 Open the `task04` folder and use CSS Grid to produce the layout shown below (note that the gridlines in the second images are just to help you understand the layout).
 
-You may only edit the stylesheet (`styles.css`). **Do not edit anything inside `index.html`.**
+* You may only edit the stylesheet (`styles.css`). **Do not edit anything inside `index.html`.**
+* Centering the text horizontally and vertically within each `section` tag is optional.
 
 <img class="medium" src="/fall2022/assets/images/quizzes/quiz01/task04.png" />
 
@@ -124,7 +128,7 @@ You may only edit the stylesheet (`styles.css`). **Do not edit anything inside `
 
 
 ## 3. What to Turn In
-Please doublecheck to make sure you've completed the 4 tasks described above. When you're done:
+Please doublecheck to make sure you've completed the 4 tasks described above, and all of the subtasks. When you're done:
 
 1. Zip your entire `quiz01` folder that contains a **COMPLETED** version of all 4 tasks. In other words, don't accidentally submit the starter files or you will not receive any credit for the quiz.
 2. Upload the `quiz01.zip` you just made to the course Moodle under **Quiz 1.**
