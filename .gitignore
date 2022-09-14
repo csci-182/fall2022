@@ -7,7 +7,7 @@ administrative
 solution
 solutions
 exams
-quizzes
+# quizzes
 .ipynb_checkpoints
 __pycache__
 Gemfile.lock
