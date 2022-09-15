@@ -1,25 +1,20 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:300, 400, 700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:300,400,700);
 
+body * {
+    box-sizing: border-box;
+}
 body {
     margin: 0px;
 }
 p, h1, h2, h3, h4, h5 {
-    margin-left: 10vw;
-    margin-right: 10vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
 }
-section {
+section.content {
+    padding-top: 50px;
     padding-bottom: 50px;
 }
-#main {
-  width: 100%;
-  padding: 0;
-}
-.content-asset p {
-  margin: 0 auto;
-}
-.breadcrumb {
-  display: none;
-}
+
 
 /* Helpers */
 
@@ -61,12 +56,14 @@ h3 {
   text-transform: uppercase;
   color: black;
 }
+
 p {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
 }
+
 .first-character {
   font-weight: 400;
   float: left;
@@ -102,7 +99,6 @@ p {
 }
 
 .parallax-one, .parallax-two, .parallax-three {
-    border: solid 1px #000;
     padding-top: 200px;
     padding-bottom: 200px;
     width: 100%;
