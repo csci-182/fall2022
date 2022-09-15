@@ -36,7 +36,7 @@ To get credit for today's tutorial, please attempt **ONE** of the following thre
 #### 1. Uncomment the relevant CSS properties
 Inside of the `your-task` downloads folder, open `01-background-images`, and take a look at the HTML and CSS files to get oriented with them. Then, before making any changes to the code, preview the `index.html` page in your web browser.
     
-After previewing your webpage, uncomment the following lines inside your `styles.css` file within your `header` style block. 
+After previewing your webpage, **uncomment** the following lines inside your `styles.css` file within your `header` style block. 
 
 ```css
   /* background-image: url('solar-eclipse.jpg');
@@ -73,8 +73,24 @@ Customize this page with your own background images.
 
 
 #### 3. Try Out the Filters
-If you have time, also try playing with some of the background filters. Here is a <a href="https://www.w3schools.com/cssref/css3_pr_filter.asp" target="_blank">list of available filters</a> (also on W3 Schools). 
-* Hint: try adding `filter: invert(180);` to the `header` style block in your CSS file to see what happens.
+If you have time, also try playing with some of the background filters. Here is a <a href="https://www.w3schools.com/cssref/css3_pr_filter.asp" target="_blank">list of available filters</a> (also on W3 Schools).  The options for the filter property are:
+
+* none
+* blur()
+* brightness()
+* contrast()
+* drop-shadow()
+* grayscale()
+* hue-rotate()
+* invert()
+* opacity()
+* saturate()
+* sepia()
+* url()
+{:.compact}
+
+Hint: try adding `filter: invert(180);` to the `header` style block in your CSS file to see what happens.
+
 
 {:#option2}
 ### Option 2: Transitions
@@ -82,7 +98,7 @@ If you have time, also try playing with some of the background filters. Here is 
 #### 1. Uncomment the relevant CSS style blocks
 Inside of the `your-task` downloads folder, open `02-transitions`, and take a look at the HTML and CSS files to get oriented with them. Then, before making any changes to the code, preview the `index.html` page in your web browser.
 
-After previewing your webpage, uncomment the following lines inside your `styles.css` style block:
+After previewing your webpage, **uncomment** the following lines inside your `styles.css` style block:
 
 ```css
 /*
@@ -107,7 +123,7 @@ Your job is to experiment with the other two section tags (`#section2` and `#sec
 
 1. To make a <a href="https://www.w3schools.com/css/css3_transitions.asp" target="_blank">transition</a>, you define a transition inside of a style block (e.g., `#section1`) as follows: `transition: <property> <duration> <timing-function> <delay>;` Examples:
     * transition: all 0.3s ease-out;
-    * transition: background,color 1s ease-in;
+    * transition: background 1s ease-in;
     * transition: all 3s linear;
     * transition: all 0.3s ease;
     {:.compact}
@@ -130,9 +146,9 @@ Feel free to look at `sample-files/02-pseudo-classes` and `sample-files/03-trans
 ### Option 3: Keyframes
 
 #### 1. Uncomment the relevant CSS style blocks
-Inside of the your-task downloads folder, open 03-keyframes, and take a look at the HTML and CSS files to get oriented with them. Then, before making any changes to the code, preview the index.html page in your web browser. You should see one cloud moving from left to right.
+Inside of the `your-task` downloads folder, open `03-keyframes`, and take a look at the HTML and CSS files to get oriented with them. Then, before making any changes to the code, preview the index.html page in your web browser. You should see one cloud moving from left to right.
 
-After previewing your webpage, uncomment the following two blocks of code lines inside your `styles.css`:
+After previewing your webpage, **uncomment** the following two blocks of code lines inside your `styles.css`:
 
 Inside of #cloud2:
 ```css
@@ -170,6 +186,6 @@ See if you can make the circle on the bottom rise to the top (like a sunrise). T
 ## What to Submit
 **Please Read Carefully:** To submit Tutorial 5, please paste the following links into the Moodle under the Tutorial 5 submission section:
 
-1. A link to your **homepage** on GitHub pages, **which should link to the task you completed for Tutorial 5**. Se <a href="https://vanwars.github.io/csci185-coursework" target="_blank">Sarah's Homepage</a> for an example (except your tutorial will actuall be completed).
+1. A link to your **homepage** on GitHub pages, which should link to the task you completed for Tutorial 5. See <a href="https://vanwars.github.io/csci185-coursework" target="_blank">Sarah's Homepage</a> for an example.
     * Note that your homepage should also link to previous tutorials and classwork you have done.
 2. A link to your GitHub **code repository** (where your code files are stored).
