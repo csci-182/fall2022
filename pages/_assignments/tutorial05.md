@@ -186,6 +186,6 @@ See if you can make the circle on the bottom rise to the top (like a sunrise). T
 ## What to Submit
 **Please Read Carefully:** To submit Tutorial 5, please paste the following links into the Moodle under the Tutorial 5 submission section:
 
-1. A link to your **homepage** on GitHub pages, which should link to the task you completed for Tutorial 5. See <a href="https://vanwars.github.io/csci185-coursework" target="_blank">Sarah's Homepage</a> for an example.
+1. A link to your **homepage** on GitHub pages, which should link to the task you completed for Tutorial 5 (using a relative path). See <a href="https://vanwars.github.io/csci185-coursework" target="_blank">Sarah's Homepage</a> for an example.
     * Note that your homepage should also link to previous tutorials and classwork you have done.
 2. A link to your GitHub **code repository** (where your code files are stored).
