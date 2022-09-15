@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: HTML & CSS Flourishes
+title: HTML5 & CSS3 Flourishes
 type: tutorial
 abbreviation: Tutorial 5
 draft: 0
