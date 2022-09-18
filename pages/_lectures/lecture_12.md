@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Making your own functions
+title: Making your own functions with p5.js
 type: lecture
 draft: 1
 num: 12

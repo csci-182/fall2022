@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Functions & intro to P5.js
+title: The Building Blocks of Programming
 type: lecture
 draft: 1
 num: 11
