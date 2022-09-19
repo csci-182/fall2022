@@ -4,9 +4,9 @@ title: "Practice with CSS: Reconstruct the Spotify Interface"
 abbreviation: HW2
 type: homework
 due_date: 2022-09-26
-ordering: 1 
+ordering: 2
 points: 16
-draft: 1
+draft: 0
 ---
 
 <style>
@@ -36,7 +36,7 @@ In the `index.html` file, add Font Awesome icons (Spotify logo, home, search, an
 
 <img class="small-float" src="{{site.baseurl}}/assets/images/homework/hw02/sidebar.png" />
 
-Note that the Font Awesome font reference is already included in the head of your `index.html` file. Your job is to search for relevant icons on the Font Awesome page and include them. For instance, to get the Spotify icon, take a look <a href="https://fontawesome.com/icons/spotify?style=brands" target="_blank">here</a>. Other than adding the icons, you shouldn't need to make any other changes to the HTML.
+Note that the Font Awesome font reference is already included in the head of your `index.html` file. Your job is to search for relevant icons on the Font Awesome page and include them. For instance, to get the Spotify icon, take a look <a href="https://fontawesome.com/search?o=r&m=free" target="_blank">here</a>. Other than adding the icons, you shouldn't need to make any other changes to the HTML.
 
 ```html
 <aside id="sidebar">
@@ -59,7 +59,7 @@ Note that the Font Awesome font reference is already included in the head of you
 </aside>
 ```
 
-In the `style.css` file, add some CSS style rules to make the UI look like the screenshot (pictured above). You can accomplish this any way you want, but consider using flexbox and the box model (padding, margin, width, height, etc.). Be sure to put all of the CSS related to the left navigation in the "Part A: Left Navigation" section:
+In the `style.css` file, add some CSS style rules to make the UI look like the screenshot (pictured above). You can accomplish this any way you want, but consider using some combination of the approaches we've reviewed thus far (CSS Grid, flex, or the box model). Be sure to put all of the CSS related to the left navigation in the "Part A: Left Navigation" section:
 
 ```css
 /***************************/
@@ -91,7 +91,7 @@ You should not need to make any changes to the HTML (but you can if you want):
 </nav>
 ```
 
-Like with Part A, try to achieve the alignment using flexbox (e.g. flex-direction, justify-content, align-items) and the box model (e.g. padding, margin, height, width). Be sure to put all of the CSS related to the the header and nav sections in the "Part B: Header & Nav Styling" section:
+Like with Part A, try to achieve the alignment using flexbox or CSS Grid (e.g. flex-direction, justify-content, align-items) and the box model (e.g. padding, margin, height, width). Be sure to put all of the CSS related to the the header and nav sections in the "Part B: Header & Nav Styling" section:
 
 ```css
 /********************************/
@@ -132,7 +132,7 @@ You should not need to make any changes to the HTML (but you can if you want):
 </article>
 ```
 
-Again, try to achieve the alignment using flexbox and the box model. Be sure to put all of the CSS related to the artist cards in the "Part C: Artist Panel" section:
+Again, try to achieve the alignment using flexbox, CSS Grid and/or the box model. Be sure to put all of the CSS related to the artist cards in the "Part C: Artist Panel" section:
 
 ```css
 /*************************/
@@ -163,13 +163,13 @@ Create the following two responsive UIs shown below. If you're using more than 1
     * Do you think your website is usable if you turn off the CSS? Why or why not?
     * Is your site is tabbable? In other words, without the use of the mouse, are all the links and buttons accessible using the tab key?
 
-Hints: You'll need to modify the HTML file by adding `alt` text to images, `aria-label` attributes to buttons, etc.
+Hints: You'll need to modify the HTML file by adding `alt` text to images, [aria-label](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label) attributes to buttons, etc.
 
 <img class="large" src="{{site.baseurl}}/assets/images/homework/hw02/wave.png" />
 
 ## 6. Commit & Push to GitHub
-1. Edit your homepage from [tutorial 3](tutorial03) and add a link to your your Spotify page (see <a href="https://vanwars.github.io/cs130-coursework/" target="_blank">Sarah's page</a> for an example).
-2. Commit and push your updated homepage and your `hw02` files to GitHub. If you need a reminder of how to do this, consult [tutorial 02](tutorial02) (or attend office hours).
+1. Edit your homepage from [tutorial 3](tutorial03) and add a link to your your Spotify page (see <a href="https://vanwars.github.io/csci185-coursework/" target="_blank">Sarah's page</a> for an example).
+2. Commit and push your updated homepage and your `hw02` files to GitHub.
 
 
 ## 7. Extra Credit: Hover Effects
@@ -202,7 +202,7 @@ You can put the style rules for the extra credit anywhere in `style.css`.
 **Please Read Carefully:** To submit this week's homework assignment, please create and upload a zip file to Canvas (under the Homework 2 assignment) with the following files / info:
 
 1. A text file (word doc, pdf, etc.) that includes:
-    1. A link to your homepage (from Tutorial 4), which should link to all of your assignments (including `hw02`).
+    1. A link to your homepage, which should link to all of your assignments (including `hw02`).
     1. A link to your GitHub repository (where your code files are stored).
     1. The answers to your accessibility questions.
-2. A screenshot of your WAVE report.
+2. A screenshot of your WAVE report (you'll need to download the WAVE browser extension).
