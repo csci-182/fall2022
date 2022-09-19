@@ -38,7 +38,7 @@ Quiz 1 is a take-home quiz. You will have ~36 hours to complete it. You may begi
 ## 2. Your Tasks
 Please download the starter files (below) and complete the 4 sets of tasks described below. Read the instructions that are outlined under each task **very carefully.** You must complete each exercise exactly as the instructions indicate to receive full credit. Otherwise, you will receive partial credit for the parts you correctly completed.
 
-<a href="/fall2022/course-files/quizzes/quiz01.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
+<a href="/fall2022/course-files/quizzes/quiz01.zip" class="nu-button">Quiz 1 Starter Files <i class="fas fa-download"></i></a> <a href="/fall2022/course-files/quizzes/quiz01_answers.zip" class="button">Quiz 1 Solutions <i class="fas fa-download"></i></a>
 
 ### [30pts] Task 1. Linking to Pages & Media Using Relative & Absolute Paths
 
