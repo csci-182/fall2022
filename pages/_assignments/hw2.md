@@ -199,7 +199,7 @@ You can put the style rules for the extra credit anywhere in `style.css`.
 * [Optional] Hover effects implemented **(+2 pt extra credit)**
 
 ## What to turn in
-**Please Read Carefully:** To submit this week's homework assignment, please create and upload a zip file to Canvas (under the Homework 2 assignment) with the following files / info:
+**Please Read Carefully:** To submit this week's homework assignment, please create and upload a zip file to the Moodle (under the Homework 2 assignment) with the following files / info:
 
 1. A text file (word doc, pdf, etc.) that includes:
     1. A link to your homepage, which should link to all of your assignments (including `hw02`).
