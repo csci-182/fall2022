@@ -5,6 +5,10 @@ type: lecture
 draft: 0
 num: 9
 due_date: 2022-09-19
+slides: 
+    - url: https://docs.google.com/presentation/d/1Zu4aH7eQu8i3UiRsKnu619ve25keS_RH7el3un2qj1w/edit?usp=sharing
+      title: Introduction to JavaScript and the DOM
+exercise_url: "lecture09.zip"
 readings:
     - url: https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes
       title: "Understanding the DOM Tree and Nodes"
