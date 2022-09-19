@@ -14,7 +14,7 @@ Student repositories for Section 1:
 | 2 | Karoline Carl | [repo](https://github.com/karolinecarl/csci185/) &bull; [website](https://karolinecarl.github.io/csci185/) |
 | 3 | Tom Curran | [repo](https://github.com/tcurran-csci-185/csci185-coursework) &bull; [website](https://tcurran-csci-185.github.io/csci185-coursework/) |
 | 4 | Eva Deans | [repo](https://github.com/ecdeans/csci185-coursework) &bull; [website](https://ecdeans.github.io/csci185-coursework/) |
-| 5 | Joel Denton | [repo](https://github.com/JaceLearnsPython/csci185) &bull; [website](https://jacelearnspython.github.io/csci185/) |
+| 5 | Joel Denton | [repo](https://github.com/JaceLearnsPython/csci185-coursework) &bull; [website](https://jacelearnspython.github.io/csci185-coursework/) |
 | 6 | Oren Evans | [repo](https://github.com/oren99/csci185-coursework) &bull; [website](https://oren99.github.io/csci185-coursework/) |
 | 7 | Quentin Hess | [repo](https://github.com/qhess/csci185-coursework) &bull; [website](https://qhess.github.io/csci185-coursework/) |
 | 8 | Katelyn Lillard | [repo](https://github.com/klillard/csci185-coursework) &bull; [website](https://klillard.github.io/csci185-coursework/) |
@@ -24,7 +24,7 @@ Student repositories for Section 1:
 | 12 | Sam Presser | [repo](https://github.com/smamster/csci185/) &bull; [website](https://smamster.github.io/csci185/) |
 | 13 | Isa Satake | [repo](https://github.com/isatake7/csci185-coursework) &bull; [website](https://isatake7.github.io/csci185-coursework) |
 | 14 | Rory Trentham | [repo](https://github.com/rorytren/csci185) &bull; [website](https://rorytren.github.io/csci185/) |
-| 15 | Tess Walker | [repo](https://github.com/gitess2) &bull; [website](https://gitess2.github.io/csci185-coursework/) |
+| 15 | Tess Walker | [repo](https://github.com/tess-walker) &bull; [website](https://tess-walker.github.io/csci185-coursework/) |
 | 16 | Julia Wills | [repo](https://github.com/julia190/csci185-coursework) &bull; [website](https://julia190.github.io/csci185-coursework) |
 
 ## Section 2 (3:30-4:45PM)
@@ -37,7 +37,7 @@ Student repositories for Section 2:
 | 2 | Olivia Burns | [repo](https://github.com/oburns2/csci185-coursework) &bull; [website](https://oburns2.github.io/csci185-coursework/) |
 | 3 | Jahfari Coumarbatch | [repo](https://github.com/Jitori1/csci185-coursework) &bull; [website](https://jitori1.github.io/csci185-coursework/) |
 | 4 | Denzel Diaz | [repo](https://github.com/Denzelito/csci185) &bull; [website](https://denzelito.github.io/csci185/) |
-| 5 | Lizbeth Gonzalez-Leon | Private repository? |
+| 5 | Lizbeth Gonzalez-Leon | [repo](https://github.com/Lgonzalezleon/csci185) &bull; [website](https://lgonzalezleon.github.io/csci185) |
 | 6 | Knox Gordon | [repo](https://github.com/knoxgordonunca/csci185-coursework) &bull; [website](https://knoxgordonunca.github.io/csci185-coursework/) |
 | 7 | Adam Gray | [repo](https://github.com/4dam3/csci185-coursework) &bull; [website](https://4dam3.github.io/csci185-coursework/) |
 | 8 | Nova Holland | [repo](https://github.com/LunaireNova/csci185) &bull; [website](https://lunairenova.github.io/csci185/) |
