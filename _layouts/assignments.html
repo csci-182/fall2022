@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+
+<style>
+    td:nth-child(2), th:nth-child(2) {
+        min-width: 150px;
+    }
+</style>
 {{content}}
 
 {% assign dateStart = site.term_start_date | date: '%s' %}
@@ -92,9 +98,9 @@ layout: default
             const dateString = lastTd.querySelector('.due-date').innerHTML;
             const dueDate = new Date(dateString);
             const numDays = (dueDate - new Date()) / (1000 * 3600 * 24);
-            if (isLab) {
-                nextToLastTd.innerHTML = "scheduled lab time";
-            }
+            // if (isLab) {
+            //     nextToLastTd.innerHTML = "scheduled lab time";
+            // }
             if (numDays < -1) {
                 tr.classList.add('passed');
                 lastTd.innerHTML = "passed";
