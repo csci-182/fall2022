@@ -5,6 +5,10 @@ type: lecture
 draft: 0
 num: 10
 due_date: 2022-09-21
+slides:
+    - url: https://docs.google.com/presentation/d/1ydsvh4X0Lp-CcuXHoRChbaZdXUG8hcomQwMIEe9X20Y/edit?usp=sharing
+      title: "The Building Blocks of Programming"
+exercise_url: "lecture10.zip"
 readings:
     - url: https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom
       title: "How to Traverse the DOM"
@@ -19,4 +23,4 @@ readings:
       title: "Understanding Events in JavaScript"
 ---
 
-Today we're going to learn about JavaScript functions and events, and how they interact with the DOM.
+Today we're going to learn about some of the building blocks of programming (data and data types, expressions, operators, and templates).
