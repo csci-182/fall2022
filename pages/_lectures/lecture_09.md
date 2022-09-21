@@ -9,6 +9,11 @@ slides:
     - url: https://docs.google.com/presentation/d/1Zu4aH7eQu8i3UiRsKnu619ve25keS_RH7el3un2qj1w/edit?usp=sharing
       title: Introduction to JavaScript and the DOM
 exercise_url: "lecture09.zip"
+videos: 
+    - url: https://drive.google.com/file/d/1RcPEWW6yE4EPEWPyXFd5pxWrXC7Dnh76/view?usp=sharing
+      title: "Intro to JavaScript and the DOM"
+      live: 1
+      duration: ""
 readings:
     - url: https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes
       title: "Understanding the DOM Tree and Nodes"

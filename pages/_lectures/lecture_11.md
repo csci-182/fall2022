@@ -1,6 +1,6 @@
 ---
 layout: module
-title: The Building Blocks of Programming
+title: Functions
 type: lecture
 draft: 1
 num: 11

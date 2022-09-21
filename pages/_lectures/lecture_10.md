@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Intro to Functions, Intro to Events
+title: The Building Blocks of Programming
 type: lecture
 draft: 0
 num: 10
@@ -9,6 +9,11 @@ slides:
     - url: https://docs.google.com/presentation/d/1ydsvh4X0Lp-CcuXHoRChbaZdXUG8hcomQwMIEe9X20Y/edit?usp=sharing
       title: "The Building Blocks of Programming"
 exercise_url: "lecture10.zip"
+videos: 
+    - url: https://drive.google.com/file/d/1oqAlaDrpWwSYd-Rnjip8A42RTbSXIuH6/view?usp=sharing
+      title: "The Building Blocks of Programming"
+      live: 1
+      duration: ""
 readings:
     - url: https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom
       title: "How to Traverse the DOM"

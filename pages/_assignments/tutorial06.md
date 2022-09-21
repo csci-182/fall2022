@@ -66,7 +66,7 @@ Open font-switcher/index.html in VS Code, and note the HTML tags. Also note that
 The keyword `defer` means that the script won't run until your entire web page is loaded.
 
 
-Open `01-font-switcher/index.js` in Atom, and uncomment the section at the bottom by deleting the /* and */ symbols:
+Open `01-font-switcher/index.js` in VS Code, and uncomment the section at the bottom by deleting the /* and */ symbols:
 
 ```js
 /*

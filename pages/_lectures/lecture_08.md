@@ -9,6 +9,11 @@ slides:
    - url: https://docs.google.com/presentation/d/12g5QCzuXD9RPsgpctayhuBB9vXZ6uByuWIa3V6Ziz2E/edit?usp=sharing
      title: Designing with Accessibility in Mind
 exercise_url: "lecture08.zip"
+videos: 
+    - url: https://drive.google.com/file/d/1usY5mNn36zm9yy1g8ngDA3Q7bogHH4mm/view?usp=sharing
+      title: "Web Accessibility"
+      live: 1
+      duration: "1:07:18"
 readings:
    - url: https://www.toptal.com/designers/ui/importance-web-accessibility
      title: UX and the Importance of Web Accessibility
