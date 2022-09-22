@@ -110,7 +110,7 @@ When you're done, your web page should look like this:
 
 
 ## Update your homepage to link to your tutorial06
-Please update your index.html page from Tutorial 3 so that it links to your completed `Tutorial 5` web pages. See Sarah's <a href="https://vanwars.github.io/csci185-coursework" target="_blank">example homepage</a> (format the links however you like).
+Please update your homepage (the index.html page you made in Tutorial 3) so that it links to your completed `Tutorial 6` web pages. See Sarah's <a href="https://vanwars.github.io/csci185-coursework" target="_blank">example homepage</a> (format the links however you like).
 
 ## Checklist
 Please make sure that you have completed the following:
@@ -119,7 +119,7 @@ Please make sure that you have completed the following:
 * Implemented the font size adjuster
 * Implemented the theme switcher
 * Implemented "dyslexia mode" (optional, but recommended)
-* Your homepage (from Tutorial 3) links to your completed "font size adjuster" and "theme switcher" pages.
+* Your homepage links to your completed "font size adjuster" and "theme switcher" pages.
 * Everything committed to GitHub (stage, commit, and sync).
 
 ## What to Submit
