@@ -66,18 +66,13 @@ Open font-switcher/index.html in VS Code, and note the HTML tags. Also note that
 The keyword `defer` means that the script won't run until your entire web page is loaded.
 
 
-Open `01-font-switcher/index.js` in VS Code, and uncomment the section at the bottom by deleting the /* and */ symbols:
+Open `01-font-switcher/index.html`:
+1. Attach the `makeBigger()` event handler to the `#bigger` button.
+2. Attach the `makeSmaller()` event handler to the `#smaller` button.
 
-```js
-/*
-document.querySelector(???).addEventListener('click', makeBigger);
-document.querySelector(???).addEventListener('click', makeSmaller);
-*/
-```
+See the Lecture 9 and Lecture 10 exercise files if you need to see some examples of how you might do this. 
 
-Replace the `???` with the correct selector, so that your makeBigger function and makeSmaller function get attached to the correct DOM elements.
-
-Finally, modify the makeBigger and makeSmaller functions so that they modify the font size of the `div.content` element and the `h1` element. When you're done, your web page should look like this:
+Next, open `01-font-switcher/index.js` and, modify the body of the `makeBigger` and `makeSmaller` functions so that they update the font size of the `div.content` element and the `h1` element. There should be at least two statements within the body of each function (one to target and manipulate `div.content`, and one to target and manipulate `h1`). When you're done, your web page should look like this:
 
 <img class="large frame" src="/fall2022/assets/images/tutorials/tutorial06/font-switcher.gif" />
 
@@ -86,9 +81,10 @@ Finally, modify the makeBigger and makeSmaller functions so that they modify the
 Another way to make your site more accessible is to create a "high-contrast" stylesheet or CSS class. For this exercise, please do the following:
 
 1. Open `02-theme-switcher/index.js` and attach a click event handler to each of the four of the buttons in the nav bar. 
-2. Each event handler should modify the class of the `body` tag to match the theme of the button that was clicked. 
+2. Each event handler should modify the class of the `body` tag to match the theme of the button that was clicked (just like we did in class for Lecture 10). 
     * The available theme classes are: `ocean`, `desert` and `high-contrast`. To see the themes, open the `style.css` file and scroll to the bottom.
 3. If the `default` button is clicked, just unset the class on the body tag.
+4. [Optional] If you have time, try creating your own theme in the `../style.css` file and creating another button so that when you click on the new button, your theme shows up.
 
 When you're done, your web page should look like this:
 
