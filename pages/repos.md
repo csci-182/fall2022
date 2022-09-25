@@ -15,7 +15,7 @@ Student repositories for Section 1:
 | 3 | Tom Curran | [repo](https://github.com/tcurran-csci-185/csci185-coursework) &bull; [website](https://tcurran-csci-185.github.io/csci185-coursework/) |
 | 4 | Eva Deans | [repo](https://github.com/ecdeans/csci185-coursework) &bull; [website](https://ecdeans.github.io/csci185-coursework/) |
 | 5 | Joel Denton | [repo](https://github.com/JaceLearnsPython/csci185-coursework) &bull; [website](https://jacelearnspython.github.io/csci185-coursework/) |
-| 6 | Oren Evans | [repo](https://github.com/oren99/csci185-coursework) &bull; [website](https://oren99.github.io/csci185-coursework/) |
+| 6 | Oren Evans | [repo](https://github.com/oren99/csci185) &bull; [website](https://oren99.github.io/csci185/) |
 | 7 | Quentin Hess | [repo](https://github.com/qhess/csci185-coursework) &bull; [website](https://qhess.github.io/csci185-coursework/) |
 | 8 | Katelyn Lillard | [repo](https://github.com/klillard/csci185-coursework) &bull; [website](https://klillard.github.io/csci185-coursework/) |
 | 9 | Joe Millspaw | [repo](https://github.com/J-millspaw/csci185-coursework) &bull; [website](https://j-millspaw.github.io/csci185-coursework/) |

@@ -10,7 +10,7 @@ due_date: 2022-09-23
 ---
 
 <a href="/fall2022/course-files/tutorials/tutorial06.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
-
+<a href="/fall2022/course-files/tutorials/tutorial06_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a>
 ## Introduction 
 The goal of today's tutorial is to:
 1. Help you practice using JavaScript to target and modify HTML elements in your DOM Tree.

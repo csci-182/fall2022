@@ -11,59 +11,59 @@ draft: 1
 
 
 > **LEARNING OBJECTIVES:** 
-> 1. More practice working with built-in functions
+> 1. Practice working with a JavaScript library (p5.js)
 > 1. Practice writing your own functions
+> 1. The opportunity to get creative!
 
-<img class="creature" src="/fall2022/assets/images/hw02/creature.png" /> In this assignment, you are going to write a program to draw a creature of your own design/choosing using p5.js. At the end of this assignment, someone should be able to use your function to draw your creature: anywhere on the screen at any size or color. In other words, your function needs to honor the parameters that are passed into it. If you don't quite know what this means (it's a confusing concept for people just learning to program), ask Sarah during class or ask your TAs during lab / office hours.
+<img class="creature" src="/fall2022/assets/images/homework/hw03/creature.png" /> In this assignment, you are going to write a program to draw a creature of your own design/choosing using p5.js. At the end of this assignment, someone should be able to use your function to draw your creature: anywhere on the screen at any size or color. In other words, your function needs to honor the parameters that are passed into it. If you don't quite know what this means (this can be a very confusing concept for people just learning to program), ask Sarah during class or come to tuturing / office hours.
 
 ## Part 1: Design your creature
 On paper, sketch out at least 3 VERY SIMPLE creature ideas (shoot for using between 4-8 shapes). These can be different variations of the same creature or all different ones. You can just implement the head of your creature (similar to the bear at the top) or the whole thing — the choice is up to you. Here are some links to ideas:
 
-* <a href="https://images.squarespace-cdn.com/content/v1/53dd4013e4b05d8340b1c32c/1558819051622-BO3Y418I3RW2B4X2UGY4/ke17ZwdGBToddI8pDm48kJveJ6bDu4t8jo69sot7N517gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UclebCXK_qWyAU_WdFPQdIW8jKJG7706TR3OFKcgb9BQHrvtV3ieEGBkdu4ICJqedg/a-z.jpg?format=1500w" target="_blank">cute monsters</a>
-* <a href="https://www.youtube.com/watch?v=yh_A09CrT68" target="_blank">https://www.youtube.com/watch?v=yh_A09CrT68</a>
-* <a href="https://www.shutterstock.com/image-vector/ cute-animals-cartoon-illustrator-flat-design-24766713" target="_blank">https://www.shutterstock.com/image-vector/ cute-animals-cartoon-illustrator-flat-design-247667131</a>
-* <a href="https://www.pinterest.com/pin/118782508901992203/" target="_blank">https://www.pinterest.com/pin/118782508901992203/</a>
+* <a href="https://www.youtube.com/watch?v=yh_A09CrT68" target="_blank">https://www.youtube.com/watch?v=yh_A09CrT68</a> (this one is pretty sophisticated, but interesting!)
+* <a href="circle drawing monsters" target="_blank">https://www.youtube.com/watch?v=dhiy00COsWQ/</a>
 * <a href="https://goo.gl/hKewyL" target="_blank">https://goo.gl/hKewyL</a>
 
-Feel free to post simple creature drawing ideas on the course Piazza under hw3.
 From your 3 sketched ideas, select the one that you would like to use for the assignment and draw the creature bigger on a different piece of paper — ideally graph paper — and label the points that will help you to program your creature. 
 
 {: .blockquote-no-margin}
-> **AGAIN:** Making a simple creature (e.g using 4-8 shapes) is totally fine. You don’t need to get too detailed unless you want to! And you can always enhance your creature at a later point in time.
+> **AGAIN:** Making a **SIMPLE** creature (e.g using 4-8 shapes) is encouraged. You don’t need to get too detailed unless you want to! You will continue working on your creature in subsequent assignments, so you can revise it later.
 
-## Part 2: Implement your "make_creature" function
-Once you are satisfied with your animal concept, create a `make_creature` function, inside of `creature.py`, using any combination of shapes (points, lines, polygons, rectangles, ovals, etc.). Feel free to use the `make_circle` and `make_oval` functions that you already implemented in homework 2. Also feel free to use any of the code in `warm_up.py`. The spirit of this assignment is for you to get creative, given your developing knowledge of functions.
+## Part 2: Implement your "drawCreature" function
+Once you are satisfied with your animal concept, create a `drawCreature` function, inside of `sketch.js`, using any combination of shapes (points, lines, polygons, rectangles, ovals, etc.). Feel free to use any of the code in the `samples` folder. 
 
 **Tips**: 
-1. Keep it simple (we recommend anywhere between 4-8 shapes)! You can always add more functionality later.
-2. Make only one or two changes at a time and then test out those changes by running your `main.py` file. This makes things easier to debug.
+1. Keep it simple (I recommend anywhere between 4-8 shapes)! You can always add more functionality later. The spirit of this assignment is for you to get creative, given your developing knowledge of functions. That said, `p5.js` is limited in the functionality it offers, so see what you can come up with with a few simple shapes. Don't overthink it.
+2. Make only one or two changes at a time and then test out those changes in the browser. This makes things easier to debug.
+3. Use the `console` panel of the developer tools to see your error messages.
 
-Once your function successfully draws the creature that you sketched (in Part 2), you will start adding positional and keyword parameters. There is already 1 positional parameter, canvas, used in the sample `make_creature` function. You will add to this:
+Once your function successfully draws the creature that you sketched (in Part 2), you will start adding **parameters** that will allow your creature to be further customized. Please add the following required parameters in the order specified:
 
-* <span class="hw">ALREADY DONE FOR YOU</span>  A positional (required) parameter, `canvas`, which will be a reference to your canvas object from main.py.
-* A positional (required) parameter, `center`, specifying the x-y position of the center of your creature (should be a tuple).
-* A keyword (optional) parameter, `primary_color` specifying the primary color of the creature. In the case of the bear, this is the face color. Remember, optional parameters require default values.
-* A keyword (optional) parameter, `secondary_color` specifying the secondary color of the creature. In the case of the bear, this is the ear color.
-* A keyword (optional) parameter, `size`, specifying the size of the creature.
+1. An `x` parameter, specifying the x-position of the center of your creature (should be a number).
+1. A `y` parameter, specifying the y-position of the center of your creature (should also be a number).
+1. A`size` parameter, specifying the size of the creature.
+1. A `primaryColor` parameter, specifying the primary color of the creature. In the case of the bear, this is the face color.
+1. A `secondaryColor` parameter, specifying the secondary color of the creature. In the case of the bear, this is the ear color.
 
-When you're done, please add at least three calls to the `make_creature` function in your `main.py` file, using different arguments. For instance, after completing the assignment, I used my make_creature function in the following way to produce the drawing below (feel free to use whatever arguments you want for your positional / keyword parameters):
+When you're done, please add at least five calls to the `drawCreature` function in your `sketch.js` file, using different values for the arguments. For instance, after completing the assignment, I used my drawCreature function in the following way to produce the drawing below (feel free to use whatever arguments you want for your positional / keyword parameters):
 
-```python
-# with a function, you can make slightly different versions of your design, 
-# thereby reusing the same code over and over again
+```js
+// using your drawCreature function, you should be able to make different 
+// versions of your design (different sizes, colors, etc), thereby reusing 
+// the same code over and over again
 
-make_creature(canvas, (92, 115), size=85, primary_color='#5e6976', secondary_color='#1b324d')
-make_creature(canvas, (487, 110), size=101, primary_color='#bfdc65', secondary_color='#abb880')
-make_creature(canvas, (454, 423), size=141, primary_color='#aebb83', secondary_color='#227876')
-make_creature(canvas, (333, 227), size=99, primary_color='#94ba77', secondary_color='#3f5364')
-make_creature(canvas, (117, 314), size=91, primary_color='#648d8e', secondary_color='#afc272')
-make_creature(canvas, (199, 469), size=122, primary_color='#3f5364', secondary_color='#bfdc65')
+drawCreature(92, 115, 85, '#5e6976', '#1b324d');
+drawCreature(487, 110, 101, '#bfdc65', '#abb880');
+drawCreature(454, 423, 141, '#aebb83', '#227876');
+drawCreature(333, 227, 99, '#94ba77', '#3f5364');
+drawCreature(117, 314, 91, '#648d8e', '#afc272');
+drawCreature(199, 469, 122, '#3f5364', '#bfdc65');
 
-# helper code for making a grid
-make_grid(canvas, screen_width, screen_height)
+// helper code for making a grid (inside of utilities.js)
+drawGrid(canvas, screen_width, screen_height)
 ```
 
-<img class="medium frame center" src="/fall2022/assets/images/hw03/creatures.png" />
+<img class="medium frame center" src="/fall2022/assets/images/homework/hw03/creatures.png" />
 
 
 ## What to Submit
@@ -72,6 +72,5 @@ Before you submit, please do test your make creature function by invoking the fu
 When you're done, please create a zip file that includes the following files:
 
 1. A photo / scan of your sketches (PDF or JPG)
-1. Your helpers.py file
-1. Your creature.py file
-1. Your main.py file
+1. Your sketch.js file
+1. A link to your home page and code repository.
