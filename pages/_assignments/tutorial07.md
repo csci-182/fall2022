@@ -57,8 +57,9 @@ function setup() {
     // Exercise 4:
     drawFace();     // add arguments to this function. Then add 3 new function calls w/different arguments.
 
+
     // built-in helper function (defined in utilities.js) that draws a grid.
-    drawGrid();
+    drawGrid(canvasWidth, canvasHeight);
 }
 
 
