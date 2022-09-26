@@ -28,21 +28,20 @@ On paper, sketch out some VERY SIMPLE creature ideas (shoot for using between 4-
 * <a href="circle drawing monsters" target="_blank">https://www.youtube.com/watch?v=dhiy00COsWQ/</a>
 * <a href="https://goo.gl/hKewyL" target="_blank">https://goo.gl/hKewyL</a>
 
-When you've settled on your idea, draw your creature again — ideally graph / lined paper — and label the points that will help you to program your creature. For instance: 
+When you've settled on your idea, draw your creature again — ideally using graph / lined paper — and label the points that will help you to program your creature. For instance: 
 * If you're making rectangles, p5.js needs to know the top left coordinate, the width, and the height. 
-* if you're making an oval, p5.js needs to know the center coordinate, the radius in the x direction, and the radius in the y direction. 
+* if you're making an oval, p5.js needs to know the center coordinate, the x-radius, and the y-radius. 
 
 {: .blockquote-no-margin}
 > **AGAIN:** Making a **SIMPLE** creature (e.g using 4-8 shapes) is encouraged. You don’t need to get too detailed unless you want to! You will continue working on your creature in subsequent assignments, so you can revise it later.
 
 ## Part 2: Implement your "drawCreature" function
 
-Once you are satisfied with your creature concept, create a `drawCreature` function, inside of `sketch.js`, using any combination of shapes (points, lines, polygons, rectangles, ovals, etc.). Feel free to use any of the code in the `samples` folder. When you start out, just use the various p5.js shape functions (see the `samples` directory for some examples) to create the creature from your sketch.
+Once you are satisfied with your creature concept, create a `drawCreature` function, inside of `sketch.js`, using any combination of shapes (points, lines, polygons, rectangles, ovals, etc.) that you like. Feel free to borrow any of the code in the `samples` folder.
 
 **Tips**: 
-1. Keep it simple (I recommend anywhere between 4-8 shapes)! You can always add more functionality later. The spirit of this assignment is for you to get creative, given your developing knowledge of functions. That said, `p5.js` is limited in the functionality it offers, so see what you can come up with with a few simple shapes. Don't overthink it.
-2. Make only one or two changes at a time and then test out those changes in the browser. This makes things easier to debug.
-3. Use the `console` panel of the developer tools to see your error messages.
+1. Make only one or two changes at a time and then test out those changes in the browser. This makes things easier to debug.
+1. Use the `console` panel of the developer tools to see your error messages.
 
 Once your function successfully draws the creature that you sketched (in Part 2), you will start adding **parameters** that will allow your creature to be further customized. Please add the following required parameters to the function signature in the order specified:
 
