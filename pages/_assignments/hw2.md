@@ -187,16 +187,16 @@ If you have time, try to implement the 4 hover effects shown in this video:
 
 You can put the style rules for the extra credit anywhere in `style.css`.
 
-## Rubric (15 Points)
+## Rubric (16 Points)
 
 {:.checkbox-list}
-* Left Navigation **(2 pt)**  
-* Header & Nav Styling **(2 pt)** 
+* Left Navigation **(3 pts)**  
+* Header & Nav Styling **(2 pts)** 
 * Artists Panel **(3 pts)**
 * Responsive UIs Implemented **(3 pts)**
 * Accessibility Analysis with screenshot and writeup **(3 pts)**
 * Pushed to Github with link from homepage **(2 pts)**
-* [Optional] Hover effects implemented **(+2 pt extra credit)**
+* [Optional] Hover effects implemented **(+2pts extra credit)**
 
 ## What to turn in
 **Please Read Carefully:** To submit this week's homework assignment, please create and upload a zip file to the Moodle (under the Homework 2 assignment) with the following files / info:
