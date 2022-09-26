@@ -139,16 +139,14 @@ The job of the **drawBullseye** function is to draw a bullseye of 4 concentric c
 **HINT**: you'll have to draw the biggest circle first, or else your big circle will overwrite (occlude) the smaller circles.
 
 ### 4. Modify the drawFace function
-The job of the **drawFace** function is to draw a face (i.e. a circle) with two eyes (i.e. ovals) to the canvas, according to the center point and width specified by the arguments. The function accepts the following arguments:
+The job of the **drawFace** function is to draw a face (i.e. a circle) with two eyes (i.e., ovals or circles) to the canvas, according to the center point and width specified by the arguments. The function accepts the following arguments (currently, it accepts no arguments):
 
 1. **centerX (number)**: the x-position of the face.
 2. **centerY (number)**: the y-position of the face.
 3. **size (int)**: the size (diameter) of the face.
 
-**Your job**: Your job is to draw a face that honors the size and position specified by the parameters. The face should be a circle, and it should have 2 oval eyes (see screenshot below). 
 * Important: The eyes should scale with the width of the face. In other words, as the face get's bigger, the eyeball size and position should scale proportionally with the size of the face.
 * The mouth is extra credit. 
-
 
 
 ### Testing
@@ -156,7 +154,7 @@ When you’re done, your program should draw this image that looks similar to th
 
 <img class="medium" src="/fall2022/assets/images/tutorials/tutorial07/final-image.png" />
 
-Here is how I will call your functions:
+Here is how your function calls should look (from within the `draw()` function):
 
 ```js
 /*******************************
@@ -186,13 +184,11 @@ drawFace(100, 400, 100);
 drawFace(200, 400, 200);
 drawFace(300, 400, 100);
 drawFace(400, 400, 200);
-
 ```
-
 
 ## 3. What to Submit
 **Please Read Carefully:** To submit Tutorial 7, please paste the following links into the Moodle under the Tutorial 7 submission section:
 
 1. A link to your **homepage** on GitHub pages, which should link to the drawing you made in tutorial 7 (tutorials/tutorial07/index.html). See <a href="https://vanwars.github.io/csci185-coursework" target="_blank">Sarah's Homepage</a> for an example.
-    * Note that your homepage should also link to previous tutorials and classwork you have done.
+    * Note that your homepage should also link to previous tutorials and homework you have done.
 2. A link to your GitHub **code repository** (where your code files are stored).
