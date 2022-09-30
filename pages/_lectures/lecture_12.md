@@ -9,6 +9,10 @@ readings:
     - url: https://www.digitalocean.com/community/tutorials/understanding-events-in-javascript
       title: "Understanding Events in JavaScript"
       source: "Digital Ocean"
+videos:
+   - url: https://drive.google.com/file/d/1tOT5O2cQSvcUijnklg2XEyRYV5Dv_x06/view?usp=sharing
+     title: Tutorial 7 Walkthrough
+     live: 1
 ---
 
 Today we will practice building some different kinds of functions, and making sure we understand what parameters / arguments are, and what it means for a function to return something.

@@ -22,11 +22,15 @@ draft: 0
 <img class="creature" src="/fall2022/assets/images/homework/hw03/creature.png" /> In this assignment, you are going to write a program to draw a creature of your own choosing using p5.js. At the end of this assignment, someone should be able to use your function to draw your creature: anywhere on the screen at any size or color. In other words, your function needs to honor the parameters that are passed into it. If you don't quite know what this means (this can be a very confusing concept for people just learning to program), ask Sarah during class or come to tuturing / office hours.
 
 ## Part 1: Design your creature
-On paper, sketch out some VERY SIMPLE creature ideas (shoot for using between 4-8 shapes). You can just draw the head of your creature (similar to the bear at the top) or the whole thing — the choice is up to you. Here are some links to ideas:
+On paper, sketch out some VERY SIMPLE creature ideas (shoot for using between 4-8 shapes). You can just draw the head of your creature (similar to the bear at the top) or the whole thing — the choice is up to you. Here are some links to ideas...
 
 * <a href="https://www.youtube.com/watch?v=yh_A09CrT68" target="_blank">https://www.youtube.com/watch?v=yh_A09CrT68</a> (this one is pretty sophisticated, but interesting!)
 * <a href="circle drawing monsters" target="_blank">https://www.youtube.com/watch?v=dhiy00COsWQ/</a>
 * <a href="https://goo.gl/hKewyL" target="_blank">https://goo.gl/hKewyL</a>
+
+...and here are some creatures made by past students of this course...
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRft8S7UE1kVxbNvkXTSWcGi4C8kKdSKMomLJffJX_FR2I6KcwNZe_yrOg15A3E-40aTZcH-XEiLYAu/embed?start=true&loop=false&delayms=3000" frameborder="0" width="580" height="366" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 When you've settled on your idea, draw your creature again — ideally using graph / lined paper — and label the points that will help you to program your creature. For instance: 
 * If you're making rectangles, p5.js needs to know the top left coordinate, the width, and the height. 

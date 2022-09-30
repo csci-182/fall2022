@@ -16,7 +16,10 @@ readings:
     - url: https://www.digitalocean.com/community/tutorials/understanding-template-literals-in-javascript
       title: "Understanding Template Literals in JavaScript"
       source: "Digital Ocean"
-
+videos:
+   - url: https://drive.google.com/file/d/1kJZW7v81ioQzoXDwG7jGSP6GVeb1VkvK/view?usp=sharing
+     title: Creating your own functions
+     live: 1
 ---
 
 Today we will be going over the rules of functions in more detail, and learning about some different techniques for creating functions.
