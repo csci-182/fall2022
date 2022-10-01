@@ -9,6 +9,25 @@ num: 7
 due_date: 2022-09-30
 ---
 
+<style>
+    blockquote.update {
+        margin-top: 0;
+        background-color: rgba(198, 236, 174, 0.5);
+        border-color: rgb(148, 201, 169);
+    }
+    blockquote.update h2 {
+        border-color: rgb(148, 201, 169);
+    }
+    blockquote.update a:hover {
+        background-color: transparent;
+    }
+</style>
+
+{:.update}
+> ## Solutions & Video Walkthrough
+> * [Solutions](/fall2022/course-files/tutorials/tutorial07_answers.zip)
+> * <a href="https://drive.google.com/file/d/1l0D-_S1C3l37LHR0SVbH3QYMhZ4sl8Ft/view?usp=sharing" target="_blank">Video Walkthrough</a>
+
 
 <a href="/fall2022/course-files/tutorials/tutorial07.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
 
