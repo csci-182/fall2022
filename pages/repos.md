@@ -25,7 +25,7 @@ Student repositories for Section 1:
 | 13 | Isa Satake | [repo](https://github.com/isatake7/csci185-coursework) &bull; [website](https://isatake7.github.io/csci185-coursework) |
 | 14 | Rory Trentham | [repo](https://github.com/rorytren/csci185) &bull; [website](https://rorytren.github.io/csci185/) |
 | 15 | Tess Walker | [repo](https://github.com/tess-walker) &bull; [website](https://tess-walker.github.io/csci185-coursework/) |
-| 16 | Julia Wills | [repo](https://github.com/julia190/csci185-coursework) &bull; [website](https://julia190.github.io/csci185-coursework) |
+| 16 | Julia Wills | [repo](https://github.com/julia190/csci185-coursework) &bull; [website](https://julia190.github.io/csci185-coursework/Index.html) |
 
 ## Section 2 (3:30-4:45PM)
 Student repositories for Section 2:
