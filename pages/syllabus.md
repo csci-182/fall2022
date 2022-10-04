@@ -14,6 +14,20 @@ notes: "Students may receive credit for ONLY ONE of the following courses: CSCI 
 # include_schedule: 1
 ---
 
+<style>
+    blockquote.update {
+        margin-top: 0;
+        background-color: rgba(198, 236, 174, 0.5);
+        border-color: rgb(148, 201, 169);
+    }
+    blockquote.update h2 {
+        border-color: rgb(148, 201, 169);
+    }
+    blockquote.update a:hover {
+        background-color: transparent;
+    }
+</style>
+
 ## About the Course
 CSCI 185 is an introduction to web design and web development, and assumes no prior knowledge. In this course, you will gain experience with some of the skills and strategies of modern web design and development, including:
 
@@ -125,15 +139,18 @@ an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Some other logistics:
 >
 > Use this leniency wisely. In other words, skipping Quiz 1 and Tutorials 1-4 is an ill-advised approach. I will not grant additional exceptions unless the circumstances are exceptional, and this will need to be done in coordination with Dean of Student's office.
 
-### Homework Grading
-Homework will be due approximately every other week at 11:59pm on the specified date. Homework will be graded according to a published rubric that will be given when the assignment is released. Each day that your homework is late, 10% of the possible total points will be deducted. Work submitted after 4 days will earn a maximum of half credit.
-
-{:.small}
-| 0-1 day | 10% penalty |
-| 1-2 days | 20% penalty |
-| 2-3 days | 30% penalty |
-| 3-4 days | 20% penalty |
-| 4 or more days | 50% penalty |
+{:.update}
+> ### Homework & Project Grading (Updated)
+> Homework will be due approximately every other week at 11:59pm on the specified date. Homework will be graded according to a published rubric that will be given when the assignment is released. 
+> 
+> #### Late Policy
+> Homework and project assignments must be submitted before the due time, otherwise you will receive a 20% late penalty. 
+> 
+> #### Resubmission Policy
+> If you did not successfully complete the objectives of the homework / project, you may correct your errors and resubmit. However, your grade will be penalized 10% with each subsequent attempt. 
+> Some example scenarios:
+> * **Scenario 1:** I earn 60% on my homework assignment and decide to resubmit. I earn a 90% on my second attempt. My final HW score is an 80%.
+> * **Scenario 2:** I earn an 80% on HW1 but turn it in late (so 20% late penalty applied = 60%). I decide to resubmit and earn an 100% on my second attempt. But, 20% penalty + 10% resubmit penalty applied, so I earn a 70%.
 
 ### Tutorial Grading
 Attendance is **mandatory** at all tutorial sessions. Tutorials will be graded pass / fail. You will earn a passing grade if all of the following conditions are met.
@@ -147,6 +164,7 @@ Tutorials are due by 11:59PM on Friday (but I recommend that you just submit the
 
 ### Project Grading
 Projects are each worth 30 points, and a rubric will be published to communicate how you will be evaluated. The second project will be broken up into a series of deliverables that will be due throughout the second half of the semester.
+* Same late / resubmission policy as homework (see above).
 
 ### Regrading Policy
 I have been known to make the occasional grading error. If you have any grading questions/concerns, please email me within a week to resolve the issue.
@@ -167,8 +185,8 @@ I have been known to make the occasional grading error. If you have any grading 
 ### Academic Honesty
 In the past, there have been a few unfortunate instances in which students have presented work other than their own. Here are some guidelines to help you understand what is and is not appropriate"
 
-#### Labs
-Helping other students with their in-class lab code is allowed and encouraged, but each student should type their own solution. 
+#### Tutorials
+Helping other students with their in-class tutorial code is allowed and encouraged, but each student should type their own solution. 
 
 #### Homework and Project Work
 You are allowed and encouraged to discuss general approaches to solving problems, but all work you submit must be your own. Working “together” and presenting variants of the same file is not acceptable. Here are some specific guidelines to make sure you don’t cross the line:
