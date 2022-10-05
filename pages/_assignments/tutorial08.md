@@ -14,7 +14,7 @@ due_date: 2022-10-07
     Tutorial Starter Files <i class="fas fa-download"></i>
 </a> 
 
-The goal of this tutorial is to get you comfortable with if/else statements and while loops. Both of these types of statements are very powerful, so getting comfortable with them is essential (and will help you with HW4 (forthcoming).
+The goal of this tutorial is to get you comfortable with if/else statements and while loops. Both of these types of statements are very powerful. HW4 (forthcoming) will be based on ideas from this tutorial.
 
 ## Part 1: Number Guessing Game
 Open the `number-game` folder and write a program that implements a number guessing game. **The game already does the following**:
