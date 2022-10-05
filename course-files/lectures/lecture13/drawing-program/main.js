@@ -11,4 +11,3 @@ document.querySelector('svg').insertAdjacentHTML("beforeend", triangle);
  * draw the shape the corresponds with the controls 
  * in the left-hand panel.
  */
-

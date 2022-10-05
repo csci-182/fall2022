@@ -28,7 +28,7 @@ const makeShapeWhenDrag = (ev) => {
 };
 
 
-
+// adding event handlers:
 document.querySelector('svg').onclick = makeShape;
 document.querySelector('svg').onmousedown = (ev) => {
     isDragging = true;
