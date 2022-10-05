@@ -6,13 +6,16 @@ abbreviation: Tutorial 8
 draft: 0
 points: 4
 num: 8
-due_date: 2022-10-07
+due_date: 2022-10-10
     
 ---
 
 <a class="nu-button" href="/fall2022/course-files/tutorials/tutorial08.zip" target="_blank">
     Tutorial Starter Files <i class="fas fa-download"></i>
 </a> 
+
+> ## Due Monday at Midnight
+> We will begin working on this Tutorial in class on Friday. But, we may also work on it on Monday, and so it is due at midnight on Monday, 10/10.
 
 The goal of this tutorial is to get you comfortable with if/else statements and while loops. Both of these types of statements are very powerful. HW4 (forthcoming) will be based on ideas from this tutorial.
 

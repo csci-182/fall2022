@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: "Practice with Functions: Make a Creature"
 abbreviation: HW3
 type: homework
-due_date: 2022-10-05
+due_date: 2022-10-07
 ordering: 3
 points: 16
 draft: 0
