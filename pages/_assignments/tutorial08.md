@@ -19,6 +19,9 @@ due_date: 2022-10-10
 
 The goal of this tutorial is to get you comfortable with if/else statements and while loops. Both of these types of statements are very powerful. HW4 (forthcoming) will be based on ideas from this tutorial.
 
+## Introductory Slides
+* <a href="https://docs.google.com/presentation/d/1jEPGK2D80sn0hrLKi6V8Xwa560PR57aUeBRb488eOOw/edit?usp=sharing" target="_blank">Intro Slides / Exercises</a>
+
 ## Part 1: Number Guessing Game
 Open the `number-game` folder and write a program that implements a number guessing game. **The game already does the following**:
 
