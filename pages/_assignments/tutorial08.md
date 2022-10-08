@@ -10,6 +10,30 @@ due_date: 2022-10-10
     
 ---
 
+<style>
+    blockquote.update {
+        margin-top: 0;
+        background-color: rgba(198, 236, 174, 0.5);
+        border-color: rgb(148, 201, 169);
+    }
+    blockquote.update h2 {
+        border-color: rgb(148, 201, 169);
+    }
+    blockquote.update a:hover {
+        background-color: transparent;
+    }
+</style>
+
+{:.update}
+> ## In-Class Videos & Walkthrough
+> ### Friday
+> * <a href="https://drive.google.com/file/d/1mPOSJocsS15Ij1ePMDG8ZcSHqLgXAsvV/view?usp=sharing" target="_blank">Section 1</a> (12:30-1:45PM)
+> * <a href="https://drive.google.com/file/d/1mbDgtI1ww2VOT66wjoyQWTdRuMqU4v9D/view?usp=sharing" target="_blank">Section 2</a> (3:30-4:45PM)
+>
+> ### Monday
+> Will post after Monday's class.
+
+
 <a class="nu-button" href="/fall2022/course-files/tutorials/tutorial08.zip" target="_blank">
     Tutorial Starter Files <i class="fas fa-download"></i>
 </a> 

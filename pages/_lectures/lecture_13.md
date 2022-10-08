@@ -13,6 +13,11 @@ readings:
     - url: https://www.digitalocean.com/community/tutorials/how-to-write-conditional-statements-in-javascript
       title: "How To Write Conditional Statements in JavaScript"
       source: "Digital Ocean"
+videos:
+   - url: https://drive.google.com/file/d/10szxU5z7fIXNz5DFEeR3_7XAbCnEurmG/view?usp=sharing
+     title: Intro to Conditionals
+     live: 1
+     duration: "1:10:37"
 ---
 
 <img class="module-image" src="/fall2022/assets/images/lectures/fork.jpg" /> In this lesson, we're going to go over conditional logic, which will allow you to write programs that have different outcomes depending on the data, events, and/or user interactions that take place as your program executes. This is often referred to as your program's "state." Specifically, we'll cover: (a) if, if / else, if / else if /else statements, (b) comparison operators, and (c) scenarios where you might want to use conditional statements.
