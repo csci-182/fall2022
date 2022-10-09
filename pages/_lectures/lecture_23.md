@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Social & Ethical Issues
+title: "Practice working with REST APIs: Spotify"
 type: lecture
 draft: 1
 num: 23

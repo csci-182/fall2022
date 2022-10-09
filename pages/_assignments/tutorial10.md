@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: Event handlers with p5.js
+title: Practice for Quiz 2
 type: tutorial
 abbreviation: Tutorial 10
 draft: 1

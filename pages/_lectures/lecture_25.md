@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Course Synthesis
+title: Student Presentations
 type: lecture
 draft: 1
 num: 25

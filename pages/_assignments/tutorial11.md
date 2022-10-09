@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: Build a photo gallery
+title: "In-class work: Project 1 Q&A"
 type: tutorial
 abbreviation: Tutorial 11
 draft: 1

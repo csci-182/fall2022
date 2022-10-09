@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Practice working with REST APIs: Yelp"
+title: "Intro to the fetch API"
 type: lecture
 draft: 1
 num: 21
