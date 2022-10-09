@@ -46,15 +46,7 @@ img.creature {
     float: left;
     margin: 0px 10px 0px 0px;
 }
-img.cars {
-    float: right;
-    max-width: 40%;
-    margin: 0px 0px 0px 10px;
-    border-top: solid 1px #ccc;
-    border-left: solid 1px #ccc;
-    border-right: solid 1px #ccc;
-    border-radius: 5px;
-}
+
 .module-image {
     border-radius: 5px;
     padding: 5px;
@@ -119,11 +111,7 @@ ol.compact, ul.compact {
     img.small, img.medium, img.med-lg {
         max-width: 100%;
     }
-    img.module-image, img.creature, .img.cars {
+    img.module-image, img.creature {
         max-width: 40%;
-    }
-    img.cars {
-        max-width: 100%;
-        float: inherit;
     }
 }
