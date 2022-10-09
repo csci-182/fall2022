@@ -1,10 +1,10 @@
 ---
 layout: module
-title: "Intro to REST APIs"
+title: "Intro to the fetch API"
 type: lecture
 draft: 1
 num: 19
-due_date: 2022-10-31
+due_date: 2022-11-02
 ---
 
 TBD

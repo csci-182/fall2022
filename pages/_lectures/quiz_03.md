@@ -1,10 +1,10 @@
 ---
 layout: module
-title: "Quiz: Working with data & templates using JavaScript"
+title: "Quiz: All course content"
 type: quiz
 draft: 1
 num: 3
-due_date: 2023-10-19
+due_date: 2022-12-02
 ---
 
-TBD
+Due at the end of the regularly scheduled final exam.

@@ -1,11 +1,10 @@
 ---
 layout: module
-title: "Practice working with REST APIs: Spotify"
+title: Dynamic Event Handlers
 type: lecture
 draft: 1
 num: 23
-due_date: 2022-11-14
-
+due_date: 2022-11-21
 ---
 
-TBD
+Dynamic Event Handlers

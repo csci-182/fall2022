@@ -102,6 +102,7 @@ Practice creating the following shapes using a while loop. The first two shapes 
 ## What to turn in 
 To submit Tutorial 8, please paste the following links into the Moodle under the Tutorial 8 submission section:
 
-1. A link to your **homepage** on GitHub pages, which should link to the drawing you made in tutorial 8 (tutorials/tutorial07/index.html). See <a href="https://vanwars.github.io/csci185-coursework" target="_blank">Sarah's Homepage</a> for an example.
-    * Note that your homepage should also link to previous tutorials and homework you have done.
+1. A link to your **homepage** on GitHub pages, which should link to:
+    1. The number guessing game
+    2. The circle drawings
 2. A link to your GitHub **code repository** (where your code files are stored).
