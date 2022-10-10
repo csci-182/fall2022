@@ -31,7 +31,9 @@ due_date: 2022-10-10
 > * <a href="https://drive.google.com/file/d/1mbDgtI1ww2VOT66wjoyQWTdRuMqU4v9D/view?usp=sharing" target="_blank">Section 2</a> (3:30-4:45PM)
 >
 > ### Monday
-> Will post after Monday's class.
+> * <a href="https://docs.google.com/presentation/d/1KcgHgemtRKN1Vv-d_77gxkH5AmQinQ6KryhYldwrdNI/edit?usp=sharing" target="_blank">Slides for 10/10</a>
+> * Video will be posted after class
+> * Solutions will be posted after the due date
 
 
 <a class="nu-button" href="/fall2022/course-files/tutorials/tutorial08.zip" target="_blank">
