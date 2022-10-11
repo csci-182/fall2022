@@ -27,13 +27,14 @@ due_date: 2022-10-10
 {:.update}
 > ## In-Class Videos & Walkthrough
 > ### Friday
-> * <a href="https://drive.google.com/file/d/1mPOSJocsS15Ij1ePMDG8ZcSHqLgXAsvV/view?usp=sharing" target="_blank">Section 1</a> (12:30-1:45PM)
-> * <a href="https://drive.google.com/file/d/1mbDgtI1ww2VOT66wjoyQWTdRuMqU4v9D/view?usp=sharing" target="_blank">Section 2</a> (3:30-4:45PM)
+* <a href="https://docs.google.com/presentation/d/1jEPGK2D80sn0hrLKi6V8Xwa560PR57aUeBRb488eOOw/edit?usp=sharing" target="_blank">Slides for 10/7</a>
+> * <a href="https://drive.google.com/file/d/1mPOSJocsS15Ij1ePMDG8ZcSHqLgXAsvV/view?usp=sharing" target="_blank">Recording Section 1</a> (12:30-1:45PM)
+> * <a href="https://drive.google.com/file/d/1mbDgtI1ww2VOT66wjoyQWTdRuMqU4v9D/view?usp=sharing" target="_blank">Recording Section 2</a> (3:30-4:45PM)
 >
 > ### Monday
 > * <a href="https://docs.google.com/presentation/d/1KcgHgemtRKN1Vv-d_77gxkH5AmQinQ6KryhYldwrdNI/edit?usp=sharing" target="_blank">Slides for 10/10</a>
-> * Video will be posted after class
-> * Solutions will be posted after the due date
+> * <a href="https://drive.google.com/file/d/1kopIRKwQwE9wz4wzBlqZFOh0thdsTKK4/view?usp=sharing" target="_blank">Recording Section 1</a> (12:30-1:45PM)
+> * <a href="https://drive.google.com/file/d/15QyJ7oUP00M4j4bCm7oxFvX8d_9MKXEL/view?usp=sharing" target="_blank">Recording Section 2</a> (3:30-4:45PM)
 
 
 <a class="nu-button" href="/fall2022/course-files/tutorials/tutorial08.zip" target="_blank">
@@ -44,9 +45,6 @@ due_date: 2022-10-10
 > We will begin working on this Tutorial in class on Friday. But, we may also work on it on Monday, and so it is due at midnight on Monday, 10/10.
 
 The goal of this tutorial is to get you comfortable with if/else statements and while loops. Both of these types of statements are very powerful. HW4 (forthcoming) will be based on ideas from this tutorial.
-
-## Introductory Slides
-* <a href="https://docs.google.com/presentation/d/1jEPGK2D80sn0hrLKi6V8Xwa560PR57aUeBRb488eOOw/edit?usp=sharing" target="_blank">Intro Slides / Exercises</a>
 
 ## Part 1: Number Guessing Game
 Open the `number-game` folder and write a program that implements a number guessing game. **The game already does the following**:
