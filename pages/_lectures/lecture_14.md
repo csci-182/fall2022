@@ -5,6 +5,10 @@ type: lecture
 draft: 0
 num: 14
 due_date: 2022-10-12
+exercise_url: "lecture14.zip"
+slides: 
+    - url: https://docs.google.com/presentation/d/1Fo4XfmHMKHcqM8irH4bQIu0SP3681IUaU5PeOz-j4Wo/edit?usp=sharing
+      title: "While Loops & Lists"
 readings: 
     - url: https://www.digitalocean.com/community/tutorials/using-while-loops-and-do-while-loops-in-javascript
       title: "Using While Loops and Do...While Loops in JavaScript"
