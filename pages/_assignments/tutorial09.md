@@ -16,6 +16,8 @@ due_date: 2022-10-14
 
 <img class="module-image" src="/fall2022/assets/images/tutorials/tutorial09/heart.png" />In this tutorial, you are going to design a customizable function that creates an image of **any** pixel art that can be represented as rows and columns of integers. The data structure that we will use to store these rows and columns of integers will be a "list of list" (see below). The purpose of this exercise is to help you feel a little bit more comfortable with list, iteration, and functions. In addition to pixel art, many different kinds of entities can also be expressed using similar data formats (JPEG images, songs, DNA sequences, whatever).
 
+* <a href="https://docs.google.com/presentation/d/1eeo5pdP1l1gP_UyzfaMfWSO8visTGLXw-XgNwW08srU/edit?usp=sharing" target="_blank">Introductory Slides</a>
+
 ## Introduction: New Data Representations
 Below are two examples of two "list of lists" that represent pixel art specifications. Note that "Frank" is made up of 11 rows and 9 columns, and the heart is 14 rows and 19 columns. Each number in the list of lists represents a distinct color. 0 indicates that no color should be used (an empty pixel), but you get to pick which colors to use to represent 1, 2, and 3.
 
