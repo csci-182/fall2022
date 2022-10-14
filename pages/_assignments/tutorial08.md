@@ -39,7 +39,7 @@ due_date: 2022-10-10
 
 <a class="nu-button" href="/fall2022/course-files/tutorials/tutorial08.zip" target="_blank">
     Tutorial Starter Files <i class="fas fa-download"></i>
-</a> 
+</a> <a href="/fall2022/course-files/tutorials/tutorial08_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a>
 
 > ## Due Monday at Midnight
 > We will begin working on this Tutorial in class on Friday. But, we may also work on it on Monday, and so it is due at midnight on Monday, 10/10.

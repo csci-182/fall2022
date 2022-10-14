@@ -16,6 +16,15 @@ readings:
     - url: https://www.digitalocean.com/community/tutorials/for-loops-for-of-loops-and-for-in-loops-in-javascript
       title: "For Loops, For...Of Loops and For...In Loops in JavaScript"
       source: "Digital Ocean"
+videos: 
+    - url: https://drive.google.com/file/d/1aQ7a6Gk-XlwJZYAzH5Yf9Gc9h1c16UBo/view?usp=sharing
+      title: "Intro to Loops (12:30-1:45PM)"
+      live: 1
+      duration: "1:08:30"
+    - url: https://drive.google.com/file/d/1UyF5Cgp_idpCRCG6YWeebTDJIBL2hVjZ/view?usp=sharing
+      title: "Intro to Loops (3:30-4:45PM)"
+      live: 1
+      duration: "1:18:53"
       
 ---
 
