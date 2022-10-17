@@ -1,10 +1,10 @@
 ---
 layout: module
-title: JavaScript review (for Quiz 2)
+title: Finishing up loops and their applications
 type: lecture
-draft: 1
+draft: 0
 num: 16
 due_date: 2022-10-19
 ---
 
-TBD
+Today we will be practicing additional applications of loops.

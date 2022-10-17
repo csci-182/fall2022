@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: Practice for Quiz 2
+title: More Loop Exercise + Intro to Event Handlers
 type: tutorial
 abbreviation: Tutorial 10
 draft: 1
