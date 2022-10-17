@@ -11,4 +11,4 @@ slides:
 exercise_url: "lecture15.zip"
 ---
 
-TBD
+Today, we're going to keep exploring applications of loops that relate to HW4.
