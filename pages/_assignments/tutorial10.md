@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: More Loop Exercise + Intro to Event Handlers
+title: More Loop Exercises + Intro to Event Handlers
 type: tutorial
 abbreviation: Tutorial 10
 draft: 1
