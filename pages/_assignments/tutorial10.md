@@ -23,13 +23,14 @@ For this assignment, you are welcome to work in pairs. However, if you work toge
     * If you haven't submitted your HW3, use the `drawFace` function from the [Tutorial 7 solutions](/fall2022/course-files/tutorials/tutorial07_answers.zip), and rename it to `drawCreature`.
 1. Select one of the interactions from the demo file.
 1. Use your imagination and think about how you might incorporate apply one of these interactions to your creature. Then, make it happen. Some ideas:
-    * Add a click event that allows you to create new creatures whereever you click.
+    * Add a click event that allows you to create new creatures wherever you click.
+        * And see if you can animate the creatures that are added to your scene.
     * Have your creature shoot pellets out of its mouth.
     * Animate your creature so that it sways back and forth.
-    * Make your creature periodically change color.
+    * Make your creature periodically change colors.
     * Integrate images into your scene to complement your creature.
+    * Try to detect whether two objects collide. If they do, make something interesting happen.
     {:.compact}
-
 
 ## What to turn in (same deal as always)
 To submit the creature interaction / scene that you made in Tutorial 10, please paste the following links into the Moodle under the Tutorial 9 submission section:
