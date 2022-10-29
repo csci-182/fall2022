@@ -221,13 +221,13 @@ blockquote.quote {
 
     p:before {
         content: '“';
-        color: $lightgrey;
-        font-size: 2em;
+        color: $br1;
+        font-size: 3em;
         line-height: 0.1em;
         margin-right: 0.1em;
         vertical-align: -0.4em;
-  font-family: 'Montserrat', sans-serif;
-        vertical-align: middle;
+  font-family: 'Times New Roman', sans-serif;
+        vertical-align: text-bottom;
     }
     &.slim {
         border-left: solid 10px #EEE;

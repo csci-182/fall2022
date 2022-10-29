@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: Project proposal presentations
+title: Practice Quiz
 type: tutorial
 abbreviation: Tutorial 12
 draft: 1
