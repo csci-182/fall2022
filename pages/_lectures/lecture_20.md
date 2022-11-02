@@ -6,6 +6,9 @@ draft: 0
 num: 20
 due_date: 2022-11-02
 include_page: "extras/fetch.md"
+slides:
+   - url: https://docs.google.com/presentation/d/1qn53cUmFF-4dGtsbfHCheyyzwhM1y_BN1WLYu0tmqx0/edit?usp=sharing
+     title: Intro to fetch
 readings:
    - url: https://www.codeinwp.com/blog/fetch-api-tutorial-for-beginners/
      title: "Fetch API Tutorial for Beginners: How to Use Fetch API"

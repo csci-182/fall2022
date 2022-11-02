@@ -10,13 +10,19 @@ Consider the following example, which fetches a JSON file from across the networ
 ```js
 const addressOfData = 'https://www.apitutor.org/flickr/simple/?tags=cat'
 
-fetch(addressOfData)
-    .then((response) => {
-        return response.json();
-    })
-    .then((myJson) => {
-        console.log(myJson);
-    });
+// function definition to fetch:
+async function fetchData() {
+    data = await fetch(addressOfData).then(response => response.json());
+    displayData(data);
+} 
+
+// function definition to display results:
+function displayData(data) {
+    console.log(data);
+}
+
+// invoke the fetch to initiate the process:
+fetchData();
 ```
 
 {:.quote}
