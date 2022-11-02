@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: Project Progress / feedback session
+title: Spotify Activity
 type: tutorial
 abbreviation: Tutorial 14
 draft: 1

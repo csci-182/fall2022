@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: Spotify Activity
+title: Project Proposal Workshop
 type: tutorial
 abbreviation: Tutorial 13
 draft: 1

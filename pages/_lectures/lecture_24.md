@@ -1,10 +1,10 @@
 ---
 layout: module
-title: Social & Ethical Issues
+title: "Practice working with REST APIs: Spotify  (Cont'd)"
 type: lecture
 draft: 1
-num: 23
-due_date: 2022-11-16
+num: 24
+due_date: 2022-11-21
 ---
 
-TBD
+Spotify

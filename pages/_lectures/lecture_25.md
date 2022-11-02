@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Student Presentations
+title: Social & Ethical Issues
 type: lecture
 draft: 1
 num: 25

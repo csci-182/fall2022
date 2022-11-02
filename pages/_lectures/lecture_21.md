@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Practice working with REST APIs: Yelp"
+title: Quiz 2 Review Session & Project Proposal Workshop
 type: lecture
 draft: 1
 num: 21

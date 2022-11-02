@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Practice working with REST APIs: Spotify"
+title: "Practice working with REST APIs: Yelp"
 type: lecture
 draft: 1
 num: 22
