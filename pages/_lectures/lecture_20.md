@@ -32,9 +32,9 @@ code:
    - url: https://github.com/vanwars/csci185-coursework/blob/master/lectures/lecture19_section1/main.js
      title: "Section 1"
      notes: "(12:30-1:45PM)"
-#    - url: https://github.com/vanwars/csci185-coursework/blob/master/lectures/lecture19_section1/main.js
-#      title: "Section 2"
-#      notes: "(3:30-4:45PM)"
+   - url: https://github.com/vanwars/csci185-coursework/blob/master/lectures/lecture19_section2/main.js
+     title: "Section 2"
+     notes: "(3:30-4:45PM)"
     
 ---
 
