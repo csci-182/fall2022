@@ -19,6 +19,23 @@ readings:
      title: "Using Fetch"
      source: Mozilla Developer Network
      notes: For your reference.
+videos:
+   - url: https://drive.google.com/file/d/1qsmoVQcZXBr2TUuWhAMyfcIjEmGhzAiB/view?usp=sharing
+     title: "Course API Practice: Section 1 (12:30-1:45PM)"
+     duration: "1:09:48"
+     live: 1
+#    - url: ""
+#      title: "Course API Practice: Section 2 (3:30-4:45PM)"
+#      duration: "1:09:48"
+#      live: 1
+code:
+   - url: https://github.com/vanwars/csci185-coursework/blob/master/lectures/lecture19_section1/main.js
+     title: "Section 1"
+     notes: "(12:30-1:45PM)"
+#    - url: https://github.com/vanwars/csci185-coursework/blob/master/lectures/lecture19_section1/main.js
+#      title: "Section 2"
+#      notes: "(3:30-4:45PM)"
+    
 ---
 
 Today, we are going to be learning about JavaScript’s fetch API, and how to use it to retrieve data from various content providers (i.e. servers). 
