@@ -17,7 +17,7 @@ The intent of this tutorial is to give you a sense of what Quiz 2 will cover and
 
 A few notes:
 * You are strongly encouraged to start working on this tutorial before Friday, to get the most out of it.
-* To get credit for this tutorial, you must successfully complete at least half of the exercises below.
+* To get credit for this tutorial, you must successfully complete **at least half of the exercises below**.
 * Please download the starter files and save them in your `csci185/tutorials` folder:
 
 <a href="/fall2022/course-files/tutorials/tutorial12.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a> 
@@ -61,3 +61,6 @@ Open the `exercise03` folder. Inside of `main.js`, write a program, using any ki
 Open the `exercise04` folder. Inside of `main.js`, write a program, using any kind of loop you want, to output only the names of **pizza restaurants** to the `<main id="output"></main>` tag of the `index.html` file. You will have to filter your list by the `category` property of each restaurant. If you are successful, your screen should look like this:
 
 <img class="small" src="/fall2022/assets/images/tutorials/tutorial12/exercise04.png" />
+
+## What to Submit
+Please commit and push your changes. Then, paste a link to your code repository (e.g., [https://github.com/vanwars/csci185-coursework](https://github.com/vanwars/csci185-coursework)) to the course Moodle under **Tutorial 12**.

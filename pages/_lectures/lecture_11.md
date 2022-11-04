@@ -16,6 +16,10 @@ readings:
     - url: https://www.digitalocean.com/community/tutorials/understanding-template-literals-in-javascript
       title: "Understanding Template Literals in JavaScript"
       source: "Digital Ocean"
+    - url: https://dmitripavlutin.com/differences-between-arrow-and-regular-functions/
+      title: "5 Differences Between Arrow and Regular Functions"
+      optional: 1
+      notes: "These distinctions aren't relevant for the purposes of this class."
 videos:
    - url: https://drive.google.com/file/d/1kJZW7v81ioQzoXDwG7jGSP6GVeb1VkvK/view?usp=sharing
      title: Creating your own functions
