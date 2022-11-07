@@ -3,9 +3,23 @@ layout: assignment-two-column
 title: Project Proposal Workshop
 type: tutorial
 abbreviation: Tutorial 13
-draft: 1
+draft: 0
 points: 4
 num: 13
 due_date: 2022-11-11
 ---
-TBD
+
+Today's tutorial will be graded **based on attendance,** and is designed to get you thinking about what you want to design and build for your final project. 
+
+## Agenda
+Here's the agenda:
+
+1. Brief discussion / Q&A session on how to think about scoping your project.
+2. Tour of the tools you might use.
+3. 10-15 minutes for you to sit down, fill out the worksheet, and brainstorm:
+    * What you want to make and,
+    * How you want to approach your project.
+4. Group share-outs
+
+## What to Submit
+This tutorial is based on attendance and particiption. That said, the project proposal is due on the same day (Friday, 11/11 at 11:59PM). So, by the end of this Tutorial, you will have submitted your [project proposal worksheet](p2a) to Moodle.
