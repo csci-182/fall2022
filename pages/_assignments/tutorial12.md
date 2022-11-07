@@ -9,6 +9,10 @@ num: 12
 due_date: 2022-11-04
 ---
 
+> ## Videos from Class
+> * [Section 1](https://drive.google.com/file/d/1Ct3B5Xeif0PtuUS2q08ljWJlCxnRf8Y7/view?usp=sharing) (12:30-1:45PM)
+> * [Section 2](https://drive.google.com/file/d/1OOPK51n6V8m1usgY7NQzjJfGMl5UUbe5/view?usp=sharing) (3:30-4:45PM)
+
 ## Introduction
 The intent of this tutorial is to give you a sense of what Quiz 2 will cover and the types of questions that will be on it. The quiz will consist of two parts: 
 

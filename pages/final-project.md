@@ -33,18 +33,15 @@ Aim to scope your project so that you can arrive at a coherent stopping point by
 
 ### A. Make a 2-3 Page Website
 Make a 2-3 page website. Some potential website ideas could include:
-1. Making a portfolio of your work (for job searches, etc.)
-1. Making a personal website (or a part of a website) on a topic of interest (music, art, current events)
+1. Making a portfolio of your work (for job searches, etc.).
+1. Making a personal website (or a part of a website) on a topic of interest (e.g., music, art, current events, advocacy websites).
 1. Helping an existing business / organization / initiative w/their website (or building one from scratch).
 1. Redesigning an existing website and making it better.
 
 If you choose this route, you may use an existing HTML Template, or any third-party libraries that interest you. We will go over some examples of these libraries and templates in class.
 
 ### B. Make an Animation
-You can also work with one or more JavaScript animation libraries to make an animation. This may include:
-1. Extending the animation you made in Project 1 using p5.js. This would require about 8-12 hours of additional work to add new functionality.
-2. Exploring another animation library like <a href="https://threejs.org/examples/" target="_blank">Three.js</a>. 
-3. Working with scrolling effects / <a href="https://webflow.com/blog/scrollytelling-guide" target="_blank">scrollytelling</a> libraries.
+You can also extend the animation you made in Project 1 using p5.js. This would require about 8-12 hours of additional work to add new functionality.
 
 ### C. Make a Web App that Uses an Existing Data API
 Creating some interactive web front end that works with a third-party API (e.g. Spotify, Yelp!, ART Bus System, Twitter, Flickr, NASA, etc.). For instance, this is a web app that interacts with the Spotify API (like <a href="https://gitriley.github.io/everlysn/" target="_blank">this one</a>).
