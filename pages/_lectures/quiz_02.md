@@ -108,5 +108,5 @@ Open the `exercise03` folder. Inside of `main.js`, write a program, using any ki
 ## What to Submit
 Please doublecheck to make sure you've completed the 3 tasks described above. When you're done:
 
-1. Zip your entire `quiz02` folder that contains a **COMPLETED** version of all 4 tasks. In other words, don't accidentally submit the starter files or you will not receive any credit for the quiz.
+1. Zip your entire `quiz02` folder that contains a **COMPLETED** version of the 3 tasks. In other words, don't accidentally submit the starter files or you will not receive any credit for the quiz.
 2. Upload the `quiz02.zip` you just made to the course Moodle under **Quiz 2.**
