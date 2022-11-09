@@ -8,76 +8,211 @@ due_date: 2022-11-30
 points: 16
 draft: 1
 ---
+
 <style>
-    .bash-small .highlighter-rouge {
-        width: 300px;
-        margin: auto;
-        margin-top: 10px;
+    img {
+        max-width: 700px;
+        max-height: 300px;
     }
 </style>
 
-<a class="nu-button" href="/fall2022/course-files/homework/hw05.zip" target="_blank">
-    Homework Starter Files <i class="fas fa-download"></i>
-</a> 
+## Background
+### Learning Objectives
+Homework 4 is designed to be a culmination of the JavaScript techniques we've been learning in class. You will be practicing the following:
+
+1. Manipulating the DOM
+2. Rendering HTML templates
+3. Building event handlers to respond to user events
+4. Leveraging data from external files using the fetch API
+
+### Starter Files & Samples
+Please begin by downloading the assignment files:
+
+<a class="nu-button" href="/spring2022/course-files/homework/hw05.zip">
+    download starter files 
+    <i class="fas fa-download"></i>
+</a>
+
+For this task, I have created the HTML and CSS for you. If you open **<a href="../course-files/homework/hw05/sample/index.html" target="_blank">sample/index.html</a>** in your web browser, you will see an example of how I want your final interface to look. However, int this sample, the data from BTS is **hardcoded** in the interface. I want you to make it so that music / media from ANY artist can be searched. That is, each of the HTML widgets below must be converted into templates that can bind to data from Spotify.
+
+### Assignment Rules / Guidelines
+1. You **may not use any external libraries** other than the audio-player.js file that I made for you.
+2. You can make as many helper functions as you want to complete the assignment.
+3. All server queries must be done using the **JavaScript fetch API**.
+4. You are welcome (even encouraged) to incorporate any code from the **sample** directory (or from any other lecture / lab files we've used in this class)
+5. We will be going over this homework in Tutorial 7 and in Lecture on 5/16, so come with questions.
 
 
-> **LEARNING OBJECTIVES:** 
-> 1. Practice working with loops
-> 1. Practice working with sequences
-> 1. Practice with logic
-> 1. Practice writing more complex programs
-
-In this assignment, you will be making a game of tic tac toe, where a player will be playing the computer (see video below). 
-<iframe src="https://northwestern.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=269492eb-30e6-4a0f-ba26-ac660037a06f&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" width="620" height="405" style="padding: 0px; border: 1px solid #464646;" frameborder="0" allowfullscreen="" allow="autoplay"></iframe>
+## Assignment Instructions
+To make the Spotify search/browse interface work, you will be editing files in the **<a href="../course-files/homework/hw05/your_task/index.html" target="_blank">your_task</a>** folder. Please complete the four tasks listed below, following the guidelines listed:
 
 
-<!-- <iframe src="https://northwestern.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=269492eb-30e6-4a0f-ba26-ac660037a06f&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe> -->
+### 1. Display Artist
+Implement the `getArtist` function. This function -- and any (optional) helper functions -- should:
 
+1. Query the Spotify search endpoint with the appropriate query parameters using the `fetch` function. Sample search query:
+  * <a target="_blank" href="https://www.apitutor.org/spotify/simple/v1/search?type=artist&q=BTS">https://www.apitutor.org/spotify/simple/v1/search?type=**artist**&q=BTS</a>
+2. Display the **first artist** that get returned (rather than displaying all of the artists, you will just display the first one).
+3. If no artists are returned for the search query, display a message that indicates that no artist has been returned.
+4. Render the artist card to look like the one shown in <a href="../course-files/homework/hw05/sample/index.html" target="_blank">sample/index.html</a>, using a templated version of the code shown below. Note that the values for `id` `src` `href` and `h2's inner HTML` should be rendered dynamically using live Spotify data.
 
-## Your Tasks
-Please write a program that accomplishes the following tasks:
-
-{:.bash-small}
-1. Ask the user whether they want to be x or o (and ensure your program honors their choice).
-1. Ask the user if they want to go first (and ensure your program honors their choice)
-Prompt the user for their move (they’ll enter a number from 1-9), which corresponds to where they want to go (as displayed below):
-```bash
-             7 | 8 | 9 
-            ———————————
-             4 | 5 | 6 
-            ——————————— 
-             1 | 2 | 3 
+```html
+<section class="artist-card" id="3Nrfpe0tUJi4K4DXYWgMUX">
+    <div>
+        <img src="https://i.scdn.co/image/0c9057cb30520f9f883a220051260fc66a2f3ffa">
+        <h2>BTS</h2>
+        <div class="footer">
+            <a href="https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX" target="_blank">
+                view on spotify
+            </a>
+        </div>
+    </div>
+</section>
 ```
 
-   * If the user does not enter a number from 1-9, tell them their entry was invalid and that they should try again (use try/except as well as if/else).
-   * If the user enters a valid number that is not empty, tell them that slot is already taken.
-1. If it’s the computer’s turn, have the computer randomly select a square, given the available choices (using the random module).
-1. After each move, be sure to redraw the game board
-1. If there is a win / loss / tie, print an appropriate message and terminate the game
+<img src="{{site.baseurl}}/assets/images/homework/hw05/artist_card.png" />
+
+  
+### 2. Display Tracks
+Implement the `getTracks` function. This function -- and any (optional) helper functions -- should:
+1. Query the Spotify search endpoint with the appropriate query parameters. Example:
+  * <a target="_blank" href="https://www.apitutor.org/spotify/simple/v1/search?type=track&q=BTS">https://www.apitutor.org/spotify/simple/v1/search?type=**track**&q=BTS</a>
+2. Display the **first five** tracks that gets returned (not all of them -- just the first five).
+3. If no tracks are returned for the search query, display a message like "No tracks found that match your search criteria."
+4. Ensure that your code still works if less than 5 tracks get returned.
+5. Render the tracks to look like the ones shown in **<a href="../course-files/homework/hw05/sample/index.html" target="_blank">sample/index.html</a>**, using a templated version of the code shown below (including the hover effects). Note that the values for `data-preview-track` `src` `h2's inner HTML` and `p's inner HTML` should be rendered dynamically using live Spotify data.
+
+```html
+<button class="track-item preview" data-preview-track="https://p.scdn.co/mp3-preview/879c7106422b0b53852209da6a63210be7e09b01?cid=9697a3a271d24deea38f8b7fbfa0e13c" onclick="handleTrackClick(event);">
+    <img src="https://i.scdn.co/image/1aacaefb0ef07755e5a155d96ee7f1073063e428">
+    <i class="fas play-track fa-play" aria-hidden="true"></i>
+    <div class="label">
+        <h2>Black Swan</h2>
+        <p>
+            BTS
+        </p>
+    </div>
+</button>
+```
+
+<img src="{{site.baseurl}}/assets/images/homework/hw05/tracks.png" />
 
 
-## Caveats
-There are many solutions on the Internet for this assignment. DO NOT USE THEM. We know what they are, and can tell if you copied all or parts of them. We want you to invent your own strategy, given what you have learned. Like all things, you will get out of this assignment what you put into it.
+### 3. Display Albums
+Implement the `getAlbums` function. This function -- and any (optional) helper functions -- should:
+1. Query the Spotify search endpoint with the appropriate query parameters. Example:
+  * <a target="_blank" href="https://www.apitutor.org/spotify/simple/v1/search?type=album&q=BTS">https://www.apitutor.org/spotify/simple/v1/search?type=**album**&q=BTS</a>
+2. Display all of the albums that get returned.
+3. If no albums are returned for the search query, display a message like "No albums were returned."
+4. Render the album cards to look like the ones shown in <a href="../course-files/homework/hw05/sample/index.html" target="_blank">sample/index.html</a>, using a templated version of the code shown below. Note that the values for `id` `src` `h2's inner HTML` and `href` should be rendered dynamically using live Spotify data.
 
-## Extra Credit Options (up to 2 points total)
-We highly recommend that you pursue these optional enhancements, to encourage you to think about one way (of many) that ‘artificial intelligence’ might work:
-1. Make your computer ‘smart’ so that the computer always selects the optimal move. To do this, consider how the computer could:
-  * (1 point) Always block the user from winning (when possible)
-  * (1 point) If the computer is about to win, make sure it selects the correct square!
-  * (1 points): Other enhancements (see strategy discussion): https://www.wikihow.com/Win-at-Tic-Tac-Toe 
-2. (1 point) Draw a line through the winning pattern on the game board.
+```html
+<section class="album-card" id="2lATw9ZAVp7ILQcOKPCPqp">
+    <div>
+        <img src="https://i.scdn.co/image/ab67616d0000b2736feb6d9ed7891f40e9a524dd">
+        <h2>Love Yourself 結 'Answer'</h2>
+        <div class="footer">
+            <a href="https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp" target="_blank">
+                view on spotify
+            </a>
+        </div>
+    </div>
+</section>
+```
 
-## Checklist Before You Submit
-Before you submit, make sure you’ve tested that your program does the following:
+<img src="{{site.baseurl}}/assets/images/homework/hw05/albums.png" />
+
+### 4. Connect Tracks to the Audio Player
+Add a click event handler to each of the tracks. When a track is clicked, your code will do the following:
+1. Update the track item preview (where id="current-track") in the page's footer.
+2. Update the audioPlayer object with the track's song preview URL: `audioPlayer.setAudioFile(previewUrl);`
+3. Play the song: `audioPlayer.play();`
+
+### 5. Accessibility
+1. Use the <a href="https://wave.webaim.org/extension/">WAVE Extension</a> to generate an accessibility report. 
+1. Correct as many accessibility errors as you can. 
+1. Take a screenshot of your final accessibility report (Sarah's report is shown below).
+1. Answer the following questions in a text file (Word, Notepad, or PDF are all fine):
+    * What corrections did you have to make, and how did you make them?
+    * Is this interface functional without the use of a mouse (i.e., just using keyboard keys)? Why or why not?
+    * What are other accessibility tests or features you added or would be interested in learning about?
+
+Hints: You'll need to modify the HTML file by adding `alt` text to images, `aria-label` attributes to buttons, etc.
+
+<img class="frame" style="width:100%;max-width:100%;max-height:100%;" src="{{site.baseurl}}/assets/images/homework/hw05/hw05-wave-ss.png">
+
+## Extra Credit
+The following enhancements can be completed for extra credit. Note: You may earn up to 5 points extra credit in this class.
 
 {:.checkbox-list}
-* Allows the user to select whether they want to be x or o
-* Allows the user to indicate whether or not they want to go first
-* Program honors the user’s selection (1-9) and places the symbol correctly 
-* If the user enters something other than 1-9, the program tells the user what they did wrong and re-prompts them 
-   * Note: consider using try/catch + continue (as we did in Lecture 19)
-* Computer move does not overwrite a slot that is already taken
-* User’s move does not overwrite a slot that is already taken
-* If the user and / or computer wins, the program ends and tells the user which player won
-* If there’s a tie, the program ends and displays a “tie” message
+* Add an event handler to the artist card so that when you click on it, the tracks in the #tracks section are replaced by the artist's top tracks **(1 point)**
+* Add an event handler to each album card so that when you click the album, the tracks in the #tracks section are replaced by the album's tracks **(1 point)**
+* Modify the track template so that if there is no audio preview available, you don't get the option to play the track. Note: to test, search for Billie Elish, who is not available on Spotify **(1 point)** <br><img style="height:120px;" src="{{site.baseurl}}/assets/images/homework/hw05/no_preview_available.png">
+* Figure out a way to hide the audio player unless the user has requested to listen to the track (by clicking on a track) **(1 point)**
+* Implement a way to play and pause a track by clicking on the track listing **(1 point)**
+* Integrate data from Twitter or YouTube, and render some stylized content below the albums **(1 point)**
 
+> ### Hint for the first two extra credit options
+> Whereas for the required parts of the assignment, I've used the "simplified" endpoint, for the extra credit, you'll have to use the "unsimplified" endpoints (which return the original data structure as opposed to the simplified version of it). This means that you will remove the word "simple" from the API Tutor endpoint. Examples below.
+>
+>
+> **Get tracks from album:**
+> * Spotify Documentation: <a target="_blank" href="https://developer.spotify.com/documentation/web-api/reference/albums/get-albums-tracks/">https://developer.spotify.com/documentation/web-api/reference/albums/get-albums-tracks/</a>
+> * How to do it w/Spotify API: <a target="_blank" href="https://api.spotify.com/v1/albums/{id}/tracks">https://api.spotify.com/v1/albums/{id}/tracks</a>
+> * How to do it with API Tutor: <a target="_blank" href="https://www.apitutor.org/spotify/v1/albums/{id}/tracks">https://www.apitutor.org/spotify/v1/albums/{id}/tracks</a>
+> * Example with BTS Album: <a target="_blank" href="https://www.apitutor.org/spotify/v1/albums/2lATw9ZAVp7ILQcOKPCPqp/tracks">https://www.apitutor.org/spotify/v1/albums/2lATw9ZAVp7ILQcOKPCPqp/tracks</a> 
+>
+> 
+> **Get artist's top songs**:
+> Weirdly, for this one you need to specify the "country" parameter (just use "us"):
+> * Spotify Documentation: <a target="_blank" href="https://developer.spotify.com/documentation/web-api/reference/artists/get-artists-top-tracks/">https://developer.spotify.com/documentation/web-api/reference/artists/get-artists-top-tracks/</a>
+* How to do it w/Spotify API: <a target="_blank" href="https://api.spotify.com/v1/artists/{id}/top-tracks">https://api.spotify.com/v1/artists/{id}/top-tracks</a> 
+> * How to do it with API Tutor: <a target="_blank" href="https://www.apitutor.org/spotify/v1/artists/{id}/top-tracks?country=us">https://www.apitutor.org/spotify/v1/artists/{id}/top-tracks?country=us</a> 
+> * Example with BTS Artist: <a target="_blank" href="https://www.apitutor.org/spotify/v1/artists/3Nrfpe0tUJi4K4DXYWgMUX/top-tracks?country=us">https://www.apitutor.org/spotify/v1/artists/3Nrfpe0tUJi4K4DXYWgMUX/top-tracks?country=us</a>
+
+
+## Rubric
+
+{:.checkbox-list}
+* Artist **(2 points)**
+   * Artist card implemented based on artist data returned by Spotify API
+   * Artist card looks like the one in the sample
+   * If no artists are returned, display a message that indicates that no tracks were found for the search criteria.
+* Tracks **(4 points)**
+   * 5 Tracks listed based on artist data returned by Spotify API
+   * If less than 5 tracks are returned, display only the tracks returned.
+   * If no tracks are returned, display a message that indicates that no tracks were found (given the search criteria).
+   * Track items look like the ones in the sample
+* Albums **(2 points)**
+   * Album cards implemented based on artist data returned by Spotify API
+   * Album cards looks like the ones in the sample
+* Tracks Event Handler **(2 points)**
+   * Audio loads / plays when user clicks on track
+   * Track preview updated in footer when user clicks a track
+* Accessibility Analysis with screenshot and writeup **(3 pts)**
+   * Screenshot of WAVE report included in submission
+   * Accessibility errors correct (added alt attributes, aria labels, etc.)
+   * Reflection questions answered
+* Overall guidelines followed **(2 points)**
+   * Used fetch API (no jQuery or other third-party libraries)
+   * Search works for any search term (and displays appropriate messages if no data is found)
+   * If no data is returned or if fewer items are returned than expected, a nice error message is displayed.
+
+## What to Turn In
+**Please Read Carefully:** Before you submit this week, please edit the homepage that you made in [Tutorial 3](tutorial03) by adding a link to the `index.html` file that you made for this homework. 
+
+To submit this week's homework assignment, please create and upload a zip file to Canvas (under the Homework 4 assignment) with the following files / info:
+
+1. A text file (word doc, pdf, etc.) that includes:
+    1. A link to your homepage, which should link to all of your assignments (including `hw05`).
+    1. A link to your GitHub repository (where your code files are stored).
+    1. The answers to your accessibility questions.
+2. A screenshot of your WAVE report.
+
+
+## [TBD] What to Submit
+**Please Read Carefully:** To submit Homework 5, please paste the following links into the Moodle under the Homework 4 submission section:
+
+1. A link to your **homepage** on GitHub pages, which should link to your Spotify interface
+2. A link to your GitHub **code repository** (where your code files are stored).
+3. Wave extension?

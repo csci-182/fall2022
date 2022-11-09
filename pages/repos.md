@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Student Repositories
-permalink: /repos/
+permalink: /repos-hidden/
 ---
 
 ## Section 1 (12:30-1:45PM)

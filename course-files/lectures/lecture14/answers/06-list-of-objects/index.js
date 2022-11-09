@@ -21,7 +21,7 @@ while (counter < people.length) {
     const template = `
         <div class="card">
             <div>
-                <img src="${people[counter].pic}">
+                <img src="${people[counter].pic}" />
                 <p>${people[counter].name} scored ${people[counter].score} points</p>
             </div>
         </div>
