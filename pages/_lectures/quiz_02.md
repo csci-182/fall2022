@@ -51,11 +51,12 @@ due_date: 2022-11-09
 
 ### A. [40pts] Written Portion (In Class) 
 To be administered during your regularly scheduled class time. Open notes, closed computer.
+* <a href="https://docs.google.com/document/d/1Jr08fZM4NRABvS_SE9qA6Y-UALyQQaO0vngnQjD8akk/edit?usp=sharing" target="_blank">Quiz 2 Solutions</a>
 
 ### B. [60pts] Computer-Based Portion (Take Home)
 Please download the starter files (below) and complete the 3 sets of tasks described below. Read the instructions that are outlined under each task **very carefully.** You must complete each exercise exactly as the instructions indicate to receive full credit. Otherwise, you will receive partial credit for the parts you correctly completed.
 
-<a href="/fall2022/course-files/quizzes/quiz02.zip" class="nu-button">Quiz 2 Starter Files <i class="fas fa-download"></i></a>
+<a href="/fall2022/course-files/quizzes/quiz02.zip" class="nu-button">Quiz 2 Starter Files <i class="fas fa-download"></i></a> <a href="/fall2022/course-files/quizzes/quiz02_answers.zip" class="button">Quiz 2 Solutions <i class="fas fa-download"></i></a>
 
 #### 1. [20pts] DOM Manipulation 
 Open the `exercise01` folder and add event handlers to all of the buttons. When a button is clicked, the image tag should display the corresponding animal (see the `images` folder), and there should be a label below the image describing the picture. When you're done, your page should look like the animation shown below:
