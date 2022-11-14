@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Social & Ethical Issues
+title: Final Project Q&A
 type: lecture
 draft: 1
 num: 25

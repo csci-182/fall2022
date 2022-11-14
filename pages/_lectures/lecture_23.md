@@ -1,10 +1,10 @@
 ---
 layout: module
-title: "Practice working with REST APIs: Spotify"
+title: "Practice working with REST APIs: Spotify Continued"
 type: lecture
-draft: 1
+draft: 0
 num: 23
 due_date: 2022-11-16
 ---
 
-Spotify
+Today, we'll continue working on HW5 as a group.

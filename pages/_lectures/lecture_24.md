@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Practice working with REST APIs: Spotify  (Cont'd)"
+title: "Spotify Wrap-Up + Final Project Workshopping"
 type: lecture
 draft: 1
 num: 24
