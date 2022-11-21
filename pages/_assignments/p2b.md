@@ -6,7 +6,7 @@ type: project
 due_date: 2022-11-21
 ordering: 3 
 points: 10
-draft: 1
+draft: 0
 ---
 
 ## Overview
@@ -18,7 +18,7 @@ Your submission for this week’s deliverable should consist of two parts:
 This is an opportunity for you to reflect on your accomplishments, and consider how you can best use the remaining time that you have to come to a reasonable stopping point for your project.
 
 ## 1. Code & Designs [6pts]
-Please share something that best represents your progress thus far. This could be a link to your your GitHub repository, a screenshot of your code (or some attachments), drawings of your screens, a Figma mockup, etc.
+Please share something that best represents your progress thus far. This could be a link to your your GitHub repository, a screenshot of your code (or some attachments), drawings of your screens, a mockup, etc. The code / designs you share should reflect 4-6 hours of work.
 
 {:.blockquote-no-margin}
 > ### Side note
@@ -38,5 +38,9 @@ What will you turn in for your final deliverable. Please describe what you plan 
 Given your experience this week, are you on track to deliver on what you proposed last week? If not, what adjustments to the scope of your project are you planning to make?
 
 ## What to Turn In
-asdasdas
+Please upload a file (either a text document or a zip file) that includes:
+
+1. [6pts] Your code and/or design progress. Please share / upload something that represents your progress. This will probably include links to your repo / website, but it could also include drawings, etc. 
+
+1. [4pts] Your answers to the reflective questions.
 
