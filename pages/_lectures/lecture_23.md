@@ -15,7 +15,6 @@ videos:
       duration: "1:15:07"
       live: 1
 
-
 ---
 
 Today, we'll continue working on HW5 as a group.
