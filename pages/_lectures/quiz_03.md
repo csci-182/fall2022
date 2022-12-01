@@ -1,5 +1,5 @@
 ---
-layout: module
+layout: two-column
 title: "Quiz 3: All course content"
 type: quiz
 draft: 0
