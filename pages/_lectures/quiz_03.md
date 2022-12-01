@@ -2,7 +2,7 @@
 layout: module
 title: "Quiz 3: All course content"
 type: quiz
-draft: 1
+draft: 0
 num: 3
 due_date: 2022-12-02
 ---
@@ -65,9 +65,11 @@ Please download the starter files (below) and complete the 3 sets of tasks descr
 <a href="/fall2022/course-files/quizzes/quiz03.zip" class="nu-button">Quiz 3 Starter Files <i class="fas fa-download"></i></a>
 
 #### 1. [20pts] DOM Manipulation 
-Open the `exercise01` folder and add a way to make sentences using buttons.
+Open the `exercise01` folder and add click event handlers to all of the div tags. When a div element is clicked, its background should change color (pick any color you like).When you’re done, your page should look like the animation shown below:
 
-TBD.
+
+<img class="medium frame" src="/fall2022/assets/images/quizzes/quiz03/exercise01.gif" />
+
 
 #### 2. [20pts] Functions
 Open the `exercise02` folder and create a function called `drawMonster` that draws a picture of a monster as pictured below. The function should have the following parameters defined (in order):

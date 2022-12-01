@@ -1,20 +1,25 @@
-function showFox() {
-    // your code here...
-    console.log('Change image and paragraph to fox...');
+function color1() {
+    // target the element with the id of square1
+    // and change its background color...
 }
 
-function showLion() {
-    // your code here...
-    console.log('Change image and paragraph to lion...');
+function color2() {
+    // target the element with the id of square2
+    // and change its background color...
 }
 
-function showTiger() {
-    // your code here...
-    console.log('Change image and paragraph to tiger...');
+function color3() {
+    // TODO
 }
 
-function showZebra() {
-    // your code here...
-    console.log('Change image and paragraph to zebra...');
+function color4() {
+    // TODO
 }
 
+function color5() {
+    // TODO
+}
+
+function color6() {
+    // TODO
+}
