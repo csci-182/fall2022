@@ -50,7 +50,7 @@ To study for the quiz, please review the following:
 * Course slides, videos, readings, and sample code.
 * <a href="https://docs.google.com/document/d/1mXB25SyI29fQJAZzvKZthITJbmSjcBAqJTPrSUo-ZOo/edit?usp=sharing" target="_blank">Study Guide</a>
 * <a href="https://docs.google.com/document/d/1m2GEY24tFEKS-dF_-RdwV9KygkTGIr1gV7zVlabpjG4/edit?usp=sharing" target="_blank">Sample Problems</a> (for the in-class, written portion of the quiz).
-* [Quiz 3](quiz-03)
+* [Quiz 2](quiz-02)
 
 Please also become very comfortable with the exercises from [Tutorial 12](../assignments/tutorial12) (for the take-home portion of the quiz).
 
@@ -101,18 +101,22 @@ drawMonster(550, 200, 250, '#7fb285', false);
 
 #### 3. [20pts] Loops + Conditionals
 
-Open the `exercise03` folder. Inside of `main.js`, write a program, using any kind of loop you want, that outputs all of the **CSCI courses** that are offered in the Spring of 2023. 
+Open the `exercise03` folder and examine all of the files. Inside of `main.js`, there is a `fetchCourses` function (already built for you) that fetches all of the UNCA course offerings for Spring, 2023: (<a href="https://meteor.unca.edu/registrar/class-schedules/api/v1/courses/2023/spring/">here</a>). Note that by modifying the year or term in the URL string, you can also view course offerings from previous semesters. 
+
+##### Your job
+1. Modify the *function body* of the `displayResults(courses)` function so that it outputs to the `#results` element only courses that offered within the **CSCI department.** You may use any kind of loop that you like.
+2. Ensure that your HTML snippet displays the following information for each course (using a template literal like we did in `HW5`):
+    * Title
+    * Instructor
+    * Location
+    * Days (i.e., which days does the course meet?)
+3. Location and Days may be `null`. That's OK for this exercise (though in real life, you'd probably want to output a friendlier message).
 
 <img class="large frame" src="/fall2022/assets/images/quizzes/quiz03/exercise03.png" />
 
 **Hints**
 * Loop through the `courses` array.
-* If the current course's `Department` property is "CSCI", then insert an HTML representation of the course into the `<div class="results"></div>` container. Specifically, you will display the following information about each course:
-    * Title
-    * Instructor
-    * Location
-    * Days (i.e., which days does the course meet?)
-* Use a template literal. 
+* If the current course's `Department` property is "CSCI", then insert an HTML representation of the course into the `<div class="results"></div>` container. 
 * Partial credit will be given.
 * We went over this in Lectures 19-20.
 * A sample of the HTML representation of a course is shown below, and also in `exercise03/template.html`:
@@ -131,5 +135,6 @@ Open the `exercise03` folder. Inside of `main.js`, write a program, using any ki
 ## What to Submit
 Please doublecheck to make sure you've completed the 3 tasks described above. When you're done:
 
-1. Zip your entire `quiz03` folder that contains a **COMPLETED** version of the tasks. In other words, don't accidentally submit the starter files or you will not receive any credit for the quiz.
+1. Zip your entire `quiz03` folder that contains a **COMPLETED** version of the tasks. 
+    * **DO NOT** accidentally submit the starter files or you will not receive any credit for the quiz. 
 2. Upload the `quiz03.zip` you just made to the course Moodle under **Quiz 3.**
