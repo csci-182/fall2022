@@ -73,11 +73,11 @@ Open the `exercise01` folder and add click event handlers to all of the div tags
 
 #### 2. [20pts] Functions
 Open the `exercise02` folder and create a function called `drawMonster` that draws a picture of a monster as pictured below. The function should have the following parameters defined (in order):
-1. `x` (number) -- the x-coordinate of the center of the circle(s).
-2. `y` (number) -- the y-coordinate of the center of the circle(s).
-3. `size` (number) -- the diameter of the larger circle. 
+1. `x` (number) -- the x-coordinate of the center of the square(s).
+2. `y` (number) -- the y-coordinate of the center of the square(s).
+3. `size` (number) -- the width of the larger square. 
 4. `color` (number) -- the color of the monster's face.
-5. `isSurprised` (boolean) -- whether or not the creature should look surprised
+5. `isSurprised` (boolean) -- whether or not the monster should look surprised
 
 If the argument for `isSurprised` is set to true, a "surprised mouth" should be drawn (smaller). Otherwise, a "regular mouth" should be drawn. When I invoke your function as follows (within the `setup()` function)...
 
