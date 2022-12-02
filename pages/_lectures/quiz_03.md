@@ -81,7 +81,6 @@ Open the `exercise02` folder and create a function called `drawMonster` that dra
 
 If the argument for `isSurprised` is set to true, a "surprised mouth" should be drawn (smaller). Otherwise, a "regular mouth" should be drawn. When I invoke your function as follows (within the `setup()` function)...
 
-* **Implementation suggestion (optional):** Use the **`rectMode(CENTER);`** statement to get Tthe `rect()` function to behave similarly to the `circle()` function (in terms of how the rectangle is positioned). You can read more about rectMode <a href="https://p5js.org/reference/#/p5/rectMode" target="_blank">here</a>. 
 
 ```js
 drawMonster(100, 100, 150, '#0bc9cd', false);
@@ -94,6 +93,8 @@ drawMonster(550, 200, 250, '#7fb285', false);
 ...the image pictured below should be drawn to the screen:
 
 <img class="medium frame" src="/fall2022/assets/images/quizzes/quiz03/exercise02.png" />
+
+* **Implementation suggestion (optional):** Use the **`rectMode(CENTER);`** statement to get Tthe `rect()` function to behave similarly to the `circle()` function (in terms of how the rectangle is positioned). You can read more about rectMode <a href="https://p5js.org/reference/#/p5/rectMode" target="_blank">here</a>. 
 
 
 #### 3. [20pts] Loops + Conditionals
