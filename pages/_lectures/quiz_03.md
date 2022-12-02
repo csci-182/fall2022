@@ -94,7 +94,9 @@ drawMonster(550, 200, 250, '#7fb285', false);
 
 <img class="medium frame" src="/fall2022/assets/images/quizzes/quiz03/exercise02.png" />
 
-* **Implementation suggestion (optional):** Use the **`rectMode(CENTER);`** statement to get Tthe `rect()` function to behave similarly to the `circle()` function (in terms of how the rectangle is positioned). You can read more about rectMode <a href="https://p5js.org/reference/#/p5/rectMode" target="_blank">here</a>. 
+**Implementation suggestions (optional):** 
+* Use p5.js's built-in <a href="https://p5js.org/reference/#/p5/rect">rect function</a>.
+* If you include this statement, **`rectMode(CENTER);`** the `rect()` function will treat the x- and y-coordinates as the center of the rectangle (instead of as the top left-hand corner). You can read more about rectMode <a href="https://p5js.org/reference/#/p5/rectMode" target="_blank">here</a>. 
 
 
 #### 3. [20pts] Loops + Conditionals
