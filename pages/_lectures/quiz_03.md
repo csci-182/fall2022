@@ -65,7 +65,7 @@ Please download the starter files (below) and complete the 3 sets of tasks descr
 <a href="/fall2022/course-files/quizzes/quiz03.zip" class="nu-button">Quiz 3 Starter Files <i class="fas fa-download"></i></a>
 
 #### 1. [20pts] DOM Manipulation 
-Open the `exercise01` folder and add click event handlers to all of the div tags. When a div element is clicked, its background should change color (pick any color you like).When you’re done, your page should look like the animation shown below:
+Open the `exercise01` folder and add click event handlers to all of the div tags. When a div element is clicked, its background should change color (pick any color you like). When you’re done, your page should look like the demo shown below:
 
 
 <img class="medium frame" src="/fall2022/assets/images/quizzes/quiz03/exercise01.gif" />
