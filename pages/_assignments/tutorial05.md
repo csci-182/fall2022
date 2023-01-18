@@ -15,7 +15,8 @@ due_date: 2022-09-16
     }
 </style>
 
-<a href="/fall2022/course-files/tutorials/tutorial05.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a> <a href="/fall2022/course-files/tutorials/tutorial05_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a> <a href="https://drive.google.com/file/d/1wcFfsEN_2gXQyPd_gQJbiYQKpnTm44Xx/view?usp=sharing" class="button" target="_blank">Video Recording</a> 
+<a href="/fall2022/course-files/tutorials/tutorial05.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a> 
+<!-- <a href="/fall2022/course-files/tutorials/tutorial05_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a> <a href="https://drive.google.com/file/d/1wcFfsEN_2gXQyPd_gQJbiYQKpnTm44Xx/view?usp=sharing" class="button" target="_blank">Video Recording</a>  -->
 
 Today will be our last day of formal HTML & CSS instruction, though you will still be using both HTML and CSS for the duration of the course. Specifically, we will explore a few ways of enhancing your visual design using some additional HTML5 language features (audio, video, geolocation) and CSS properties (background effects, pseudoclasses, transitions, and keyframes). 
 

@@ -21,7 +21,8 @@ This tutorial is a practice quiz, and is intended to help you prepare for the qu
 * To get credit for this tutorial, you must successfully complete at least half of the exercises below.
 * Please download the starter files and save them in your `csci185/tutorials` folder:
 
-<a href="/fall2022/course-files/tutorials/tutorial04.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a> <a href="/fall2022/course-files/tutorials/tutorial04_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a>
+<a href="/fall2022/course-files/tutorials/tutorial04.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a> 
+<!-- <a href="/fall2022/course-files/tutorials/tutorial04_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a> -->
 
 ## Part 1: HTML & CSS
 In Part 1, you are going to build the webpage pictured below:

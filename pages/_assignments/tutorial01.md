@@ -23,7 +23,8 @@ Download and install Visual Studio Code: <a href="https://code.visualstudio.com/
 * This does not need to be done if you are working on the computer lab computers -- just if you're working on your laptop.
 
 ### 2. Organize your files
-<a href="/fall2022/course-files/tutorials/tutorial01.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a> <a href="/fall2022/course-files/tutorials/tutorial01_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a>
+<a href="/fall2022/course-files/tutorials/tutorial01.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a> 
+<!-- <a href="/fall2022/course-files/tutorials/tutorial01_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a> -->
 
 File management and organization are an essential part of programming and web development. As such, we suggest the following system:
 1. Create a course folder called **csci185** somewhere on your computer. Many people store theirs in Documents or on their Desktop.

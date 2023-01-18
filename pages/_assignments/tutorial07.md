@@ -23,11 +23,11 @@ due_date: 2022-09-30
     }
 </style>
 
-{:.update}
+<!-- {:.update}
 > ## Solutions & Video Walkthrough
 > * [Solutions](/fall2022/course-files/tutorials/tutorial07_answers.zip)
 > * <a href="https://drive.google.com/file/d/1l0D-_S1C3l37LHR0SVbH3QYMhZ4sl8Ft/view?usp=sharing" target="_blank">Video Walkthrough</a>
-
+ -->
 
 <a href="/fall2022/course-files/tutorials/tutorial07.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
 

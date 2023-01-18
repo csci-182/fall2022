@@ -12,7 +12,8 @@ due_date: 2022-10-14
 
 <a class="nu-button" href="/fall2022/course-files/tutorials/tutorial09.zip" target="_blank">
     Tutorial Starter Files <i class="fas fa-download"></i>
-</a>  <a href="/fall2022/course-files/tutorials/tutorial09_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a>
+</a>  
+<!-- <a href="/fall2022/course-files/tutorials/tutorial09_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a> -->
 
 <img class="module-image" src="/fall2022/assets/images/tutorials/tutorial09/heart.png" />In this tutorial, you are going to design a customizable function that creates an image of **any** pixel art that can be represented as rows and columns of integers. The data structure that we will use to store these rows and columns of integers will be a "list of list" (see below). The purpose of this exercise is to help you feel a little bit more comfortable with list, iteration, and functions. In addition to pixel art, many different kinds of entities can also be expressed using similar data formats (JPEG images, songs, DNA sequences, whatever).
 
